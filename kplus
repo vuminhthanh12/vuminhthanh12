@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
-http://113.177.113.147:4022/rtp/32.84.1.38:8202
+http://113.177.113.147:4022/rtp/232.84.1.122:10314 
 #EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
 http://113.177.113.147:4022/rtp/232.84.1.33:8172
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (HD 9Mbps)
