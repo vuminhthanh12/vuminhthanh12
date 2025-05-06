@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTINF:0 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football (HD 8.5Mbps)
+#EXTINF:-1 id-xtream="42852" tvg-id="vtvcab16hd" plan="VIP,K+,VN" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football (HD 8.5Mbps)
 http://113.177.113.147:4022/rtp/232.84.3.243:11380
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
 http://113.177.113.147:4022/rtp/232.84.1.122:10314 
