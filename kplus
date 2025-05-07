@@ -11,3 +11,13 @@ http://113.177.113.147:4022/rtp/232.84.1.37:8196
 http://113.177.113.147:4022/rtp/232.84.1.34:8178
 #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (HD 9Mbps)
 http://113.177.113.147:4022/rtp/232.84.3.42:11800
+#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine
+http://113.177.113.147:4022/rtp/232.84.1.96:8550
+#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action
+http://113.177.113.147:4022/rtp/232.84.1.97:8556
+#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1
+http://113.177.113.147:4022/rtp/232.84.1.98:8562
+#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2
+http://113.177.113.147:4022/rtp/232.84.1.131:10368
+#EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
+http://113.177.113.147:4022/rtp/232.84.3.43:11794
