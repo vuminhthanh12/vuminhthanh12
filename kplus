@@ -5,10 +5,10 @@ http://113.176.42.143:9876/rtp/232.84.3.78:11584
 http://113.176.42.143:9876/rtp/232.84.3.77:11590
 #EXTINF:-1 id-xtream="24646" tvg-id="onsports" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" group-title="VTVcab", ON Sports (HD 8.5Mbps)
 http://113.176.42.143:9876/rtp/232.84.3.242:11374
-#EXTINF:-1 id-xtream="42852" tvg-id="onfootball" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" group-title="VTVcab",ON Football (HD 8.5Mbps)
-http://113.177.113.147:4022/rtp/232.84.3.243:11380
 #EXTINF:-1 id-xtream="50929" tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg"  catchup="append" catchup-days="2" catchup-source="/catchup/435/${start}/${end}", ON Movies (HD 8.5Mbps)
 http://113.176.42.143:9876/rtp/232.84.2.190:10924
+#EXTINF:-1 id-xtream="42852" tvg-id="onfootball" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" group-title="VTVcab",ON Football (HD 8.5Mbps)
+http://113.177.113.147:4022/rtp/232.84.3.243:11380
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
 http://113.177.113.147:4022/rtp/232.84.1.122:10314 
 #EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
