@@ -9,7 +9,8 @@ http://113.177.113.147:4022/rtp/232.84.3.242:11374
 http://113.177.113.147:4022/rtp/232.84.2.190:10924
 #EXTINF:-1 id-xtream="11211" tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/202/${start}/${end}", ON EChannel (HD 8Mbps)
 http://113.177.113.147:4022/rtp/232.84.3.76:11596
-#EXTINF:-1 id-xtream="63793" tvg-id="vtvcab6hd" plan="VIP,K+,VN" tvg-logo="https://i.imgur.com/UNxM1Hs.jpeg" group-title="VTVcab",
+#EXTINF:-1 id-xtream="63793" tvg-id="vtvcab6hd" plan="VIP,K+,VN" tvg-logo="https://i.imgur.com/UNxM1Hs.jpeg" group-title="VTVcab", ON Sports+ (HD 8Mbps)
+http://113.177.113.147:4022/rtp/232.84.3.75:11602
 #EXTINF:-1 id-xtream="42852" tvg-id="onfootball" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" group-title="VTVcab",ON Football (HD 8.5Mbps)
 http://113.177.113.147:4022/rtp/232.84.3.243:11380
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
