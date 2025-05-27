@@ -21,7 +21,8 @@ http://14.243.129.9:44334/rtp/232.84.3.73:11614
 http://14.243.129.9:44334/rtp/232.84.3.72:11620
 #EXTINF:-1 id-xtream="36266" tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/206/${start}/${end}",  Style TV (HD 8Mbps)
 http://14.243.129.9:44334/rtp/232.84.3.71:11626
-#EXTINF:-1 id-xtream="36266" tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png  catchup="append" catchup-days="2" catchup-source="/catchup/439/${start}/${end}", 
+#EXTINF:-1 id-xtream="36266" tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png  catchup="append" catchup-days="2" catchup-source="/catchup/439/${start}/${end}",  Music (HD 8Mbps)
+http://14.243.129.9:44334/rtp/232.84.3.70:11632
 #EXTINF:-1 id-xtream="42852" tvg-id="onfootball" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" group-title="VTVcab",ON Football (HD 8.5Mbps)
 http://14.243.129.9:44334/rtp/232.84.3.243:11380
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
