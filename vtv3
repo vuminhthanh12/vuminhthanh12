@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTINF:-1 id-xtream="85268" tvg-id="vtv3hd" group-title="VTV (50fsp)" tvg-logo="https://i.imgur.com/7rLCvgS.png" catchup="append" catchup-days="2" catchup-source="/catchup/211/${start}/${end}",VTV3 (TV360)
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WnlhSXcrdGdVTE1QNnR0ZTJpaFJqWWVuL1hFQ2xwUDQ4VzFXcnZrOE9sRVZJM0NyZWJOZWlZVEE1ZU1CNGdNVVZkbVpNUk5oUjlURXRGaWx0YWpRNFE=/vuminhthanh/abc1234/playlist.mpegts
