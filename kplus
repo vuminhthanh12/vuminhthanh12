@@ -23,11 +23,12 @@ http://14.243.129.9:44334/rtp/232.84.3.72:11620
 http://14.243.129.9:44334/rtp/232.84.3.71:11626
 #EXTINF:-1 id-xtream="36266" tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png"  catchup="append" catchup-days="2" catchup-source="/catchup/439/${start}/${end}", ON Music (HD 8Mbps)
 http://14.243.129.9:44334/rtp/232.84.3.70:11632
-#EXTINF:-1 id-xtream="42852" tvg-id="onfootball" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" group-title="VTVcab",ON Football (HD 8.5Mbps)
+#EXTINF:-1 id-xtream="42852" tvg-id="onfootball" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" group-title="VTVcab", ON Football (HD 8.5Mbps)
 http://14.243.129.9:44334/rtp/232.84.3.243:11380
 #EXTINF:0 id-xtream="12933" tvg-id="vtvcab17hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON Trending TV (HD 8Mbps)
 http://14.243.129.9:44334/rtp/232.84.3.69:11638
-#EXTINF:-1 id-xtream="44545" tvg-id="vtvcab18hd" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" group-title="VTVcab",
+#EXTINF:-1 id-xtream="44545" tvg-id="vtvcab18hd" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" group-title="VTVcab", ON Sports News (HD 8Mbps)
+http://14.243.129.9:44334/rtp/232.84.2.193:10942
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
 http://14.243.129.9:44334/rtp/232.84.1.122:10314 
 #EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
