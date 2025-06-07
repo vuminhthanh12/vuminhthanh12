@@ -65,8 +65,8 @@ http://xplatinmedia.com:8080/live/%40BenStream3/gdfkgkjdnjfMzCwkbQsHyAt/172146.t
 http://xplatinmedia.com:8080/live/%40BenStream3/gdfkgkjdnjfMzCwkbQsHyAt/172147.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Polsat_Sport_1_2024.svg", Polsat Sport 1 
-http://217.156.66.36:8080/live/c77a5914/cd600797bc/356.ts
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/250px-Polsat_Sport_1_2024.svg.png", Polsat Sport 1 
+http://xplatinmedia.com:8080/live/%40BenStream3/gdfkgkjdnjfMzCwkbQsHyAt/52571.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p1q77RO.png" group-title="⚽| SPOTV",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
