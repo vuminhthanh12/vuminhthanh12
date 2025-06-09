@@ -683,7 +683,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://www.dafont.com/forum/attach/orig/4/4/442855.png?1", Boomerang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://xplatinmedia.com:8080/live/%40BenStream3/gdfkgkjdnjfMzCwkbQsHyAt/51480.ts
+http://217.156.66.36:8080/live/c77a5914/cd600797bc/146932.ts
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://freight.cargo.site/w/1200/i/3cf72163d993c4d87263e6d4990ec4ccdd1e14b09ce89e6e35dee1de83ef4985/CN.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
