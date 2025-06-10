@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTINF:-1 group-title="VÒNG LOẠI CUỐI ASIAN CUP 2027" tvg-logo="
+https://events.vtvdigital.vn/livestream/thethao-720p.m3u8
 #EXTINF:-1 group-title="VÒNG LOẠI THỨ 3 WORLD CUP 2026 KHU VỰC CHÂU Á" tvg-logo="https://static.bongda24h.vn/medias/original/2025/06/02/tructiep_nhatban_indo-0206143534.jpg", Nhật Bản vs Indonesia
 https://rg.hoangducanh.site/sportdgt
 #EXTINF:-1 group-title="VÒNG LOẠI THỨ 3 WORLD CUP 2026 KHU VỰC CHÂU Á" tvg-logo="https://static.bongda24h.vn/medias/amp/2025/06/07/nhan-dinh-bong-da-du-doan-han-quoc-vs-kuwait-vong-loai-world-cup-hom-nay-0706064414.jpg", Hàn Quốc vs Kuwait
