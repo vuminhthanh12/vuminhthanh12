@@ -1,22 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
-#EXTINF:-1 group-title="VÒNG LOẠI THỨ 3 WORLD CUP 2026 KHU VỰC CHÂU Á" tvg-logo="https://static.bongda24h.vn/medias/original/2025/06/02/tructiep_nhatban_indo-0206143534.jpg", Nhật Bản vs Indonesia
-https://rg.hoangducanh.site/sportdgt
-#EXTINF:-1 group-title="VÒNG LOẠI THỨ 3 WORLD CUP 2026 KHU VỰC CHÂU Á" tvg-logo="https://static.bongda24h.vn/medias/amp/2025/06/07/nhan-dinh-bong-da-du-doan-han-quoc-vs-kuwait-vong-loai-world-cup-hom-nay-0706064414.jpg", Hàn Quốc vs Kuwait
+#EXTINF:-1 group-title="VÒNG LOẠI WORLD CUP 2026 KHU VỰC NAM MỸ" tvg-logo="", Argentina vs Colombia
 https://263.org.vn/astrofootball
-#EXTINF:-1 group-title="VÒNG LOẠI THỨ 3 WORLD CUP 2026 KHU VỰC CHÂU Á" tvg-logo="https://static.bongda24h.vn/medias/original/2025/06/09/z6688186833259_5f7715986ed7b649a5a4e4166f4150fb-0906184811.jpg", Trung Quốc vs Bahrain
-https://263.org.vn/novasport
-#EXTINF:-1 group-title="VÒNG LOẠI THỨ 3 WORLD CUP 2026 KHU VỰC CHÂU Á" tvg-logo="https://static.bongda24h.vn/medias/original/2025/06/07/nhan-dinh-bong-da-du-doan-kyrgyzstan-vs-uae-vong-loai-world-cup-hom-nay-0706064415.jpg", Kyrgyzstan vs UAE
-https://263.org.vn/novasport
-#EXTINF:-1 group-title="VÒNG LOẠI THỨ 3 WORLD CUP 2026 KHU VỰC CHÂU Á" tvg-logo="https://static.bongda24h.vn/medias/original/2025/06/07/nhan-dinh-bong-da-du-doan-uzbekistan-vs-qatar-vong-loai-world-cup-hom-nay-0706064414.jpg", Uzbekistan vs Qatar
-https://rg.hoangducanh.site/sportdgt
-#EXTINF:-1 group-title="VÒNG LOẠI THỨ 3 WORLD CUP 2026 KHU VỰC CHÂU Á" tvg-logo="https://static.bongda24h.vn/medias/amp/2025/06/09/soi-keo-iran-vs-chdcnd-trieu-tien-vl-world-cup-0906185116.jpg", Iran vs Triều Tiên
-https://263.org.vn/novasport
-#EXTINF:-1 group-title="VÒNG LOẠI THỨ 3 WORLD CUP 2026 KHU VỰC CHÂU Á" tvg-logo="https://static.bongda24h.vn/medias/original/2025/06/09/soi-keo-palestine-vs-oman-vl-world-cup-0906072020.jpg", Palestine vs Oman
-https://263.org.vn/beinsport2
-#EXTINF:-1 group-title="VÒNG LOẠI THỨ 3 WORLD CUP 2026 KHU VỰC CHÂU Á" tvg-logo="https://static.bongda24h.vn/medias/original/2025/06/07/nhan-dinh-bong-da-du-doan-jordan-vs-iraq-vong-loai-world-cup-hom-nay-0706064413.jpg", Jordan vs Iraq
-https://263.org.vn/arenasport9
-#EXTINF:-1 group-title="VÒNG LOẠI THỨ 3 WORLD CUP 2026 KHU VỰC CHÂU Á" tvg-logo="https://static.bongda24h.vn/medias/amp/2025/06/07/nhan-dinh-bong-da-du-doan-saudi-arabia-vs-austrlia-vong-loai-world-cup-hom-nay-0706064413.jpg", Saudi Arabia vs Australia
-https://rg.hoangducanh.site/sportdgt
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyspnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_sports_news_2021_logo.svg/1200px-Sky_sports_news_2021_logo.svg.png",Sky Sports News
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sport F1
