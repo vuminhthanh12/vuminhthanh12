@@ -1,3 +1,0 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
-#EXTINF:-1 id-xtream="85268" tvg-id="vtv3hd" group-title="VTV (50fsp)" tvg-logo="https://i.imgur.com/7rLCvgS.png" catchup="append" catchup-days="2" catchup-source="/catchup/211/${start}/${end}",VTV3 (TV360)
-https://ec03-pop2-hkh.tv360.vn/bpk-token/bhwhs5hy7rvhjqnmumdqr3dzoqe6y6lu/bpk-tv/155/output/155-audio_133600_eng=131600-video=3621600.m3u8
