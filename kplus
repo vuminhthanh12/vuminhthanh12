@@ -31,7 +31,8 @@ http://14.227.223.78:12343/rtp/232.84.3.69:11638
 http://14.227.223.78:12343/rtp/232.84.2.193:10942
 #EXTINF:-1 id-xtream="19216" tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" , ON Vie Dramas (HD 8.5Mbps)
 http://14.227.223.78:12343/rtp/232.84.3.218:11230
-#EXTINF:-1 id-xtream="35271" tvg-id="vtvcab20hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp" catchup="append" catchup-days="2" catchup-source="/catchup/241/${start}/${end}", 
+#EXTINF:-1 id-xtream="35271" tvg-id="vtvcab20hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp" catchup="append" catchup-days="2" catchup-source="/catchup/241/${start}/${end}", ON VFamily (HD 8Mbps)
+http://14.227.223.78:12343/rtp/232.84.3.68:11644
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
 http://14.227.223.78:12343/rtp/232.84.1.122:10314 
 #EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
