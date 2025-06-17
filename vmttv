@@ -722,7 +722,7 @@ https://263.org.vn/bbcearth
 http://217.156.66.36:8080/live/c77a5914/cd600797bc/264747.ts
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch502_425_305" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle (Dự Phòng)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+https://263.org.vn/bbcearthhd
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
