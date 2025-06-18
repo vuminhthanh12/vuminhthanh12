@@ -782,7 +782,7 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 http://217.156.66.36:8080/live/c77a5914/cd600797bc/197968.ts
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://s129135.cdn.mytvnet.vn/vimages/a5/59/9a/a3/39/9c/a59a3-pdiscoveryasiahd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia (Dự Phòng)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+https://263.org.vn/discoveryasia
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://toh-pan.xyz:8080/live/Bingbrown11/7066263203/856843.ts
