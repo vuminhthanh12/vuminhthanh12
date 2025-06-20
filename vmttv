@@ -87,7 +87,7 @@ http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/147031.ts
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/147034.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Polsat_Sport_Premium_5_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_5_PPV_Poziome_2021.svg.png", Polsat Sport Premium 5 PPV
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/147035.ts
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Polsat_Sport_Premium_6_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_6_PPV_Poziome_2021.svg.png", Polsat Sport Premium 6 PPV
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Polsat_Sport_Premium_6_PPV_2021_gradient.svg/2560px-Polsat_Sport_Premium_6_PPV_2021_gradient.svg.png", Polsat Sport Premium 6 PPV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p1q77RO.png" group-title="⚽| SPOTV",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
