@@ -89,6 +89,8 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=1530213&e
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=1530214&extension=ts&play_token=rXnasyAqCm 
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Polsat_Sport_Premium_6_PPV_2021_gradient.svg/2560px-Polsat_Sport_Premium_6_PPV_2021_gradient.svg.png", Polsat Sport Premium 6 PPV
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=1530215&extension=ts&play_token=yPrBtvNS3g
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="", Max Sport 2 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=1862333&extension=ts&play_token=PIA2EqABkg
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
 http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/318167.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p1q77RO.png" group-title="⚽| SPOTV",SPOTV
