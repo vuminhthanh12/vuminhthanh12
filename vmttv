@@ -810,7 +810,7 @@ https://263.org.vn/axnhd
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298565.ts
 #EXTINF:0 tvg-id="blueantext" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/1Qd6pxW/Rock-Extreme.png" ,Rock Action
 #EXTVLCOPT:http-user-agent="KIIP"
-
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298490.ts
 #EXTINF:-1 tvg-id="outdoor" group-title="Quốc Tế" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_outdoor-channel_165649323545.png", Outdoor Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.TruyenHinh.Click/CoBan/outdoorhd/TuyetDoiKhongKinhDoanh
