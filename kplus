@@ -35,7 +35,7 @@ http://14.182.202.62:8989/rtp/232.84.3.218:11230
 http://14.182.202.62:8989/rtp/232.84.3.68:11644
 #EXTINF:-1 id-xtream="96150" tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp", ON Kids (HD 7Mbps)
 http://14.182.202.62:8989/rtp/232.84.3.41:11806 
-
+#EXTINF:-1 id-xtream="32686" tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg", 
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
 http://14.182.202.62:8989/rtp/232.84.1.122:10314 
 #EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
