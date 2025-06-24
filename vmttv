@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", TUDN
-https://263.org.vn/TUDN
+https://1.org.vn/TUDN
 #EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", Channel 5
-https://263.org.vn/Channel5
+https://1.org.vn/Channel5
 #EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", DAZN 1 France
-https://263.org.vn/dazn1fr
+https://1.org.vn/dazn1fr
 #EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", DAZN 1 DE
-https://263.org.vn/dazn1DE
+https://1.org.vn/dazn1DE
 #EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", SuperSport Premier League
 https://263.org.vn/supersportpl
 #EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", SuperSport 3
@@ -344,7 +344,7 @@ https://263.org.vn/sctv1
 https://sgchill.io.vn/360/201/index.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg", SCTV3 - SEE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://263.org.vn/sctv3
+https://1.org.vn/sctv3
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg", SCTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn
