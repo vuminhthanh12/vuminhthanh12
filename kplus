@@ -37,7 +37,8 @@ http://14.182.202.62:8989/rtp/232.84.3.68:11644
 http://14.182.202.62:8989/rtp/232.84.3.41:11806 
 #EXTINF:-1 id-xtream="32686" tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg", ON Life (HD 7Mbps)
 http://14.182.202.62:8989/rtp/232.84.3.40:11812
-#EXTINF:-1 id-xtream="57739" tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/02a45a6b-182e-4e4d-b75d-76ffae666cd6.jpeg?auto=format&fit=max&w=640",
+#EXTINF:-1 id-xtream="57739" tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/02a45a6b-182e-4e4d-b75d-76ffae666cd6.jpeg?auto=format&fit=max&w=640", ON Golf (HD 8.5Mbps)
+http://14.182.202.62:8989/rtp/232.84.3.244:11386
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
 http://14.182.202.62:8989/rtp/232.84.1.122:10314 
 #EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
