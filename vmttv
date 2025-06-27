@@ -332,7 +332,7 @@ https://sgchill.io.vn/360/169/index.m3u8
 http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/725255302?profile=pass
 #EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ACTION HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://wbd.x10.bz/tvmp/?id=14
+http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/2068866323?profile=pass
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+SPORT1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://wbd.x10.bz/tvmp/?id=12
