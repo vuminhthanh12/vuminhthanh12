@@ -808,7 +808,7 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=683142&ex
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Quốc Tế", Clubbingtv
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=1829549&extension=ts&play_token=Pep5fALXEa
 #EXTINF:0 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/4IkIBkIFApQMYml2sW7XAV21mye06E_X5HssA-WsCRYBHIxWP5BQFzq79t0P5T8MrVs" group-title="Quốc Tế", Filmbox
-
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:64:23:34&stream=1567844&extension=ts&play_token=CRxWHJe641
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s", Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://admin.vov.gov.vn/UploadFolder/KhoTin/Images/UploadFolder/VOVVN/Images/sites/default/files/2024-02/vov1.jpg", VOV1
