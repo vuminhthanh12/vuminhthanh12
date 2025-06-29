@@ -523,7 +523,7 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_640_360.png", THVL4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="angiang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728291944504/228bca10685a_640_360.png", ATV | Truyền Hình An Giang
+#EXTINF:-1 tvg-id="angiang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728291944504/228bca10685a_640_360.png", ATV2 | Truyền Hình Báo An Giang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.io.vn/360/35/index.m3u8
 #EXTINF:-1 tvg-id="baria" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_ba-ria-vung-tau_165655617345.png", BRT | Truyền Hình Bà Rịa Vũng Tàu
@@ -602,9 +602,9 @@ https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u
 #EXTINF:-1 tvg-id="bentre" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/I6oLJHyR8ec/hq720.jpg?", THBT HD | Truyền Hình Bến Tre
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgchill.io.vn/360/40/index.m3u8
-#EXTINF:-1 tvg-id="kiengiang" group-title="Địa phương" tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/01_Thumnail-Online_6dafe8689ab951045873d274141fbb4c.png", KG | Truyền Hình Kiên Giang
+#EXTINF:-1 tvg-id="kiengiang" group-title="Địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H4.png", ATV1 | Truyền Hình Báo An Giang
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-id="kiengiang1" group-title="Địa phương" tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg1.png", KG1 | Truyền Hình Kiên Giang
+#EXTINF:-1 tvg-id="kiengiang1" group-title="Địa phương" tvg-logo="lhttps://angiangtv.vn/wp-content/uploads/2025/06/H5.png", ATV3 | Truyền Hình Báo An Giang
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="langson" group-title="Địa phương" tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/video_bg.png", LSTV HD | Truyền Hình Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
