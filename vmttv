@@ -464,7 +464,7 @@ https://sgchill.io.vn/360/60/index.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png", THP+ HD - Truyền Hình Báo Hải Phòng
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/9832/index.m3u8
-#EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_THTPCT.png/1600px-Logo_THTPCT.png", THTPCT - Truyền Hình Báo Cần Thơ
+#EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png", THTPCT - Truyền Hình Báo Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.io.vn/360/84/index.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/STV2_HD_2018.png/revision/latest?cb=20210917012701&path-prefix=vi", STV2 HD | TH Sóc Trăng
