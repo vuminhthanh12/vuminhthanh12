@@ -545,10 +545,6 @@ https://sgchill.io.vn/360/65/index.m3u8
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822138872/5909565787c9_640_360.png", LA34 HD | Truyền Hình Long An
 https://sgchill.io.vn/360/72/index.m3u8
-#EXTINF:-1 tvg-id="binhphuoc1" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/18/16/1689672040687/f0a2472dd1f1_640_360.png", BPTV1 HD | Truyền Hình Bình Phước
-https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="binhphuoc2" group-title="Địa phương" tvg-logo="https://media.baobinhphuoc.com.vn/upload/video/large/tan_huong_cuoc_song_tuoi_dep_cung_bptv2_09053430062021.png", BPTV2 HD | Truyền Hình Bình Phước
-https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
 #EXTINF:-1 tvg-id="hoabinh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293186739/6b2a2ce3f086_640_360.png", HBTV HD | Truyền Hình Hòa Bình
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/62/index.m3u8
@@ -574,7 +570,7 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="langson" group-title="Địa phương" tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/video_bg.png", LSTV HD | Truyền Hình Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
-#EXTINF:-1 tvg-id="quangtri" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293912891/3682027a45f6_640_360.png", QRTV HD | Truyền Hình Quảng Trị
+#EXTINF:-1 tvg-id="quangtri" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Messenger_creation_1028039639376825.jpeg", QTTV - Truyền Hình Báo Quảng Trị
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgchill.io.vn/360/83/index.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/172829307440/d204250a163f_640_360.png", HTTV | Truyền Hình Hà Tĩnh
