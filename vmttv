@@ -600,7 +600,7 @@ https://live.canthotv.vn/live/tv_web/chunklist_w43906140.m3u8
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="", ĐNRT2 - Truyền Hình Báo Đà Nẵng
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+https://sgchill.io.vn/360/80/index.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/I6oLJHyR8ec/hq720.jpg?", THBT HD | Truyền Hình Bến Tre
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgchill.io.vn/360/40/index.m3u8
