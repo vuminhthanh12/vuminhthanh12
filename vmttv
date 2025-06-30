@@ -459,9 +459,9 @@ https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292546643/fe245b830b90_640_360.png", DRT HD | Truyền Hình Báo Đắk Lắk
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/51/index.m3u8
-#EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png", THP HD - Truyền Hình Hải Phòng 
+#EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png", THP HD - Truyền Hình Báo Hải Phòng 
 https://sgchill.io.vn/360/60/index.m3u8
-#EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png", THP+ HD | Truyền Hình Hải Phòng
+#EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png", THP+ HD - Truyền Hình Báo Hải Phòng
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/9832/index.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/18/16/1689671939266/395cd89718ef_640_360.png", STV1 HD - TH Sóc Trăng
@@ -472,9 +472,6 @@ https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1 tvg-id="sonla" group-title="Địa phương" tvg-logo="https://media.sonlatv.vn/upload/files/image/Back-TH-1.jpg", STV HD - Truyền Hình Sơn La
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
-#EXTINF:-1 tvg-id="quangbinh" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_quang-binh-tv_165655860835.png", QBTV HD | TH Quảng Bình
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://sgchill.io.vn/360/79/index.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/168417957456/7016ca1be5fa_640_360.png", PTV HD | TH Phú Thọ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgchill.io.vn/360/77/index.m3u8
@@ -502,7 +499,7 @@ https://sgchill.io.vn/360/89/index.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png", TTV HD | TH Thanh Hóa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://epg.pw/stream/3511cd6ce78dfe8c21b5dfde4b931265066d0a631f629d79af83e7936e6bde9f.m3u8
-#EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/1684179269120/8d50bc3e1f55_640_360.png", THD HD | TH Hải Dương
+#EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://haiduongtv.mediatech.vn/upload/files/logo/Logo_THP3_chuan.png", THP3 HD - Truyền Hình Báo Hải Phòng
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/59/index.m3u8
 #EXTINF:-1 tvg-id="quangninh" group-title="Địa phương" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/QTV1.jpg", QTV1 HD | Truyền Hình Quảng Ninh
