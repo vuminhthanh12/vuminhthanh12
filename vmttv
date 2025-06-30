@@ -527,7 +527,7 @@ https://sgchill.io.vn/360/94/index.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png", NBTV | Truyền Hình Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_640_360.png", NTV | Truyền Hình Nghệ An
-sgchill.io.vn/360/74/index.m3u8
+https://sgchill.io.vn/360/74/index.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/18/16/1689671794662/6aa80147b7af_640_360.png", TTV 11 | Truyền Hình Tây Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://118.69.83.22:1935/ttv11/tntv/playlist.m3u8
@@ -540,18 +540,11 @@ https://sgchill.io.vn/360/41/index.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_640_360.png", KTV HD | Truyền Hình Khánh Hòa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/65/index.m3u8
-#EXTINF:-1 tvg-id="komtum" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821953611/c9d0dd11d418_640_360.png", KRT | Truyền Hình Kom Tum
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế TV | Truyền Hình Thừa Thiên Huế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822138872/5909565787c9_640_360.png", LA34 HD | Truyền Hình Long An
 https://sgchill.io.vn/360/72/index.m3u8
-#EXTINF:-1 tvg-id="bacgiang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728291860265/828c628f03b3_640_360.png", BGTV HD | Truyền Hình Bắc Giang
-https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
-#EXTINF:-1 tvg-id="baccan" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/10/03/1683663256424/dff25f3c5022_640_360.png", TBK HD | TH Bắc Kạn
-https://xem.TruyenHinh.Click/CoBan/125/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="binhphuoc1" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/18/16/1689672040687/f0a2472dd1f1_640_360.png", BPTV1 HD | Truyền Hình Bình Phước
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="binhphuoc2" group-title="Địa phương" tvg-logo="https://media.baobinhphuoc.com.vn/upload/video/large/tan_huong_cuoc_song_tuoi_dep_cung_bptv2_09053430062021.png", BPTV2 HD | Truyền Hình Bình Phước
@@ -573,9 +566,6 @@ https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u
 #EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/DNRT2_logo.png", ĐNRT2 - Truyền Hình Báo Đà Nẵng
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/80/index.m3u8
-#EXTINF:-1 tvg-id="bentre" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/I6oLJHyR8ec/hq720.jpg?", THBT HD | Truyền Hình Bến Tre
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgchill.io.vn/360/40/index.m3u8
 #EXTINF:-1 tvg-id="kiengiang" group-title="Địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H4.png", ATV1 | Truyền Hình Báo An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
@@ -587,14 +577,9 @@ https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m
 #EXTINF:-1 tvg-id="quangtri" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293912891/3682027a45f6_640_360.png", QRTV HD | Truyền Hình Quảng Trị
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgchill.io.vn/360/83/index.m3u8
-#EXTINF:-1 tvg-id="yenbai" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/10/03/1683663142495/a13c2702eaf4_640_360.png", YTV HD | Truyền Hình Yên Bái
-https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/172829307440/d204250a163f_640_360.png", HTTV | Truyền Hình Hà Tĩnh
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/58/index.m3u8
-#EXTINF:-1 tvg-id="hagiang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823518969/f20a0af7325b_640_360.png", HGTV | Truyền Hình Hà Giang
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://sgchill.io.vn/360/56/index.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://bacninhtv.vn/images/thumbs/0000003315_a.png", BTV HD | Truyền Hình Bắc Ninh
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/39/index.m3u8
