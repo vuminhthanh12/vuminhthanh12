@@ -595,7 +595,7 @@ https://64d0d74b76158.streamlock.net:443/BTVTV/binhthuantv/chunklist_w1166505719
 #EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822208452/3282d8b7bcd2_640_360.png", THTPCT HD | Truyền Hình Thành Phố Cần Thơ
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.canthotv.vn/live/tv_web/chunklist_w43906140.m3u8
-#EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/29/17/1688032881225/1295179c46fd_640_360.png", Đà Nẵng TV 1 HD
+#EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="", ĐNRT1 - Truyền Hình Báo Đà Nẵng
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/788942-DN2.png", Đà Nẵng TV 2 HD
