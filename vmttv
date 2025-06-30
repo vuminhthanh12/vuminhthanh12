@@ -459,8 +459,6 @@ https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292546643/fe245b830b90_640_360.png", DRT HD | Truyền Hình Báo Đắk Lắk
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/51/index.m3u8
-#EXTINF:-1 tvg-id="daknong" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822006251/3956b92f8e0f_640_360.png", PTD | Truyền Hình Đắk Nông
-https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w361616628_b3128000_sleng.m3u8
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png", THP HD - Truyền Hình Hải Phòng 
 https://sgchill.io.vn/360/60/index.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png", THP+ HD | Truyền Hình Hải Phòng
@@ -638,8 +636,6 @@ https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1402655020.m3u8
 #EXTINF:-1 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/WQiM28vioXc/hq720.jpg", PTQ | Truyền Hình Quảng Ngãi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.io.vn/360/81/index.m3u8
-#EXTINF:-1 tvg-id="phuyen" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822072852/2c587ff8793c_640_360.png", PTP | Truyền Hình Phú Yên
-https://sgchill.io.vn/360/78/index.m3u8
 #EXTINF:-1 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294006586/8a758247ea33_640_360.png", THTG HD | Truyền Hình Tiền Giang
 https://sgchill.io.vn/360/90/index.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://tuyenquangtv.vn/images/logo-seo.png", TTV HD | Truyền Hình Tuyên Quang
