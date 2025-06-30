@@ -464,7 +464,7 @@ https://sgchill.io.vn/360/60/index.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png", THP+ HD - Truyền Hình Báo Hải Phòng
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/9832/index.m3u8
-#EXTINF:-1 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/18/16/1689671939266/395cd89718ef_640_360.png", STV1 HD - TH Sóc Trăng
+#EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_THTPCT.png/1600px-Logo_THTPCT.png", THTPCT - Truyền Hình Báo Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.io.vn/360/84/index.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/STV2_HD_2018.png/revision/latest?cb=20210917012701&path-prefix=vi", STV2 HD | TH Sóc Trăng
@@ -544,11 +544,6 @@ https://sgchill.io.vn/360/46/index.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822218536/1f7b8a33f2db_640_360.png", HGTV HD | Truyền Hình Hậu Giang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.io.vn/360/61/index.m3u8
-#EXTINF:-1 tvg-id="travinh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822191326/79178ff17a5b_640_360.png", THTV | Truyền Hình Trà Vinh
-https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist_w1042011176.m3u8
-#EXTINF:-1 tvg-id="travinh2" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/CtkJ0u_LZ2I/maxresdefault.jpg", THTV2 | Truyền Hình Trà Vinh
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist_w942016872.m3u8
 #EXTINF:-1 tvg-id="vinhphuc" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294049200/a8d936a04590_640_360.png", VP HD | Truyền Hình Vĩnh Phúc
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist_w13057166.m3u8
@@ -587,9 +582,6 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="Địa phương" tvg-logo="https://quantri.binhthuantv.vn/wp-content/uploads/2024/04/logo9-825x510-1.png", BTV HD | Truyền Hình Bình Thuận
 https://64d0d74b76158.streamlock.net:443/BTVTV/binhthuantv/chunklist_w1166505719.m3u8
-#EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822208452/3282d8b7bcd2_640_360.png", THTPCT HD | Truyền Hình Thành Phố Cần Thơ
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://live.canthotv.vn/live/tv_web/chunklist_w43906140.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/DNRT1_logo.png", ĐNRT1 - Truyền Hình Báo Đà Nẵng
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
