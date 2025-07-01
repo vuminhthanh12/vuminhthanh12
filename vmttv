@@ -576,7 +576,7 @@ https://sgchill.io.vn/360/58/index.m3u8
 #EXTINF:-1 tvg-id="bacgiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/BTVBACNINH.jpg", BTV - Truyền Hình Báo Bắc Ninh 
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://sgchill.io.vn/360/36/index.m3u8
-#EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://bacninhtv.vn/images/thumbs/0000003315_a.png", BTV -  Truyền Hình Báo Bắc Ninh
+#EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/BTVBACNINH.jpg", BTV -  Truyền Hình Báo Bắc Ninh
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/39/index.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292499129/aeb3499f5824_640_360.png", CRTV HD | Truyền Hình Cao Bằng
@@ -595,7 +595,7 @@ https://sgchill.io.vn/360/81/index.m3u8
 https://sgchill.io.vn/360/90/index.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://tuyenquangtv.vn/images/logo-seo.png", TTV HD | Truyền Hình Tuyên Quang
 https://sgchill.io.vn/360/92/index.m3u8
-#EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/18/15/1689667654284/19c2c1fa0682_640_360.png", TN - Truyền Hình Báo Thái Nguyên
+#EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/07/1751329966912/3ddadef93c24_640_360.png", TN - Truyền Hình Báo Thái Nguyên
 https://sgchill.io.vn/360/88/index.m3u8
 #EXTINF:-1 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823593760/3a9a9e608e8d_640_360.png", ĐTV HD | Truyền Hình Điện Biên
 https://sgchill.io.vn/360/52/index.m3u8
