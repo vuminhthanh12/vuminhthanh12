@@ -496,9 +496,6 @@ https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png", TTV HD | TH Thanh Hóa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/89/index.m3u8
-#EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png", TTV HD | TH Thanh Hóa
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://epg.pw/stream/3511cd6ce78dfe8c21b5dfde4b931265066d0a631f629d79af83e7936e6bde9f.m3u8
 #EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://haiduongtv.mediatech.vn/upload/files/logo/Logo_THP3_chuan.png", THP3 HD - Truyền Hình Báo Hải Phòng
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/59/index.m3u8
@@ -530,7 +527,7 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u
 https://sgchill.io.vn/360/74/index.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/18/16/1689671794662/6aa80147b7af_640_360.png", TTV 11 | Truyền Hình Tây Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://118.69.83.22:1935/ttv11/tntv/playlist.m3u8
+http://sgchill.io.vn/360/86/index.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg", CTV HD | Truyền Hình Cà Mau
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.io.vn/360/46/index.m3u8
