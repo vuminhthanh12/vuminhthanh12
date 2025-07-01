@@ -844,8 +844,6 @@ http://118.107.85.5:1935/radio/quangngai_aac/chunklist.m3u8
 http://103.90.220.236/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/254.png", QNR2 - Quảng Ninh
 http://103.90.220.236/qtvlive/qnr2.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/170.png", Quảng Trị
-http://103.90.220.236/qrtvlive/radio.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://media.sonlatv.vn/upload/files/image/Back-PT.jpg", Sơn La
 http://103.90.220.236/sltvlive/radio-transmux.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://trt.com.vn/frontend/home/images/bg_radio.jpg", Thừa Thiên Huế
