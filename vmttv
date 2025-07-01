@@ -537,7 +537,7 @@ https://sgchill.io.vn/360/46/index.m3u8
 #EXTINF:-1 tvg-id="binhdinh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292172475/7a2e8237dd1f_640_360.png", BTV | Truyền Hình Bình Định
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/41/index.m3u8
-#EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_640_360.png", KTV HD | Truyền Hình Khánh Hòa
+#EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_640_360.png", KTV HD - Truyền Hình Báo Khánh Hòa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/65/index.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế TV | Truyền Hình Thừa Thiên Huế
@@ -589,7 +589,7 @@ https://sgchill.io.vn/360/48/index.m3u8
 https://sgchill.io.vn/360/64/index.m3u8
 #EXTINF:-1 tvg-id="laichau" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_lai-chau_165649245279.png", LTV | Truyền Hình Lai Châu
 https://sgchill.io.vn/360/68/index.m3u8
-#EXTINF:-1 tvg-id="ninhthuan" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293733480/94e11f5757c3_640_360.png", NTV HD | Truyền Hình Ninh Thuận
+#EXTINF:-1 tvg-id="ninhthuan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV1.png", KTV1 HD - Truyền Hình Báo Khánh Hòa
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1402655020.m3u8
 #EXTINF:-1 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/WQiM28vioXc/hq720.jpg", PTQ | Truyền Hình Quảng Ngãi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -600,9 +600,6 @@ https://sgchill.io.vn/360/90/index.m3u8
 https://sgchill.io.vn/360/92/index.m3u8
 #EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/18/15/1689667654284/19c2c1fa0682_640_360.png", TN1 HD | Truyền Hình Thái Nguyên
 https://sgchill.io.vn/360/88/index.m3u8
-#EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/HznF_sGWV64/sddefault.jpg", THGL HD | Truyền Hình Gia Lai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgchill.io.vn/360/55/index.m3u8
 #EXTINF:-1 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823593760/3a9a9e608e8d_640_360.png", ĐTV HD | Truyền Hình Điện Biên
 https://sgchill.io.vn/360/52/index.m3u8
 #EXTINF:-1 tvg-id="laocai" group-title="Địa phương" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-thlc.png", THLC HD | Truyền Hình Lào Cai
