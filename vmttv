@@ -576,6 +576,8 @@ https://sgchill.io.vn/360/83/index.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/172829307440/d204250a163f_640_360.png", HTTV | Truyền Hình Hà Tĩnh
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/58/index.m3u8
+#EXTINF:-1 tvg-id="bacgiang" group-title="Địa phương" tvg-logo="
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://bacninhtv.vn/images/thumbs/0000003315_a.png", BTV HD | Truyền Hình Bắc Ninh
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/39/index.m3u8
