@@ -811,8 +811,6 @@ http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 https://64d0d74b76158.streamlock.net/THDTR/thdtradio/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://gialaitv.vn/data_news/images/audio12.gif", Gia Lai
 http://113.161.25.3:8134/hls/radio/radio.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/140.png", Hà Nam
-http://103.90.220.236/thhnlive/radio.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://dug0nmhkbevod.vcdn.cloud/MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110831/110832_z3846211079342_aa59839f019726c4b788c89d47e06ff5.jpg", Hà Nội FM 90
 https://1028513096.vnns.net/fm90/chunks.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://dug0nmhkbevod.vcdn.cloud/MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110840/110840_z3846211089905_39c77a676e0692f17b29aa41d76314a1.jpg", Hà Nội FM 96
@@ -832,8 +830,6 @@ http://210.245.20.94/hls/radio.m3u8
 https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/155.png", Lâm Đồng
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://beta.la34.com.vn/upload/files/logo/icon_app_long_an-38.png", Long An
-https://cdn.la34.com.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://langsontv.vn/templates/frontend/lstv/Assets/img/radio_bg.png", Lạng Sơn
 http://103.90.220.236/lstvlive/radio-transmux.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/154.png", Lai Châu
@@ -858,8 +854,6 @@ http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 http://media.mediatech.vn:1935/tntvlive/tnra/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://w.ladicdn.com/s450x400/5ec394fc3354ff26568e1124/logo-fm1031mhz-20211008162127.png", Tây Ninh
 http://202.43.109.142:1935/radio11/tnradio/chunklist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/FM96_2.jpg", Tiền Giang
-http://123.25.238.45:1935/live/radio/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/182.png", Tuyên Quang
 https://live.tuyenquangtv.vn/hls/radio.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQucnHqwsMogEEemVubw/image/", M Radio Việt Nam
