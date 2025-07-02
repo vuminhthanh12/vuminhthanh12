@@ -809,9 +809,7 @@ https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/27/thumbnail-dai-dong-thap-app-102539.jpg", Đồng Tháp
 https://64d0d74b76158.streamlock.net/THDTR/thdtradio/chunklist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="http://gialaitv.vn/data_news/images/audio12.gif", Gia Lai
-http://113.161.25.3:8134/hls/radio/radio.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://dug0nmhkbevod.vcdn.cloud/MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110831/110832_z3846211079342_aa59839f019726c4b788c89d47e06ff5.jpg", Hà Nội FM 90
+#EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2024/03/08/dai-ha-noi-5_90mhz---3-01-111825.jpg", Hà Nội FM 90
 https://1028513096.vnns.net/fm90/chunks.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://dug0nmhkbevod.vcdn.cloud/MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110840/110840_z3846211089905_39c77a676e0692f17b29aa41d76314a1.jpg", Hà Nội FM 96
 https://1028513096.vnns.net/fm96/chunks.m3u8
