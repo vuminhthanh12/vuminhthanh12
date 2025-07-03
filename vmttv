@@ -543,7 +543,7 @@ https://sgchill.io.vn/360/65/index.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế TV | Truyền Hình Thừa Thiên Huế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
-#EXTINF:-1 tvg-id="longan" group-title="Địa phương" tvg-logo="", TTV1 - Truyền Hình Báo Tây Ninh
+#EXTINF:-1 tvg-id="longan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV1.jpg", TTV1 - Truyền Hình Báo Tây Ninh
 https://sgchill.io.vn/360/72/index.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png", THĐT1 HD | Truyền Hình Đồng Tháp
 #EXTVLCOPT:http-user-agent=ANTmedia
