@@ -206,11 +206,11 @@ https://sgchill.io.vn/360/9903/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https:/i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 13
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 14
-https://live.fptplay53.net/fnxch1/thethao14_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 15
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 16
-
+https://live.fptplay53.net/fnxch1/thethao16_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 17
 
 #EXTINF:-1 group-title="Livestream" tvg-luh ogo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 18
@@ -543,7 +543,7 @@ https://sgchill.io.vn/360/65/index.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế TV | Truyền Hình Thừa Thiên Huế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
-#EXTINF:-1 tvg-id="longan" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822138872/5909565787c9_640_360.png", LA34 HD | Truyền Hình Long An
+#EXTINF:-1 tvg-id="longan" group-title="Địa phương" tvg-logo="", TTV1 - Truyền Hình Báo Tây Ninh
 https://sgchill.io.vn/360/72/index.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png", THĐT1 HD | Truyền Hình Đồng Tháp
 #EXTVLCOPT:http-user-agent=ANTmedia
