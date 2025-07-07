@@ -145,8 +145,10 @@ http://viettel2.khanggtivi.xyz:8880/live2/Bao/index.m3u8
 https://server.priterytivi.com/ATVHD/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://subiz.com.vn/blog/wp-content/uploads/2022/12/subiz-tai-sao-livestream-ban-hang-lai-tro-thanh-xu-huong-e1671466834313.jpg",HNMAVIDEO
 https://doitac.nekocdn.xyz/HMNAV/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://subiz.com.vn/blog/wp-content/uploads/2022/12/subiz-tai-sao-livestream-ban-hang-lai-tro-thanh-xu-huong-e1671466834313.jpg", Nino Channel 1
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://i.postimg.cc/BQjyd2cP/z6715804416948-d8b271bcc98ae99ec672e7be7c84e70a-removebg-preview.png", Nino Channel 1
 http://viettel.khanggtivi.xyz:8880/hls_nonkey/ninochannel/index.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://i.postimg.cc/BQjyd2cP/z6715804416948-d8b271bcc98ae99ec672e7be7c84e70a-removebg-preview.png", Nino Channel 2
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png", TV360+1
 https://sgchill.io.vn/360/2554/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png", TV360+2
@@ -208,11 +210,11 @@ https://sgchill.io.vn/360/9903/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 14
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 15
-https://live.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 16
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 17
-https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-luh ogo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 18
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 19
