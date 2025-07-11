@@ -559,7 +559,7 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_mien-tay-thdt2_165666993738.png", THĐT2 - Báo và PTTH Đồng Tháp
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="binhthuan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV2.png", LTV2 HD - Báo và PTTH Lâm Đồng
+#EXTINF:-1 tvg-id="binhthuan" group-title="Địa phương" tvg-logo="", LTV2 HD - Báo và PTTH Lâm Đồng
 https://sgchill.io.vn/360/45/index.m3u8
 #EXTINF:-1 tvg-id="daknong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTVLAMDONG.png", LTV HD - Báo và PTTH Lâm Đồng
 https://sgchill.io.vn/360/50/index.m3u8
