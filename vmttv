@@ -238,7 +238,7 @@ https://live.fptplay53.net/epzsport/thethao10_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 24
 https://live.fptplay53.net/fnxsport/thethao24_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 25
-
+https://live.fptplay53.net/fnxsport/thethao25_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 26
 https://event.fptplay53.net/channel/thethao241-uhd/master_avc.m3u8?sign=1752216042-sign-0-aeb3f17b1ec8b3d9e3904ff522aa147d
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 27
@@ -501,7 +501,7 @@ https://sgchill.io.vn/360/33/index.m3u8
 https://sgchill.io.vn/360/34/index.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png", Hà Nội 2 UHD - Đài Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
-https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
+https://live.fptplay53.net/channel/hntv2-uhd/master_mx.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png", TTV HD - Báo và PTTH Thanh Hóa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/360/89/index.m3u8
