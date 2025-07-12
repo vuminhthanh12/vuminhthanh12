@@ -476,6 +476,9 @@ https://sgchill.io.vn/360/9832/index.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png", THTPCT - Báo và PTTH Thành Phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.io.vn/360/84/index.m3u8
+#EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png", THTPCT - Báo và PTTH Thành Phố Cần Thơ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgchill.io.vn/360/61/index.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3.jpg", THTPCT3 HD - Báo và PTTH Thành Phố Cần Thơ
 https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1 tvg-id="sonla" group-title="Địa phương" tvg-logo="https://media.sonlatv.vn/upload/files/image/Back-TH-1.jpg", STV HD - Báo và PTTH Sơn La
