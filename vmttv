@@ -666,7 +666,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://i.ytimg.com/vi/0jFG4yuzMRo/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth (Dự Phòng)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+https://1.org.vn/bbcearth
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch502_425_305" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264747.ts
