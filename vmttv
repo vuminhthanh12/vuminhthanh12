@@ -788,7 +788,7 @@ https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://ravimedia.vn/wp-content/uploads/2021/06/ravimedia-voh99.9mhz.jpg", VOH FM 99.9Mhz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-95.6-Mhz.jpg", VOH FM 95.6Mhz
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/voh-fm-95-6.png", VOH FM 95.6Mhz
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm877-512x512-110237.png", VOH FM 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
