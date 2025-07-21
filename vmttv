@@ -182,7 +182,7 @@ https://263.org.vn/PhimAuMy
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 2
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 3
-https://live.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 4
 https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 5
@@ -794,7 +794,7 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-am610-512x512-104316.png", VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://bacninhtv.vn/images/thumbs/0000003334_a.png", Bắc Ninh
+#EXTINF:-1 group-title="Radio" tvg-logo="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg", Bắc Ninh
 http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg", Cà Mau
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
