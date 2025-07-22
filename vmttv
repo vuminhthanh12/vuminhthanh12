@@ -825,8 +825,6 @@ https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://langsontv.vn/templates/frontend/lstv/Assets/img/radio_bg.png", Lạng Sơn
 http://103.90.220.236/lstvlive/radio-transmux.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/154.png", Lai Châu
-https://ll4mfr7mnaliv.vcdn.cloud/laichau/radio/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://truyenhinhnghean.vn/common/v2/image/logo_player.jpg", Nghệ An
 https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/audio_bg.jpg", Ninh Bình
