@@ -184,7 +184,7 @@ https://263.org.vn/PhimAuMy
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 3
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 4
-https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 5
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 6
@@ -228,9 +228,9 @@ https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 25
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 26
-https://event.fptplay53.net/channel/thethao109/master_mx.m3u8?sign=1753184585-sign-0-4d518b22a799207270bfac7854996a97
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 27
-https://live.fptplay53.net/fnxch1/thethao266_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 28
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 29
@@ -831,7 +831,7 @@ https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu4.png", QNR1 - Quảng Ninh
 http://103.90.220.236/qtvlive/qnr1.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/254.png", QNR2 - Quảng Ninh
+#EXTINF:-1 group-title="Radio" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu3.png", QNR2 - Quảng Ninh
 http://103.90.220.236/qtvlive/qnr2.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://media.sonlatv.vn/upload/files/image/Back-PT.jpg", Sơn La
 http://103.90.220.236/sltvlive/radio-transmux.m3u8
