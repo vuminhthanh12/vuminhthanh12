@@ -146,9 +146,13 @@ https://server.priterytivi.com/ATVHD/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://subiz.com.vn/blog/wp-content/uploads/2022/12/subiz-tai-sao-livestream-ban-hang-lai-tro-thanh-xu-huong-e1671466834313.jpg",HNMAVIDEO
 https://doitac.nekocdn.xyz/HMNAV/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png", TV360+1
-https://xem.TruyenHinh.Click/CoBan2/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=https://tv360.vn/
+https://freem3u.xyz/api/live/play.m3u8?vid=2554
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png", TV360+2
-https://xem.TruyenHinh.Click/CoBan2/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=https://tv360.vn/
+https://freem3u.xyz/api/live/play.m3u8?vid=1
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/TV360%2B3.png", TV360+3
 https://xem.TruyenHinh.Click/CoBan2/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/5db9e5a7d0fd_640_360.png", TV360+4
