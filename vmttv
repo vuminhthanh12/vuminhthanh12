@@ -722,7 +722,7 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/197968.ts
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live247.freem3u.xyz:21585/axn/index.m3u8
+https://tv.ddns.vn/tv/axnhd/index.m3u8
 #EXTINF:0 tvg-id="blueantent" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/L5yHTzj/Rock-Entertainment.png" ,Rock Entertainment
 #EXTVLCOPT:http-user-agent="KIIP"
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298565.ts
