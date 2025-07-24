@@ -840,7 +840,7 @@ http://202.43.109.142:1935/radio11/tnradio/chunklist.m3u8
 https://stream.zeno.fm/4q7y9hvkp2zuv
 #EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQoL-YpAoMogEEemVubw/image/", Cải Lương Việt Nam
 https://stream.zeno.fm/0trm6wrnga0uv
-#EXTINF:-1 group-title=Radio" tvg-log#$#o="https://yt3.googleusercontent.com/va3kI5EvVkjk7hXpn2j0-Q_zeFDNdDi8xIthSCvIzXtAkuhGQ8fBXTEim-jC9OWHmtVB5068BPQ=s900-c-k-c0x00ffffff-no-rj", Radio Nhạc Vàng Xưa
+#EXTINF:-1 group-title=Radio" tvg-log#$#o="https://dongnhacvang.com/wp-content/uploads/2019/08/cropped-logo-nhac-vang-1-2.png", Radio Nhạc Vàng Xưa
 https://stream.zeno.fm/x2z45v7d84zuv
 #EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQidjS_wkMogEEemVubw/image/", Radio DJ
 https://stream.zeno.fm/ehbutdfccm0uv
@@ -854,9 +854,6 @@ https://strm.voh.com.vn/radio/channel3/chunklist_w1936699032.m3u8
 https://strm.voh.com.vn/radio/channel1/chunklist_w1203304311.m3u8
 #EXTINF:-1 group-title="🇻🇳 Vietnam Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-am610-512x512-104316.png",VOH AM 610
 https://strm.voh.com.vn/radio/channel2/chunklist_w558517770.m3u8
-#EXTINF:-1 group-title="🇻🇳 Vietnam Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK WORLD
-https://b-nhkwlive-rj.nhkworld.jp/hls/live/2003468-b/rj-7ch/index_07.m3u8
-
 #EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://static.wikia.nocookie.net/bbc/images/f/f9/BBC_Radio_1_2022.png/revision/latest?cb=20220518194552", BBC Radio 1
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d128000.norewind.m3u8
 
