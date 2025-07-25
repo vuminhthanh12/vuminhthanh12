@@ -39,6 +39,8 @@ http://113.177.113.7:4022/rtp/232.84.3.67:11650
 http://113.177.113.7:4022/rtp/232.84.1.42:8226
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 http://113.177.113.7:4022/rtp/232.84.2.201:10990
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+http://113.177.113.7:4022/rtp/232.84.1.148:8862
 #EXTINF:-1 id-xtream="36997" tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="append" ,ON Vie Giải trí
 http://113.177.113.7:4022/rtp/232.84.3.78:11584
 #EXTINF:-1 id-xtream="12864" tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/198/${start}/${end}",ON Phim Việt (HD 8Mbps)
