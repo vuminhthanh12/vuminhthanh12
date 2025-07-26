@@ -173,7 +173,7 @@ https://263.org.vn/PhimAuMy
 #EXTVLCOPT:http-user-agent=VMT
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 1
-https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 2
 https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 3
@@ -211,7 +211,7 @@ https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 19
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 20
-
+https://live.fptplay53.net/fnxch1/thethao20_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 21
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 22
