@@ -43,7 +43,7 @@ http://14.179.152.80:6789/rtp/232.84.2.201:10990
 http://14.179.152.80:6789/rtp/232.84.1.148:8862
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 http://14.179.152.80:6789/rtp/232.84.1.241:9420
-EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 6.5Mbps)
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 6.5Mbps)
 http://14.179.152.80:6789/rtp/232.84.3.247:11404
 #EXTINF:-1 id-xtream="36997" tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="append" ,ON Vie Giải trí
 http://14.179.152.80:6789/rtp/232.84.3.78:11584
