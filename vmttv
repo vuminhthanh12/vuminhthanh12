@@ -193,7 +193,7 @@ https://263.org.vn/PhimAuMy
 #EXTINF:-1 group-title="Livestream" tvg-logo="https:/i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 13
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 14
-https://live.fptplay53.net/fnxch1/thethao14_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 15
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 16
@@ -832,8 +832,6 @@ https://strm.voh.com.vn/radio/channel1/chunklist_w1203304311.m3u8
 https://strm.voh.com.vn/radio/channel2/chunklist_w558517770.m3u8
 #EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/services/bbc_london/blocks-colour-black_1920x1080.png",BBC London
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d128000.norewind.m3u8
-#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN
-https://aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com/v1/manifest/30ead7055f8b8e1f2f04add745f139b184df6925/production/546c7db1-9ed2-4f96-96ab-69b6afd107e8/0.m3u8
 
 #EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (SV2)
 https://chunks.tunein.com/live/newsfree/cnnfree/1213329/4ee8d54fa2e742f9a3a8f0d28abf5a10/aac_adts/96k/pri-aac_adts96-1712849145-5990-15247.aac
