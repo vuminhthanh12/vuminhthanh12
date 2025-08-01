@@ -136,23 +136,23 @@ https://server.priterytivi.com/ATVHD/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://subiz.com.vn/blog/wp-content/uploads/2022/12/subiz-tai-sao-livestream-ban-hang-lai-tro-thanh-xu-huong-e1671466834313.jpg",HNMAVIDEO
 https://doitac.nekocdn.xyz/HMNAV/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png", TV360+1
-https://sgchill.io.vn/b521/tv360/2554/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/2554/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png", TV360+2
-https://sgchill.io.vn/b521/tv360/1/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/1/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/TV360%2B3.png", TV360+3
-https://sgchill.io.vn/b521/tv360/148/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/148/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/5db9e5a7d0fd_640_360.png", TV360+4
-https://sgchill.io.vn/b521/tv360/2458/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/2458/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png", TV360+5
-https://sgchill.io.vn/b521/tv360/9867/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/9867/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_640_360.png", TV360+6
-https://sgchill.io.vn/b521/tv360/9868/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/9868/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png", TV360+7
-https://sgchill.io.vn/b521/tv360/9869/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/9869/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_640_360.png", TV360+8
-https://sgchill.io.vn/b521/tv360/9870/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/9870/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
-https://sgchill.io.vn/b521/tv360/9887/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/9887/index.m3u8
 #EXTINF:-1 tvg-id="tv360.Mekong" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png", Mê Kông
 #EXTVLCOPT:http-user-agent=vuminhthanh
 https://263.org.vn/MeKong
@@ -222,22 +222,22 @@ https://live.fptplay53.net/epzch1/thethao125_mx.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
-https://sgchill.io.vn/b521/tv360/2/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/2/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
-https://sgchill.io.vn/b521/tv360/3/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/3/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2 (Thử Nghiệm Quic)
-https://sgchill.io.vn/b521/tv360/9921/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/9921/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3
-https://sgchill.io.vn/b521/tv360/4/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/4/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg" catchup="append" catchup-days="2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=378&time=${start}&offset=${duration}, VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgchill.io.vn/b521/tv360/108/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/108/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/b5/5c/cc/c2/22/29/b5cc2-pvtv5hd-channel-unkn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}, VTV5
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/b5/5c/cc/c2/22/29/b5cc2-pvtv5hd-channel-unkn.png", VTV5 (Thử Nghiệm Độ Trễ Thấp)
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-https://sgchill.io.vn/b521/tv360/9909/index.m3u8
+https://sgchill.io.vn/v1/b521/tv360/9909/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=615&time=${start}&offset=${duration}, VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
