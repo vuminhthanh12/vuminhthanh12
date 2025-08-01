@@ -432,7 +432,7 @@ https://xem.hoiquan.Click/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png", THTPCT - Báo và PTTH Thành Phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.hoiquan.Click/CoBan/can-tho/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT2.png", THTPCT2 HD - Báo và PTTH Thành Phố Cần Thơ
+#EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT2HD.png", THTPCT2 HD - Báo và PTTH Thành Phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.hoiquan.Click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3.jpg", THTPCT3 HD - Báo và PTTH Thành Phố Cần Thơ
