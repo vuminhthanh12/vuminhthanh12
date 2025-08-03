@@ -437,6 +437,7 @@ https://xem.hoiquan.Click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3.jpg", THTPCT3 HD - Báo và PTTH Thành Phố Cần Thơ
 https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3.jpg", THTPCT3 HD - Báo và PTTH Thành Phố Cần Thơ (Luồng VieON)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgchill.io.vn/v1/b522/stv1/index.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3.jpg", THTPCT3 HD - Báo và PTTH Thành Phố Cần Thơ (Luồng FPT PLAY)
 https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist.m3u8
