@@ -355,7 +355,7 @@ https://sgchill.io.vn/v1/b521/235/index.m3u8
 https://sgchill.io.vn/v1/b521/239/index.m3u8
 #EXTINF:-1 tvg-id="manhd" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png", Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.hoiquan.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/v1/b521/237/index.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.hoiquan.Click/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
