@@ -582,7 +582,8 @@ https://xem.hoiquan.Click/CoBan/lam-dong/TuyetDoiKhongKinhDoanh.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo=" https://cms.cignal.tv/Upload/Images/HBO%20Hits-1.jpg", HBO Hits
 http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302250.ts
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png", HBO Family
+
 #EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/hbosignaturehd-asia.png", HBO Signature HD
 http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302251.ts
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.vimeocdn.com/video/852785228-36403e3d29153c02a4acfcf0ca4182b0be0bef3e5b43355eafc33614ee972a9b-d?f=webp", Asian Food Network
