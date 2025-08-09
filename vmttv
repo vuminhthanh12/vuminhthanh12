@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
-#EXTINF:0 group-title=" [THẬP CẨM TV]" tvg-logo="",[3204] Manchester United vs Galatasaray | BLV Bát Man + Người Thỏ | 4.10.23
+#EXTINF:0 group-title=" [THẬP CẨM TV]" tvg-logo="https://img-90p.4shares.live/mtc/20250809/bg_g8isotG_1754067961256.webp", Off fan MU| Manchester United vs Fiorentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 
