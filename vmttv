@@ -172,9 +172,9 @@ https://263.org.vn/PhimAuMy
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 4
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 5
-https://live.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 6
-https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 7
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 8
@@ -430,7 +430,7 @@ https://sgchill.io.vn/v1/b521/51/index.m3u8
 https://sgchill.io.vn/v1/b521/60/index.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png", THP+ HD - Báo và PTTH Hải Phòng
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://xem.hoiquan.Click/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
+
 #EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT1.png", THTPCT1 HD - Báo và PTTH Thành Phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.hoiquan.Click/CoBan/can-tho/TuyetDoiKhongKinhDoanh.m3u8
