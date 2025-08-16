@@ -456,7 +456,7 @@ https://xem.hoiquan.Click/CoBan/phu-tho/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV1HD.png", ĐNNRTV1 - Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=VMTTV
 https://sgchill.io.vn/v1/b521/53/index.m3u8
-#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286716831/f297eef035cf_640_360.png", ĐRNTV2 - Báo và PTTH Đồng Nai
+#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/%C4%90NNRTV2.png", ĐNNRTV2 - Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=VMTTV
 https://xem.hoiquan.Click/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_640_360.png", Hà Nội 1 HD - Đài Hà Nội
