@@ -168,9 +168,9 @@ https://263.org.vn/MeKong
 #EXTVLCOPT:http-user-agent=vuminhthanh
 https://263.org.vn/PhimAuMy
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 1
-https://live.fptplay53.net/epzch1/thethao125_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 2
-https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 3
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 4
@@ -178,7 +178,7 @@ https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 5
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 6
-https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 7
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 8
@@ -208,7 +208,7 @@ https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 20
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 21
-https://live.fptplay53.net/fnxch1/thethao21_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 22
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 23
@@ -218,13 +218,13 @@ https://live.fptplay53.net/fnxch1/thethao21_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 25
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 26
-https://live.fptplay53.net/epzch1/thethao123_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 27
-https://live.fptplay53.net/epzch1/thethao121_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 28
-https://event.fptplay53.net/channel/thethao241-uhd/master_avc.m3u8?sign=1755338904-sign-0-d185c710fdea70f2c726b4b28c1616b8
+
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 29
-https://live.fptplay53.net/fnxch1/thethao139_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://sgchill.io.vn/v1/b521/2/index.m3u8
@@ -456,10 +456,10 @@ https://xem.hoiquan.Click/CoBan/phu-tho/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV1HD.png", ĐNNRTV1 - Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=VMTTV
 https://sgchill.io.vn/v1/b521/53/index.m3u8
-#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/%C4%90NNRTV2.png", ĐNNRTV2 - Báo và PTTH Đồng Nai
+#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV2.png", ĐNNRTV2 - Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=VMTTV
 https://sgchill.io.vn/v1/b521/255/index.m3u8
-#EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="
+#EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV3.png", DDNNRTV3 - Báo và PTTH Đồng Nai
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_640_360.png", Hà Nội 1 HD - Đài Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
 https://xem.hoiquan.Click/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8
