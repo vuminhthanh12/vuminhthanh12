@@ -144,23 +144,23 @@ http://viettel2.khanggtivi.xyz:8880/live2/Bao/index.m3u8
 https://server.priterytivi.com/ATVHD/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://subiz.com.vn/blog/wp-content/uploads/2022/12/subiz-tai-sao-livestream-ban-hang-lai-tro-thanh-xu-huong-e1671466834313.jpg",HNMAVIDEO
 https://doitac.nekocdn.xyz/HMNAV/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png", TV360+1
+#EXTINF:-1 tvg-id="tv360plus1" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png", TV360+1
 https://sgchill.io.vn/v1/b521/2554/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png", TV360+2
+#EXTINF:-1 tvg-id="tv360plus2" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png", TV360+2
 https://sgchill.io.vn/v1/b521/1/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/TV360%2B3.png", TV360+3
+#EXTINF:-1 tvg-id="tv360plus3" group-title="Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/TV360%2B3.png", TV360+3
 https://sgchill.io.vn/v1/b521/148/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/5db9e5a7d0fd_640_360.png", TV360+4
+#EXTINF:-1 tvg-id="tv360plus4" group-title="Livestream" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/5db9e5a7d0fd_640_360.png", TV360+4
 https://sgchill.io.vn/v1/b521/2458/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png", TV360+5
+#EXTINF:-1 tvg-id="tv360plus5" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png", TV360+5
 https://sgchill.io.vn/v1/b521/9867/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_640_360.png", TV360+6
+#EXTINF:-1 tvg-id="tv360plus6" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_640_360.png", TV360+6
 https://sgchill.io.vn/v1/b521/9868/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png", TV360+7
+#EXTINF:-1 tvg-id="tv360plus7" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png", TV360+7
 https://sgchill.io.vn/v1/b521/9869/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_640_360.png", TV360+8
+#EXTINF:-1 tvg-id="tv360plus8" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_640_360.png", TV360+8
 https://sgchill.io.vn/v1/b521/9870/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
+#EXTINF:-1 tvg-id="tv360plus9" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://sgchill.io.vn/v1/b521/9887/index.m3u8
 #EXTINF:-1 tvg-id="tv360.Mekong" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png", Mê Kông
 #EXTVLCOPT:http-user-agent=vuminhthanh
