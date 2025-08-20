@@ -111,6 +111,8 @@ http://14.234.23.138:12343/rtp/232.84.1.143:8832
 http://14.234.23.138:12343/rtp/232.84.1.168:8982
 #EXTINF:0 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640",ON Sports
 http://14.234.23.138:12343/rtp/232.84.1.208:9222
+#EXTINF:0 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON EChannel
+http://14.234.23.138:12343/rtp/232.84.1.193:9132
 #EXTINF:0 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
 http://14.234.23.138:12343/rtp/232.84.1.220:9294
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
