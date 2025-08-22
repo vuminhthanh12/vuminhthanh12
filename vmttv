@@ -180,7 +180,7 @@ https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 5
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 6
-
+https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 7
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 8
@@ -504,7 +504,7 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV2.jpg", ATV2 | Báo và PTTH An Giang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.io.vn/v1/b521/35/index.m3u8
-#EXTINF:-1 tvg-id="baria" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_ba-ria-vung-tau_165655617345.png", BRT - Đài PTTH Bà Rịa Vũng Tàu
+#EXTINF:-1 tvg-id="vungtau" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_ba-ria-vung-tau_165655617345.png", BRT - Đài PTTH Bà Rịa Vũng Tàu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/CoBan/vung-tau/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png", NBTV - Báo và PTTH Ninh Bình
