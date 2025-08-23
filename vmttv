@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
-#EXTINF:0 group-title="[THẬP CẨM TV]" tvg-logo="https://img-90p.4shares.live/mtc/20250823/bg_IbVYPhW_1755794162528.webp", Poland (w) vs Việt Nam (w) - BLV Người Cún
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://providers.cotivi.online/tc.m3u8?hash=i0aq%2FODYOh%2BWUtvOL7KGGq5fXCfeEwg8%2FtuVrfrqXJGf3c8WsewF22KJUfEhOeZByF9bWpai08UnR1Yo7cZ1gw%3D%3D&sign=false
+#EXTINF:0 group-title="[hoiquan.live]" tvg-logo="https://img-90p.4shares.live/mtc/20250823/bg_IbVYPhW_1755794162528.webp", Poland (w) vs Việt Nam (w)
+https://tfoj0gr4nhct1gwzdrcttfa4uommnc7sg17uff31se35fpiozoa5rpazg6hu8.100ycdn.com/bglive.edgemaxcdn.org/live/blv_phanbo/playlist.m3u8?wsSession=1493e6062d5c5f0adc02ccc1-175595793330838&wsIPSercert=68eddaff86719bc2fe472a3fb01e8e91&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 1
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 2
