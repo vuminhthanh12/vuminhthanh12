@@ -7,28 +7,28 @@ http://server.priterytivi.com/kubotv/index.m3u8
 http://live.qphim.xyz/live/kubocast/index.m3u8
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyspnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_sports_news_2021_logo.svg/1200px-Sky_sports_news_2021_logo.svg.png",Sky Sports News
 http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:11:4F:9F&stream=11125&extension=ts&play_token=AZOZpa5D6p
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sport F1
-http://sansat.cc:88/02025033583654/1680219086/56239
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sport F1 UHD
+http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/118946.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skypl" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png",Sky Sport Premier League
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/98775.ts
+http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/98775.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/98857.ts
+http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/98857.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skytennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1200px-Sky_Sport_Tennis.svg.png",Sky Sport Tennis
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/118612.ts
+http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/118612.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="spd" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",Sportdigital
 http://filex.me:8080/live/drzain/002808/293609.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
 http://sansat.cc:88/02025033583654/1680219086/126831
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/110708.ts
+http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/110708.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2 4Mbps for 4G
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/89213.ts
+http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/89213.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt3" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3 4Mbps for 4G
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/89212.ts
+http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/89212.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4 4Mbps for 4G
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/89211.ts
+http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/89211.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt5" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tntsp5.png",TNT Sports 5 4Mbps for 4G
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/100702.ts
+http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/100702.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot
 http://sansat.cc:88/02025033583654/1680219086/659286
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 1
