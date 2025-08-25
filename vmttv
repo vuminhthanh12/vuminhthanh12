@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
-#EXTINF:0 group-title="[HOIQUAN.LIVE]" tvg-logo="https://img-90p.4shares.live/mtc/20250825/bg_2dMVLuL_1755966601370.webp", Germany (w) vs Việt Nam (w)
-https://tfol0gr3dgmtugrzdgpbqgr4ugmmnc7sg17uff31se35fpiozoa5rpazg6hu8.100ycdn.com/bglive.edgemaxcdn.org/live/blv_alexphan/playlist.m3u8?wsSession=22c301d4b90163db9ab99788-175611792411531&wsIPSercert=78234b8961398fc56d303e4fb410429d&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 1
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 2
