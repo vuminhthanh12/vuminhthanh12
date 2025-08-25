@@ -76,7 +76,7 @@ http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:11:4F:9F&stream=8475&ex
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/1200px-Polsat_Sport_2_2024.svg.png", Polsat Sport 2
 http://filex.me:8080/live/drzain/002808/316240.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/250px-Polsat_Sport_3_2024.svg.png", Polsat Sport 3
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=337610&extension=ts&play_token=nPwLYJfM57
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:11:4F:9F&stream=8472&extension=ts&play_token=ShM47NEA2L
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Polsat_Sport_Premium_3_PPV_2021_gradient.svg/500px-Polsat_Sport_Premium_3_PPV_2021_gradient.svg.png", Polsat Sport Premium 3 PPV
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=338218&extension=ts&play_token=53bRL5hdk3
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Polsat_Sport_Premium_4_PPV_2021_gradient.svg/640px-Polsat_Sport_Premium_4_PPV_2021_gradient.svg.png", Polsat Sport Premium 4 PPV
