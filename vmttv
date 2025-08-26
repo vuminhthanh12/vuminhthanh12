@@ -27,7 +27,7 @@ http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/89213.ts
 http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/89212.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4 4Mbps for 4G
 http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/89211.ts
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt5" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tntsp5.png",TNT Sports 5 4Mbps for 4G
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt5" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/tntsport5.png",TNT Sports 5 4Mbps for 4G
 http://primestreams.tv:826/live/MartinBrousseau/XVpw9AYCkv/100702.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot
 http://sansat.cc:88/02025033583654/1680219086/659286
