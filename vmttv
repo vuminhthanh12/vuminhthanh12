@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
-#EXTINF:0 group-title="[HOIQUAN.LIVE]" tvg-logo="https://img-90p.4shares.live/mtc/20250827/bg_OdXEaWt_1756137600936.webp", Kenya (w) vs Việt Nam (w)
-https://tfon0gr4nhct1gwzdrcttfa4uqmmnc7sg17uff31se35fpiozoa5rpazg6hu8.100ycdn.com/bglive.edgemaxcdn.org/live/blv_duphong3/playlist.m3u8?wsSession=29c829e0016800385a7cc481-175629013058888&wsIPSercert=c1f12968aca91dad2760621b0cf63485&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 1
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 2
@@ -72,23 +70,23 @@ http://sansat.cc:88/02025033583654/1680219086/666043
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
 http://nocable.cc:8080////////////N2sdm7////////499994//////////53717
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/250px-Polsat_Sport_1_2024.svg.png", Polsat Sport 1 
-http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:11:4F:9F&stream=8475&extension=ts
+http://filex.me:8080/live/drzain/002808/316239.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/1200px-Polsat_Sport_2_2024.svg.png", Polsat Sport 2
 http://filex.me:8080/live/drzain/002808/316240.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/250px-Polsat_Sport_3_2024.svg.png", Polsat Sport 3
-http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:11:4F:9F&stream=8479&extension=ts&play_token=ocH6jJGR3p
+http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/94968
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Polsat_Sport_Premium_3_PPV_2021_gradient.svg/500px-Polsat_Sport_Premium_3_PPV_2021_gradient.svg.png", Polsat Sport Premium 3 PPV
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=338218&extension=ts&play_token=53bRL5hdk3
+http://filex.me:8080/live/drzain/002808/316245.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Polsat_Sport_Premium_4_PPV_2021_gradient.svg/640px-Polsat_Sport_Premium_4_PPV_2021_gradient.svg.png", Polsat Sport Premium 4 PPV
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=338219&extension=ts&play_token=5ODoVO17yk
+http://filex.me:8080/live/drzain/002808/316246.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Polsat_Sport_Premium_5_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_5_PPV_Poziome_2021.svg.png", Polsat Sport Premium 5 PPV
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=338220&extension=ts&play_token=VPejXG5jDQ
+http://filex.me:8080/live/drzain/002808/316247.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Polsat_Sport_Premium_6_PPV_2021_gradient.svg/2560px-Polsat_Sport_Premium_6_PPV_2021_gradient.svg.png", Polsat Sport Premium 6 PPV
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=338221&extension=ts&play_token=VPejXG5jDQ
+http://filex.me:8080/live/drzain/002808/316248.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", Max Sport 1 HD
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=441489&extension=ts&play_token=0i5fgrf2YI
+http://filex.me:8080/live/drzain/002808/318164.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png", Max Sport 2 HD
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:AF:99:3B&stream=441488&extension=ts&play_token=ZnNlBvIuxK
+http://filex.me:8080/live/drzain/002808/318165.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
 http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/318167.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png", SporTV 2
