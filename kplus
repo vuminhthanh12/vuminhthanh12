@@ -139,6 +139,8 @@ http://113.172.29.170:11111/rtp/232.84.1.245:10344
 http://113.172.29.170:11111/rtp/232.84.1.207:9216
 #EXTINF:0 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8Mbps)
 http://113.172.29.170:11111/rtp/232.84.1.210:9234
+#EXTINF:0 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
+http://113.172.29.170:11111/rtp/232.84.2.246:10876
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
 http://113.172.29.170:11111/rtp/232.84.1.122:10314 
 #EXTINF:0 tvg-id="kactionhd" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
