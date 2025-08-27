@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+#EXTINF:0 group-title="[HOIQUAN.LIVE]" tvg-logo="https://img-90p.4shares.live/mtc/20250827/bg_OdXEaWt_1756137600936.webp", Kenya (w) vs Việt Nam (w)
+
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 1
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 2
