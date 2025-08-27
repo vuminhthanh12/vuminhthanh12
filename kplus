@@ -131,6 +131,8 @@ http://113.172.29.170:11111/rtp/232.84.2.192:10936
 http://113.172.29.170:11111/rtp/232.84.1.138:8802
 #EXTINF:0 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 http://113.172.29.170:11111/rtp/232.84.1.217:9276
+#EXTINF:0 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas
+http://113.172.29.170:11111/rtp/232.84.1.169:8988
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
 http://113.172.29.170:11111/rtp/232.84.1.122:10314 
 #EXTINF:0 tvg-id="kactionhd" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
