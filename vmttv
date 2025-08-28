@@ -149,24 +149,14 @@ https://sgchill.io.vn/v1/b521/2554/index.m3u8
 https://sgchill.io.vn/v1/b521/1/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus3" group-title="Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/TV360%2B3.png", TV360+3
 https://sgchill.io.vn/v1/b521/148/index.m3u8
-#EXTINF:-1 tvg-id="tv360plus4" group-title="Livestream" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/5db9e5a7d0fd_640_360.png", TV360+4
-https://sgchill.io.vn/v1/b521/2458/index.m3u8
-#EXTINF:-1 tvg-id="tv360plus5" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png", TV360+5
-https://sgchill.io.vn/v1/b521/9867/index.m3u8
-#EXTINF:-1 tvg-id="tv360plus6" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_640_360.png", TV360+6
-https://sgchill.io.vn/v1/b521/9868/index.m3u8
-#EXTINF:-1 tvg-id="tv360plus7" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png", TV360+7
-https://sgchill.io.vn/v1/b521/9869/index.m3u8
-#EXTINF:-1 tvg-id="tv360plus8" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_640_360.png", TV360+8
-https://sgchill.io.vn/v1/b521/9870/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://sgchill.io.vn/v1/b521/9887/index.m3u8
 #EXTINF:-1 tvg-id="tv360.Mekong" group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png", Mê Kông
 #EXTVLCOPT:http-user-agent=vuminhthanh
-https://263.org.vn/MeKong
+https://sgchill.io.vn/v1/b521/9902/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png", Phim Âu Mỹ
 #EXTVLCOPT:http-user-agent=vuminhthanh
-https://263.org.vn/PhimAuMy
+https://sgchill.io.vn/v1/b521/9903/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 1
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 2
@@ -194,7 +184,7 @@ https://263.org.vn/PhimAuMy
 #EXTINF:-1 group-title="Livestream" tvg-logo="https:/i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 13
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 14
-
+https://live.fptplay53.net/fnxch1/thethao14_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 15
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://rubicmarketing.com/wp-content/uploads/2022/07/y-nghia-logo-fpt-lan-3.jpg", F Sports 16
