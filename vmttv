@@ -443,7 +443,7 @@ https://sgchill.io.vn/v1/b521/47/index.m3u8
 https://sgchill.io.vn/v1/b521/61/index.m3u8
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3HD.png", THTPCT3 HD - Báo và PTTH Thành Phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+https://sgchill.io.vn/v1/b521/84/index.m3u8
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3HD.png", THTPCT3 HD - Báo và PTTH Thành Phố Cần Thơ (Luồng FPT PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
