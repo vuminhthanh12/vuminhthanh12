@@ -507,7 +507,7 @@ https://sgchill.io.vn/v1/b521/74/index.m3u8
 https://sgchill.io.vn/v1/b521/86/index.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg", CTV HD - Báo và PTTH Cà Mau
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+https://sgchill.io.vn/v1/b521/38/index.m3u8
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/GTVGIALAI.png", GTV - Báo và PTTH Gia Lai
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://xem.hoiquan.Click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8
