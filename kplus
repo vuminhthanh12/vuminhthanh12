@@ -165,3 +165,5 @@ http://113.172.29.170:10101/rtp/232.84.3.43:11794
 http://113.172.29.170:10101/rtp/232.84.1.122:10314
 #EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
 http://113.172.29.170:10101/rtp/232.84.1.123:10320
+#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (HD 9Mbps)
+http://113.172.29.170:10101/rtp/232.84.1.125:10326
