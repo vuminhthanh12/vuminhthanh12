@@ -171,3 +171,5 @@ http://113.172.29.170:10101/rtp/232.84.1.125:10326
 http://113.172.29.170:10101/rtp/232.84.1.176:10374
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 6Mbps)
 http://113.172.29.170:10101/rtp/232.84.3.57:11710
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 6Mbps)
+http://113.172.29.170:10101/rtp/232.84.2.182:9306
