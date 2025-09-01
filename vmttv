@@ -468,7 +468,7 @@ https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://freem3u.xyz/api/live/play.m3u8?vid=9929
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png", Hà Nội 2 UHD - Đài Hà Nội (Luồng FPT PLAY)
-https://event.fptplay53.net/channel/hntv2-uhd/master_mx.m3u8?sign=1755591956-sign-0-f287e2e1533e20f422872c6535e2be76
+https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png", TTV HD - Báo và PTTH Thanh Hóa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/v1/b521/89/index.m3u8
