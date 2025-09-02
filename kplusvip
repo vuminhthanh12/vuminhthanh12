@@ -23,8 +23,8 @@ http://42.113.21.106:9000/udp/225.1.2.166:30120
 http://42.113.21.106:9000/udp/225.1.1.128:30120
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (TV360)
 https://sgchill.io.vn/v1/b521/2/index.m3u8
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-http://113.172.29.170:10101/rtp/232.84.1.39:8208
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (TV360)
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmByiFuA5896CzEhwIxRc3GAE/ts
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 http://113.172.29.170:10101/rtp/232.84.1.28:8142
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
