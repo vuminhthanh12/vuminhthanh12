@@ -27,8 +27,8 @@ https://sgchill.io.vn/v1/b521/2/index.m3u8
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmByiFuA5896CzEhwIxRc3GAE/ts
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (TV360)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB4GI3ipfcNzbgwvXG8a5jNU/ts
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-http://113.172.29.170:10101/rtp/232.84.1.40:8214
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (TV360)
+https://sgchill.io.vn/v1/b521/108/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 http://113.172.29.170:10101/rtp/232.84.1.41:8220
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
