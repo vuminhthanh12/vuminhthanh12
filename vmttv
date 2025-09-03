@@ -161,7 +161,8 @@ https://sgchill.io.vn/v1/b521/9902/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png", Phim Âu Mỹ
 #EXTVLCOPT:http-user-agent=vuminhthanh
 https://sgchill.io.vn/v1/b521/9903/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/N1bxJi1wHTiKMuXynrzKUTUSr_CyE3tOE9afEiYsBWU4_YCaL0U41G465wYz9Nn7njKhO4u1t2UDbNnUxBLgflaIoXABMtop9Zvv2kHxl9-72ovYsaku_i-MmhpmWun8.jpg", Thể Thao 01
+https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://sgchill.io.vn/v1/b521/2/index.m3u8
