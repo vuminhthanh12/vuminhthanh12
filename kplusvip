@@ -35,8 +35,8 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB5ZQYqdDgnRIJqqs2O-jhcU/ts
 https://sgchill.io.vn/v1/b521/157/index.m3u8
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (TV360)
 https://sgchill.io.vn/v1/b521/207/index.m3u8
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-http://113.172.29.170:10101/rtp/232.84.1.42:8226
+#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (TV360)
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB0fOnwxyCbrhly3Tco-hwA8/ts
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 http://113.172.29.170:10101/rtp/232.84.2.201:10990
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
