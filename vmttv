@@ -46,7 +46,7 @@ http://tvrapide.com:80/ZANI69008/LAYNA69008/147712
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 7
 http://tvrapide.com:80/ZANI69008/LAYNA69008/147713
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 8
-http://sansat.cc:88/02025033583654/1680219086/666033
+http://tvrapide.com:80/ZANI69008/LAYNA69008/147714
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 9
 http://sansat.cc:88/02025033583654/1680219086/666034
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 10
@@ -163,8 +163,6 @@ https://sgchill.io.vn/v1/b521/9902/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png", Phim Âu Mỹ
 #EXTVLCOPT:http-user-agent=vuminhthanh
 https://sgchill.io.vn/v1/b521/9903/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/04/live-mb-vietnam-open-2025-slider-thumb_1757000293958.jpg", Thể Thao 15
-https://live.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/04/vong1live-5-ladies-2025-slider-thumb_1756998674117.jpg", Thể Thao 123
 https://live.fptplay53.net/epzch1/thethao123_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/03/live-mb-vietnam-open-2025-slider-thumb_1756866540227.jpg", Thể Thao 19
