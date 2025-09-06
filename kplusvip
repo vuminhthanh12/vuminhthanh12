@@ -45,8 +45,8 @@ https://sgchill.io.vn/v1/b521/115/index.m3u8
 https://sgchill.io.vn/v1/b521/8/index.m3u8
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (MyTV)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmBwMVgk3zKYD4TjGiKdEp77A/ts
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 6.5Mbps)
-http://113.172.29.170:10101/rtp/232.84.3.248:11410
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (MyTV)
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6WpQWCymttJjfy5fyCZMjI/ts
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 6.5Mbps)
 http://113.172.29.170:10101/rtp/232.84.3.249:11416
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 7Mbps)
