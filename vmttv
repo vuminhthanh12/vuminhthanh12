@@ -167,6 +167,8 @@ https://sgchill.io.vn/v1/b521/9903/index.m3u8
 https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/08/30/slider_1756531041973.jpg", Thể Thao 109
 https://event.fptplay53.net/channel/thethao109/master_mx.m3u8?sign=1757157065-sign-0-d3481447749f43923b383e528da0bc38
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/05/vong3live-irish-open-2025---dp-world-tour-2025-slider-thumb_1757048373106.jpg", Thể Thao 124
+https://live.fptplay53.net/epzch1/thethao124_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://sgchill.io.vn/v1/b521/2/index.m3u8
@@ -480,7 +482,7 @@ https://sgchill.io.vn/v1/b521/50/index.m3u8
 https://sgchill.io.vn/v1/b521/49/index.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/DNRT2_logo.png", ĐNRT2 - Báo và PTTH Đà Nẵng
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://xem.hoiquan.Click/CoBan/quang-nam/TuyetDoiKhongKinhDoanh.m3u8
+
 #EXTINF:-1 tvg-id="kiengiang" group-title="Địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H4.png", ATV1 - Báo và PTTH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
