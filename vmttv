@@ -54,7 +54,7 @@ http://tvrapide.com:80/ZANI69008/LAYNA69008/147716
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 11
 http://tvrapide.com:80/ZANI69008/LAYNA69008/147717
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-12.png", CANAL+ LIVE 12
-
+http://tvrapide.com:80/ZANI69008/LAYNA69008/147718
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-13.png", CANAL+ LIVE 13
 http://sansat.cc:88/02025033583654/1680219086/666038
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-14.png", CANAL+ LIVE 14
@@ -401,9 +401,8 @@ https://sgchill.io.vn/v1/b522/dongnai3/index.m3u8
 #EXTVLCOPT:http-user-agent=VMTTV
 https://sgchill.io.vn/v1/b521/33/index.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_640_360.png", Hà Nội 2 HD - Đài Hà Nội
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://freem3u.xyz/api/live/play.m3u8?vid=9929
+#EXTVLCOPT:http-user-agent=VMTTV
+https://sgchill.io.vn/v1/b521/9929/index.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png", Hà Nội 2 UHD - Đài Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
 https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
@@ -479,10 +478,10 @@ https://sgchill.io.vn/v1/b521/49/index.m3u8
 https://sgchill.io.vn/v1/b521/80/index.m3u8
 #EXTINF:-1 tvg-id="angiang1" group-title="Địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H4.png", ATV1 - Báo và PTTH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H5.png", ATV3 - Báo và PTTH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="langson" group-title="Địa phương" tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/video_bg.png", LSTV HD - Báo và PTTH Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 #EXTINF:-1 tvg-id="quangtri" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QTTV.jpg", QTTV - Báo và PTTH Quảng Trị
