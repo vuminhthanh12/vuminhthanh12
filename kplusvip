@@ -51,10 +51,8 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmBwMVgk3zKYD4TjGiKdEp77A/ts
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6WpQWCymttJjfy5fyCZMjI/ts
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (MyTV)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB09pF6DOkVbG3thQU8fWpW4/ts
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 7Mbps)
-http://113.172.29.170:10101/rtp/232.84.3.250:11422
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8.5Mbps)
-http://113.172.29.170:10101/rtp/232.84.2.32:10600
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (MyTV)
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB3DP32Bet-SmgVw4Mfoj8ag/ts
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 6.5Mbps)
 http://113.172.29.170:10101/rtp/232.84.3.251:11428
 #EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 6.5Mbps)
