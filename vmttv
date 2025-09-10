@@ -146,7 +146,7 @@ https://sgchill.io.vn/v1/b521/9902/index.m3u8
 #EXTVLCOPT:http-user-agent=vuminhthanh
 https://sgchill.io.vn/v1/b521/9903/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/10/t109_1757481412657.jpg", Thể Thao 243
-
+https://event.fptplay53.net/channel/thethao243-uhd/master_avc.m3u8?sign=1757495382-sign-0-f1006bbf547e61a2fd0daecea917019c
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://sgchill.io.vn/v1/b521/2/index.m3u8
