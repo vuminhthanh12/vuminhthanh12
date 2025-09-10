@@ -473,7 +473,7 @@ https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m
 https://sgchill.io.vn/v1/b521/83/index.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg", BHTTV - Báo Hà Tĩnh
 #EXTVLCOPT:http-user-agent=VThanhTivi
-
+https://sgchill.io.vn/v1/b521/58/index.m3u8
 #EXTINF:-1 tvg-id="bacgiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/BTVBACNINH.jpg", BTV - Báo và PTTH Bắc Ninh 
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://xem.hoiquan.Click/CoBan/bac-giang/TuyetDoiKhongKinhDoanh.m3u8
