@@ -476,7 +476,7 @@ https://sgchill.io.vn/v1/b521/83/index.m3u8
 https://sgchill.io.vn/v1/b521/58/index.m3u8
 #EXTINF:-1 tvg-id="bacgiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/BTVBACNINH.jpg", BTV - Báo và PTTH Bắc Ninh 
 #EXTVLCOPT:http-user-agent=VThanhTivi
-
+https://sgchill.io.vn/v1/b521/36/index.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292499129/aeb3499f5824_640_360.png", CRTV HD - Báo Cao Bằng
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://xem.hoiquan.Click/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8
