@@ -24,27 +24,27 @@ http://42.117.168.133:9000/udp/225.1.2.166:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8Mbps)
 http://42.117.168.133:9000/udp/225.1.1.128:30120
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (TV360)
-https://sgchill.io.vn/v1/b521/2/index.m3u8
+https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/2/index.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (TV360)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmByiFuA5896CzEhwIxRc3GAE/ts
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (TV360)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB4GI3ipfcNzbgwvXG8a5jNU/ts
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (TV360)
-https://sgchill.io.vn/v1/b521/108/index.m3u8
+https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/108/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (TV360)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB5ZQYqdDgnRIJqqs2O-jhcU/ts
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (TV360)
-https://sgchill.io.vn/v1/b521/157/index.m3u8
+https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/157/index.m3u8
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (TV360)
-https://sgchill.io.vn/v1/b521/207/index.m3u8
+https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/207/index.m3u8
 #EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (TV360)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB0fOnwxyCbrhly3Tco-hwA8/ts
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (TV360)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB5ms_yseMvBK3tSOMTqfjgE/ts
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (TV360)
-https://sgchill.io.vn/v1/b521/115/index.m3u8
+https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/115/index.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (TV360)
-https://sgchill.io.vn/v1/b521/8/index.m3u8
+https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/8/index.m3u8
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (MyTV)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmBwMVgk3zKYD4TjGiKdEp77A/ts
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (MyTV)
