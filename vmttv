@@ -150,7 +150,7 @@ https://live.fptplay53.net/fnxch1/thethao135_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/11/vong2live-jlpga-championship-2025-slider-thumb_1757560535193.jpg", Thể Thao 139
 https://live.fptplay53.net/fnxch1/thethao139_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/09/t129_1757392179326.jpg", Thể Thao 243
-
+https://event.fptplay53.net/channel/thethao243-uhd/master_avc.m3u8?sign=1757656622-sign-0-870e01dcf4464689da7c05d4e404914b
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/2/index.m3u8
