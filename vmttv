@@ -10,7 +10,7 @@ http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588069&exte
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
 http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588065&extension=ts&play_token=xBXM5E3VAZ
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skypl" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png",Sky Sport Premier League
-http://beno4k.live:8080/live/123/123/643774.ts
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157763.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skytennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1200px-Sky_Sport_Tennis.svg.png",Sky Sport Tennis
