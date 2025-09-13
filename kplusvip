@@ -1,28 +1,28 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
-http://42.117.168.133:9000/udp/225.1.2.249:30120
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmBzVxNKBefGFa7b5pzN-O7NM/ts
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8Mbps)
-http://42.117.168.133:9000/udp/225.1.2.13:30120
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB16cVS218rWyr0aHIb8DXng/ts
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 8Mbps)
-http://42.117.168.133:9000/udp/225.1.2.247:30120
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB0dXICahf2BaIw4xd5YlSDk/ts
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8Mbps)
-http://42.117.168.133:9000/udp/225.1.2.20:30120
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB5z2kAiI_X5_NEFQ2fPEPtY/ts
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today (HD 8Mbps)
-http://42.117.168.133:9000/udp/225.1.2.190:30120
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmBxlLn3VrOI6PcRbQNWsR58A/ts
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
-http://42.117.168.133:9000/udp/225.1.1.131:30120
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB7mfXwEnNbsAo7xxyrxGbpc/ts
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 8Mbps)
-http://42.117.168.133:9000/udp/225.1.2.236:30120
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB3USZsJFpYb5SMUbKRBUGrk/ts
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8Mbps)
-http://42.117.168.133:9000/udp/225.1.1.108:30120
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB1_2z6jL6L4Grtq7ev6HQBw/ts
 #EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8Mbps)
-http://42.117.168.133:9000/udp/225.1.2.245:30120
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB80TsYW1cyZv4xWgb2BpKq4/ts
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8Mbps)
-http://42.117.168.133:9000/udp/225.1.2.96:30120
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB-444TQ2KSFG_RTzT4rVkTQ/ts
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8Mbps)
-http://42.117.168.133:9000/udp/225.1.2.166:30120
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmByJBgqcUzaRGDsAiXrfz9cE/ts
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8Mbps)
-http://42.117.168.133:9000/udp/225.1.1.128:30120
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB3Z4NKK7BXV4SDQlxDbmAEU/ts
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (TV360)
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/2/index.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (TV360)
@@ -65,6 +65,7 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmBzTMwwiIMoJH-gVZ1iIikGU/ts
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmBxWYlrHLGR1sSqvzSh_83dw/ts
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (MyTV)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB3VNDKpfYMqqctpAS3nUA48/ts
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (MyTV)
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 7.5Mbps)
 http://113.172.29.170:10101/rtp/232.84.3.127:10816
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
