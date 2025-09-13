@@ -62,6 +62,7 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6ZIFGrnIzFXzNnyk27itwQ/ts
 #EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (MyTV)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmBzTMwwiIMoJH-gVZ1iIikGU/ts
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (MyTV)
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmBxWYlrHLGR1sSqvzSh_83dw/ts
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8.5Mbps)
 http://113.172.29.170:10101/rtp/232.84.2.34:10612
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 7.5Mbps)
