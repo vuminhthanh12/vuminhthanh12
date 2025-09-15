@@ -68,13 +68,11 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB3VNDKpfYMqqctpAS3nUA48/ts
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (MyTV)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB3JU8nrOCd-mYfwDYsc7YMU/ts
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 7.5Mbps)
-http://113.172.29.170:10101/rtp/232.84.3.127:10816
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
-http://113.172.29.170:10101/rtp/232.84.1.228:9342
+
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
 http://113.172.29.170:10101/rtp/232.84.1.212:9246
-#EXTINF:-1 id-xtream="36997" tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="append" , ON Vie Giải trí (HD 8Mbps)
-http://113.172.29.170:10101/rtp/232.84.3.78:11584
+#EXTINF:-1 id-xtream="36997" tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="append" , ON Vie Giải trí
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.m3u8
 #EXTINF:-1 id-xtream="12864" tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/198/${start}/${end}",ON Phim Việt (HD 8Mbps)
 http://113.172.29.170:10101/rtp/232.84.3.77:11590
 #EXTINF:-1 id-xtream="24646" tvg-id="onsports" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" group-title="VTVcab", ON Sports (HD 8.5Mbps)
