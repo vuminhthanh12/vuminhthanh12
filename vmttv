@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
-#EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 1
+#EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Kubolive.jpg", KuboLive #Server 1
 http://live.qphim.xyz/live/kubolive/index.m3u8
-#EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 2
+#EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Kubolive.jpg", KuboLive #Server 2
 http://server.priterytivi.com/kubotv/index.m3u8
 #EXTINF:-1 tvg-id="kubocast" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubocast.png?reload=1", KuboCast
 http://live.qphim.xyz/live/kubocast/index.m3u8
@@ -139,6 +139,8 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/2554/index
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/1/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus3" group-title="Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/TV360%2B3.png", TV360+3
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/148/index.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/14/live-giai-bong-ro-5x5-u23-quoc-gia-2025-slide-thumb_1757859928586.jpg", Thể Thao 250
+https://live.fptplay53.net/epzch1/thethao250_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/2/index.m3u8
@@ -350,7 +352,7 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/51/index.m
 https://cloud.sgchill.io.vn/v1//tools/getlink/television/source/coban1/60/index.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png", THP+ HD - Báo và PTTH Hải Phòng
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban2/haiphongplus/index.m3u8
 #EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho1.png", Cần Thơ 1 HD - Báo và PTTH Thành Phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/47/index.m3u8
