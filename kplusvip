@@ -70,7 +70,7 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB3JU8nrOCd-mYfwDYsc7YMU/ts
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB1su1RRVF_dt-XFB7QE-yG4/ts
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
-http://113.172.29.170:10101/rtp/232.84.1.212:9246
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB8yV69CzO-NYhtM1euNYgrY/ts
 #EXTINF:-1 id-xtream="36997" tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="append" , ON Vie Giải trí
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.m3u8
 #EXTINF:-1 id-xtream="12864" tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/198/${start}/${end}",ON Phim Việt (HD 8Mbps)
