@@ -76,7 +76,7 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extens
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/250px-Polsat_Sport_3_2024.svg.png", Polsat Sport 3
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Polsat_Sport_Premium_3_PPV_2021_gradient.svg/500px-Polsat_Sport_Premium_3_PPV_2021_gradient.svg.png", Polsat Sport Premium 3 PPV
-
+http://beno4k.live:8080/live/123/123/682877.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Polsat_Sport_Premium_4_PPV_2021_gradient.svg/640px-Polsat_Sport_Premium_4_PPV_2021_gradient.svg.png", Polsat Sport Premium 4 PPV
 http://filex.me:8080/live/drzain/002808/316246.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Polsat_Sport_Premium_5_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_5_PPV_Poziome_2021.svg.png", Polsat Sport Premium 5 PPV
@@ -484,7 +484,7 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/76/index.m
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/81/index.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/10/03/1683663305895/0f3f1e5bd284_640_360.png", TTV HD - Báo và PTTH Tuyên Quang
-https://xem.hoiquan.Click/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8
+
 #EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/07/1751329966912/3ddadef93c24_640_360.png", TN - Báo và PTTH Thái Nguyên
 https://xem.hoiquan.Click/CoBan/thai-nguyen/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823593760/3a9a9e608e8d_640_360.png", ĐTV HD - Báo Điện Biên Phủ
