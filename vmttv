@@ -351,7 +351,7 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/51/index.m
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png", THP HD - Báo và PTTH Hải Phòng 
 https://cloud.sgchill.io.vn/v1//tools/getlink/television/source/coban1/60/index.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png", THP+ HD - Báo và PTTH Hải Phòng
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban2/haiphongplus/index.m3u8
 #EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho1.png", Cần Thơ 1 HD - Báo và PTTH Thành Phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
