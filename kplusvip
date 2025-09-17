@@ -77,8 +77,8 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.m3u8
 #EXTINF:-1 id-xtream="24646" tvg-id="onsports" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" group-title="VTVcab", ON Sports HD
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB07vVPzQ5M3Sc9bH7MLSvEI/ts
-#EXTINF:-1 id-xtream="50929" tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg"  catchup="append" catchup-days="2" catchup-source="/catchup/435/${start}/${end}", ON Movies (HD 8.5Mbps)
-http://113.172.29.170:10101/rtp/232.84.2.190:10924
+#EXTINF:-1 id-xtream="50929" tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg"  catchup="append" catchup-days="2" catchup-source="/catchup/435/${start}/${end}", ON Movies
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/181/index.m3u8
 #EXTINF:-1 id-xtream="11211" tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/202/${start}/${end}", ON EChannel (HD 8Mbps)
 http://113.172.29.170:10101/rtp/232.84.3.76:11596
 #EXTINF:-1 id-xtream="63793" tvg-id="onsportsplus" plan="VIP,K+,VN" tvg-logo="https://i.imgur.com/UNxM1Hs.jpeg" group-title="VTVcab", ON Sports+ (HD 8Mbps)
