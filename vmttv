@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+#EXTINF:-1 tvg-id="ksport1hd" group-title="AFC CHAMPIONS LEAGUE TWO" tvg-logo="
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Kubolive.jpg", KuboLive #Server 1
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Kubolive.jpg", KuboLive #Server 2
@@ -75,8 +76,6 @@ http://beno4k.live:8080/live/123/123/682880.ts
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/250px-Polsat_Sport_3_2024.svg.png", Polsat Sport 3
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Polsat_Sport_Premium_5_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_5_PPV_Poziome_2021.svg.png", Polsat Sport Premium 5 PPV
-http://filex.me:8080/live/drzain/002808/316247.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Polsat_Sport_Premium_6_PPV_2021_gradient.svg/2560px-Polsat_Sport_Premium_6_PPV_2021_gradient.svg.png", Polsat Sport Premium 6 PPV
 http://filex.me:8080/live/drzain/002808/316248.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", Max Sport 1 HD
@@ -135,10 +134,6 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/2554/index
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/1/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus3" group-title="Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/TV360%2B3.png", TV360+3
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/148/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/15/live-giai-bong-ro-5x5-u23-quoc-gia-2025-slide-thumb_1757941329843.jpg", Thể Thao 21
-https://live.fptplay53.net/fnxch1/thethao21_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/15/live-giai-bong-ro-5x5-u23-quoc-gia-2025-slide-thumb_1757941445002.jpg", Thể Thao 19
-https://live.fptplay53.net/fnxch1/thethao19_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/2/index.m3u8
