@@ -135,6 +135,8 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/1/index.m3
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/148/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/16/live-giai-bong-ro-5x5-u23-quoc-gia-2025-slide-thumb_1757991702875.jpg", Thể Thao 2
 https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/16/live-giai-bong-ro-5x5-u23-quoc-gia-2025-slide-thumb_1757991813060.jpg", Thể Thao 3
+https://live.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/2/index.m3u8
