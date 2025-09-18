@@ -486,7 +486,7 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/52/index.m
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/71/index.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/172829227022/75b754d1dbd3_640_360.png", BTV1 HD - Đài PTTH Bình Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/42/index.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292301209/7f8769dc08d0_640_360.png", BTV2 HD - Đài PTTH Bình Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
