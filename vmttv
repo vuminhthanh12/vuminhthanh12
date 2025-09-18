@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
-#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE TWO" tvg-logo="https://img.kplus.vn/images?filename=media%2Fchannels%2Fsg%2Fnavasset%2FACLTwo_NamDinh_Ratchaburi_APP.png&orientation=landscape&w=704&h=396", Thép Xanh Nam Định vs Ratchaburi
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phanghd1.flv
-#EXTINF:-1 tvg-id="ksport1hd" group-title="AFC CHAMPIONS LEAGUE TWO" tvg-logo=" https://img.kplus.vn/images?filename=media%2Fchannels%2Fsg%2Fnavasset%2FACLTwo_AlNassr_Istiklol_APP.png&orientation=landscape&w=704&h=396", Al Nassr vs Istiklol
+#EXTINF:-1 tvg-id="ksport1hd" group-title="AFC CHAMPIONS LEAGUE TWO" tvg-logo="https://img.kplus.vn/images?filename=media%2Fchannels%2Fsg%2Fnavasset%2FACLTwo_BeijingGuoan_CAHN_APP.png&orientation=landscape&w=704&h=396", Bắc Kinh Quốc An vs Công An Hà Nội
 
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Kubolive.jpg", KuboLive #Server 1
 http://live.qphim.xyz/live/kubolive/index.m3u8
