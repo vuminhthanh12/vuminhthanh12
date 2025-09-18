@@ -81,8 +81,8 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB07vVPzQ5M3Sc9bH7MLSvEI/ts
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/181/index.m3u8
 #EXTINF:-1 id-xtream="11211" tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/202/${start}/${end}", ON EChannel
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/182/index.m3u8
-#EXTINF:-1 id-xtream="63793" tvg-id="onsportsplus" plan="VIP,K+,VN" tvg-logo="https://i.imgur.com/UNxM1Hs.jpeg" group-title="VTVcab", ON Sports+ (HD 8Mbps)
-http://113.172.29.170:10101/rtp/232.84.3.75:11602
+#EXTINF:-1 id-xtream="63793" tvg-id="onsportsplus" plan="VIP,K+,VN" tvg-logo="https://i.imgur.com/UNxM1Hs.jpeg" group-title="VTVcab", ON Sports+
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB_DOmVeuE-7mEGIxDoKuNnA/ts
 #EXTINF:-1 id-xtream="22152" tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg", ON O2TV (HD 8Mbps)
 http://113.172.29.170:10101/rtp/232.84.3.74:11608
 #EXTINF:-1 id-xtream="84252" tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg"  catchup="append" catchup-days="2" catchup-source="/catchup/205/${start}/${end}", ON BiBi (HD 8.5Mbps)
