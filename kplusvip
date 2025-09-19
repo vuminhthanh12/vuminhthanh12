@@ -85,8 +85,8 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/182/index.
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB_DOmVeuE-7mEGIxDoKuNnA/ts
 #EXTINF:-1 id-xtream="22152" tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg", ON O2TV
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/136/index.m3u8
-#EXTINF:-1 id-xtream="84252" tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg"  catchup="append" catchup-days="2" catchup-source="/catchup/205/${start}/${end}", ON BiBi (HD 8.5Mbps)
-http://113.172.29.170:10101/rtp/232.84.3.217:11224
+#EXTINF:-1 id-xtream="84252" tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg"  catchup="append" catchup-days="2" catchup-source="/catchup/205/${start}/${end}", ON BiBi
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/178/index.m3u8
 #EXTINF:-1 id-xtream="83861" tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ONINFO.jpg", ON Info TV (HD 8Mbps)
 http://113.172.29.170:10101/rtp/232.84.3.73:11614
 #EXTINF:-1 id-xtream="63553" tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg"  catchup="append" catchup-days="2" catchup-source="/catchup/204/${start}/${end}", ON Cine (HD 8Mbps)
