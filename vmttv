@@ -502,7 +502,7 @@ http://filex.tv:8080//live/drzain/002808/302251.ts
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CINEMAX.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
-
+https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", Cinema World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
