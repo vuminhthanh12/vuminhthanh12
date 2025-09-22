@@ -93,8 +93,8 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/189/index.
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/176/index.m3u8
 #EXTINF:-1 id-xtream="36266" tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/206/${start}/${end}", ON Style TV
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/184/index.m3u8
-#EXTINF:-1 id-xtream="36266" tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png"  catchup="append" catchup-days="2" catchup-source="/catchup/439/${start}/${end}", ON Music (HD 8Mbps)
-http://113.172.29.170:10101/rtp/232.84.3.70:11632
+#EXTINF:-1 id-xtream="36266" tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png"  catchup="append" catchup-days="2" catchup-source="/catchup/439/${start}/${end}", ON Music
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/185/index.m3u8
 #EXTINF:-1 id-xtream="42852" tvg-id="onfootball" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" group-title="VTVcab", ON Football (HD 8.5Mbps)
 http://113.172.29.170:10101/rtp/232.84.3.243:11380
 #EXTINF:0 id-xtream="12933" tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON Trending TV (HD 8Mbps)
