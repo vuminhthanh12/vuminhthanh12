@@ -495,7 +495,7 @@ https://hls.mskycdn.online/tv/hbohd/index.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo=" https://cms.cignal.tv/Upload/Images/HBO%20Hits-1.jpg", HBO Hits
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163801&extension=ts&play_token=liPMjLtNEA
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png", HBO Family
-
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163794&extension=ts&play_token=Y69qN5p7zN
 #EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/hbosignaturehd-asia.png", HBO Signature HD
 http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302251.ts
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.vimeocdn.com/video/852785228-36403e3d29153c02a4acfcf0ca4182b0be0bef3e5b43355eafc33614ee972a9b-d?f=webp", Asian Food Network
