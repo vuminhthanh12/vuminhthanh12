@@ -105,8 +105,8 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB-Pl2oy_1ntIc31kabp62gM/ts
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/177/index.m3u8
 #EXTINF:-1 id-xtream="35271" tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp" catchup="append" catchup-days="2" catchup-source="/catchup/241/${start}/${end}", ON VFamily
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/187/index.m3u8
-#EXTINF:-1 id-xtream="96150" tvg-id="onkids" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp", ON Kids (HD 7Mbps)
-http://113.172.29.170:10101/rtp/232.84.3.41:11806 
+#EXTINF:-1 id-xtream="96150" tvg-id="onkids" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp", ON Kids
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/179/index.m3u8
 #EXTINF:-1 id-xtream="32686" tvg-id="onlife" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg", ON Life (HD 7Mbps)
 http://113.172.29.170:10101/rtp/232.84.3.40:11812
 #EXTINF:-1 id-xtream="57739" tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/02a45a6b-182e-4e4d-b75d-76ffae666cd6.jpeg?auto=format&fit=max&w=640", ON Golf (HD 8.5Mbps)
