@@ -115,14 +115,13 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/2554/index
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/1/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus3" group-title="Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/TV360%2B3.png", TV360+3
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/148/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/24/vong2live-dunlop-ladies-open-2025-slider-thumb_1758702954118.jpg", Thể Thao 122
-https://live.fptplay53.net/epzch1/thethao122_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/26/live-pickleball-malaysia-cup-2025-slider-thumb_1758869303467.jpg", Thể Thao 5
 https://live.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/26/27_1758821448070.jpg", Thể Thao 6
 https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/26/27_1758880087137.jpg", Thể Thao 241
 https://event.fptplay53.net/channel/thethao241-uhd/master_avc.m3u8?sign=1758958610-sign-0-b2f6e450162fb929abaac96a12c13edf
+#EXTINF:-1 group-title="Livestream" tvg-logo="
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/2/index.m3u8
