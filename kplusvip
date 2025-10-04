@@ -111,8 +111,6 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/179/index.
 https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/188/index.m3u8
 #EXTINF:-1 id-xtream="57739" tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/02a45a6b-182e-4e4d-b75d-76ffae666cd6.jpeg?auto=format&fit=max&w=640", ON Golf
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB5mdoLtPsm6g90l6pfMwxJk/ts
-#EXTINF:0 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
-http://113.172.29.170:10101/rtp/232.84.1.206:9210
 #EXTINF:0 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
 http://113.172.29.170:10101/rtp/232.84.2.191:10930
 #EXTINF:0 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
