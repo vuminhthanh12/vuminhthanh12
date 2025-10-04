@@ -159,40 +159,40 @@ https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}", ON Phim Việt
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/175/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}", On Movies - You TV
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/181/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}", ON E- Channel
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/182/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/136/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/178/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=178
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ONINFO.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}", ON Info TV
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/189/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=189
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/176/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", ON Style TV
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/184/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/185/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:0 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/186/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/177/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=177
 #EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/187/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=187
 #EXTINF:-1 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/179/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/188/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo=" https://img.lichphatsong.xyz/logo/on-golf.jpg", On Golf
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/169/index.m3u8
+
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
