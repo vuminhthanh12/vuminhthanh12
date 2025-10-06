@@ -1,6 +1,5 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTM3U url-tvg="https://live.qphim.xyz/epg.xml"
-#EXTM3U url-tvg="http://onnaonlinetv.xyz/epg.xml"
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://ip1.qphim.xyz/image/kubolive-full.png" catchup-type="append" catchup-days="5" catchup-source="?t=${start}&d=${offset}", KuboLive #Server 1
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 tvg-id="kubocast" group-title="Kubo Network" tvg-logo="https://ip1.qphim.xyz/image/kubocast.png", KuboCast
