@@ -44,7 +44,7 @@ https://xem.hoiquan.Click/CoBan/vtv7-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (TV360)
 https://xem.hoiquan.Click/CoBan/vtv8-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (TV360)
-
+https://xem.hoiquan.Click/CoBan/vtv9-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (MyTV)
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmBwMVgk3zKYD4TjGiKdEp77A/ts
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (MyTV)
@@ -72,47 +72,45 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB1su1RRVF_dt-XFB7QE-yG4/ts
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB8yV69CzO-NYhtM1euNYgrY/ts
 #EXTINF:-1 id-xtream="36997" tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="append" , ON Vie Giải trí
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 id-xtream="12864" tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/198/${start}/${end}",ON Phim Việt
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:-1 id-xtream="24646" tvg-id="onsports" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" group-title="VTVcab", ON Sports HD
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB07vVPzQ5M3Sc9bH7MLSvEI/ts
 #EXTINF:-1 id-xtream="50929" tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg"  catchup="append" catchup-days="2" catchup-source="/catchup/435/${start}/${end}", ON Movies
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/181/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 id-xtream="11211" tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/202/${start}/${end}", ON EChannel
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/182/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:-1 id-xtream="63793" tvg-id="onsportsplus" plan="VIP,K+,VN" tvg-logo="https://i.imgur.com/UNxM1Hs.jpeg" group-title="VTVcab", ON Sports+
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB_DOmVeuE-7mEGIxDoKuNnA/ts
 #EXTINF:-1 id-xtream="22152" tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg", ON O2TV
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/136/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 id-xtream="84252" tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg"  catchup="append" catchup-days="2" catchup-source="/catchup/205/${start}/${end}", ON BiBi
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/178/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=178
 #EXTINF:-1 id-xtream="83861" tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ONINFO.jpg", ON Info TV
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/189/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=189
 #EXTINF:-1 id-xtream="63553" tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg"  catchup="append" catchup-days="2" catchup-source="/catchup/204/${start}/${end}", ON Cine
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/176/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 id-xtream="36266" tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg" catchup="append" catchup-days="2" catchup-source="/catchup/206/${start}/${end}", ON Style TV
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/184/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1 id-xtream="36266" tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png"  catchup="append" catchup-days="2" catchup-source="/catchup/439/${start}/${end}", ON Music
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/185/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:-1 id-xtream="42852" tvg-id="onfootball" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" group-title="VTVcab", ON Football HD
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6Cec3bT38aFdbJkeMHs8sg/ts
 #EXTINF:0 id-xtream="12933" tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON Trending TV
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/186/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:-1 id-xtream="44545" tvg-id="onsportsnews" plan="VIP,K+,VN" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" group-title="VTVcab", ON Sports News
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB-Pl2oy_1ntIc31kabp62gM/ts
 #EXTINF:-1 id-xtream="19216" tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" , ON Vie Dramas
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/177/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=177
 #EXTINF:-1 id-xtream="35271" tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp" catchup="append" catchup-days="2" catchup-source="/catchup/241/${start}/${end}", ON VFamily
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/187/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=187
 #EXTINF:-1 id-xtream="96150" tvg-id="onkids" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp", ON Kids
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/179/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 id-xtream="32686" tvg-id="onlife" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg", ON Life
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/188/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 id-xtream="57739" tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/02a45a6b-182e-4e4d-b75d-76ffae666cd6.jpeg?auto=format&fit=max&w=640", ON Golf
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB5mdoLtPsm6g90l6pfMwxJk/ts
-#EXTINF:0 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8Mbps)
-http://113.172.29.170:10101/rtp/232.84.1.210:9234
 #EXTINF:0 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
 http://113.172.29.170:10101/rtp/232.84.2.246:10876
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
