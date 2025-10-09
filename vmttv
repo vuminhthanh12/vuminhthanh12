@@ -114,6 +114,9 @@ https://proxy.liyao.space/1.org.vn/oni1/?/index.m3u8
 https://proxy.liyao.space/1.org.vn/oni3/?/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/10/07/9_1759855431679.jpg", Thể Thao 24
 https://live.fptplay53.net/fnxsport/thethao24_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/10/06/slider_1759719669324.jpg", Thể Thao 109
+https://event.fptplay53.net/channel/thethao109/master_mx.m3u8?sign=1760010303-sign-0-5378d2fcd8360f6b0b89cc1fec22ddbc
+#EXTINF:-1 group-title="Livestream" tvg-logo="
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/2/index.m3u8
