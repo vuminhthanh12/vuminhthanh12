@@ -266,7 +266,7 @@ https://xem.hoiquan.Click/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 - Vie Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vc.101vn.com/htv/htvcmb.php?id=2669
+https://sgchill.io.vn/s97/vieon.html?id=htv2
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/b4/4c/c3/36/68/86/b4c36-phtv3hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3 - Đài PTTH Thành Phố Hồ Chí Minh
 https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv-key/${start}/${offset}", HTV Key - Đài PTTH Thành Phố Hồ Chí Minh
@@ -324,6 +324,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=77
 https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV2.png", ĐNNRTV2 - Báo và PTTH Đồng Nai
 https://freem3u.xyz/api/live/play.m3u8?vid=255
+#EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV3.png", ĐNNRTV3 - Báo và PTTH Đồng Nai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgchill.io.vn/s97/vieon.html?id=dongnai3
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_640_360.png", Hà Nội 1 HD - Đài Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=33
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_640_360.png", Hà Nội 2 HD - Đài Hà Nội
