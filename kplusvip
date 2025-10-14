@@ -114,9 +114,9 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB5mdoLtPsm6g90l6pfMwxJk/ts
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE HD
 http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6gx7gFPNU9ZfLtkACIxHuw/ts
 #EXTINF:0 tvg-id="kactionhd" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION HD
-
-#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (HD 9Mbps)
-http://113.172.29.170:10101/rtp/232.84.1.37:8196
+http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB-_R93eVBwswXKHs_gjSOGc/ts
+#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 HD
+http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB8Bhv8AwPH-8TUlO_Jo3kh8/ts
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (HD 9Mbps)
 http://113.172.29.170:10101/rtp/232.84.1.34:8178
 #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (HD 9Mbps)
