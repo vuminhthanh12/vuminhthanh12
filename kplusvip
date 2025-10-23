@@ -121,7 +121,7 @@ http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB8Bhv8AwPH-8TUlO_Jo3kh8/ts
 http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB1quEUElf5xxIH8qdsfUpp0/ts
 #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+KIDS HD
 http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB5Ocbym1X8BoZlt8uxhXIDo/ts
-#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine
+#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+CINE HD - FPT PLAY
 http://113.172.29.170:10101/rtp/232.84.1.96:8550
 #EXTINF:0 tvg-id="kactionhd" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action
 http://113.172.29.170:10101/rtp/232.84.1.97:8556
