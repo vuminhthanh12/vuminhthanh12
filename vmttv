@@ -19,7 +19,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="spd" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",Sportdigital
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145467.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
-http://beno4k.live:8080/live/123/123/679799.ts
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157967.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2 4Mbps for 4G
@@ -116,8 +116,6 @@ https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
 https://proxy.liyao.space/1.org.vn/oni1/?/index.m3u8
 #EXTINF:-1 tvg-id="on3" group-title="📺| ONNA Network" tvg-logo="https://i.ibb.co/tp1p8DbQ/1736105796820.png", ONi3
 https://proxy.liyao.space/1.org.vn/oni3/?/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/10/22/live-giai-vo-dich-bong-ro-5x5-u20-quoc-gia-2025-slide-thumb_1761102137651.jpg", Thể Thao 5
-https://live.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=2
