@@ -116,8 +116,6 @@ https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
 https://proxy.liyao.space/1.org.vn/oni1/?/index.m3u8
 #EXTINF:-1 tvg-id="on3" group-title="📺| ONNA Network" tvg-logo="https://i.ibb.co/tp1p8DbQ/1736105796820.png", ONi3
 https://proxy.liyao.space/1.org.vn/oni3/?/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/10/22/live-giai-vo-dich-bong-ro-5x5-u20-quoc-gia-2025-slide-thumb_1761101623512.jpg", Thể Thao 15
-https://live.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/10/22/slider_1761120858122.jpg", Thể Thao 137
 https://live.fptplay53.net/fnxch1/thethao137_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/10/22/live-giai-vo-dich-bong-ro-5x5-u20-quoc-gia-2025-slide-thumb_1761101983049.jpg", Thể Thao 4
@@ -262,7 +260,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg", Box Hits
 https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="manhd" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png", Man
-https://toiyeuvietnam.dpdns.org/CoBan/man-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box
 https://toiyeuvietnam.dpdns.org/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822429190/7b74ab00eb3e_640_360.png", Dr.Fit
