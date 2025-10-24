@@ -123,7 +123,7 @@ http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB1quEUElf5xxIH8qdsfUpp0/ts
 http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB5Ocbym1X8BoZlt8uxhXIDo/ts
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+CINE HD - FPT PLAY
 http://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB2UCGiVFedO3Fl-ARCkKMVs/ts
-#EXTINF:0 tvg-id="kactionhd" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action
+#EXTINF:0 tvg-id="kactionhd" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ACTION - FPT PLAY
 http://113.172.29.170:10101/rtp/232.84.1.97:8556
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1
 http://113.172.29.170:10101/rtp/232.84.1.98:8562
