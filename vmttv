@@ -82,8 +82,6 @@ http://filex.me:8080/live/drzain/002808/318164.ts
 http://filex.me:8080/live/drzain/002808/318165.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
 http://filex.me:8080/live/drzain/002808/318167.ts
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png", SporTV 2
-http://filex.me:8080/live/drzain/002808/304302.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p1q77RO.png" group-title="⚽| SPOTV",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
