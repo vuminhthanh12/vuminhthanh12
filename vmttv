@@ -112,14 +112,6 @@ https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8
 https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="on1" group-title="📺| ONNA Network" tvg-logo="https://i.ibb.co/spCgh0Tf/1735283835605.png", ONi1
 https://proxy.liyao.space/1.org.vn/oni1/?/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/10/31/31_1761883225924.jpg", Thể Thao 6
-https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/10/28/slider_1761643833794.jpg", Thể Thao 122
-https://live.fptplay53.net/epzch1/thethao122_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/10/28/slider_1761644070930.jpg", Thể Thao 137
-https://live.fptplay53.net/fnxch1/thethao137_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/10/28/slider_1761644209776.jpg", Thể Thao 135
-https://live.fptplay53.net/fnxch1/thethao135_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=2
@@ -376,7 +368,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=74
 #EXTINF:-1 tvg-id="tayninh2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV2.png", TTV2 - Báo và PTTH Tây Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=86
 #EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg", CTV HD - Báo và PTTH Cà Mau
-https://freem3u.xyz/api/live/play.m3u8?vid=38
+https://freem3u.xyz/api/live/play.m3u8?vid=46
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/GTVGIALAI.png", GTV - Báo và PTTH Gia Lai
 https://freem3u.xyz/api/live/play.m3u8?vid=55
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_640_360.png", KTV HD - Báo và PTTH Khánh Hòa
