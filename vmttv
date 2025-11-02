@@ -8,7 +8,8 @@ http://live.qphim.xyz/live/kubocast/index.m3u8
 http://live.qphim.xyz/hls_nonkey/ninochannel1/index.m3u8
 #EXTINF:-1 group-title="FA CUP 2025/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p0mc1d1s.jpg", Eastleigh vs Walsall
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157969.ts
-#EXTINF:-1 group-title="FA CUP 2025/2026" tvg-logo="
+#EXTINF:-1 group-title="FA CUP 2025/2026" tvg-logo="https://thumbor.prod.vidiocdn.com/Ik4N8vox2K5sXuoy2fD47Rf3r4I=/filters:quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4678560/a7f022.jpg", Port Vale vs Maldon & Tiptree
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/134129.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyspnews" tvg-logo="https://img-284.media.info/i/bg/1/1087-1600877510.webp",Sky Sports News
 http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588069&extension=ts&play_token=lh97TPSDwG
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
