@@ -110,8 +110,6 @@ https://s6.kkphimplayer6.com/20250901/2RZvePPZ/3500kb/hls/index.m3u8
 https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/09/29/tham-tu-kien-ky-an-khong-dau-fpt-play-1759139646462_Landscape.jpg", Thám Tử Kiên: Kỳ Án Không Đầu
 https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/04/live-bong-ro-dai-hoi-tdtt-ha-noi-2025-slide-thumb_1762236388445.jpg", Thể Thao 5
-https://live.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/04/live-bong-ro-dai-hoi-tdtt-ha-noi-2025-slide-thumb_1762236569080.jpg", Thể Thao 6
 https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/05/5_1762320896496.jpg", Thể Thao 19
@@ -246,6 +244,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png",:SCTV22 HD
+https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
