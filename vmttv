@@ -115,8 +115,6 @@ https://s6.kkphimplayer6.com/20250901/2RZvePPZ/3500kb/hls/index.m3u8
 https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/09/29/tham-tu-kien-ky-an-khong-dau-fpt-play-1759139646462_Landscape.jpg", Thám Tử Kiên: Kỳ Án Không Đầu
 https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/09/live-bong-ro-dai-hoi-tdtt-ha-noi-2025-slide-thumb_1762695885186.jpg", Thể Thao 249
-https://live.fptplay53.net/epzch1/thethao249_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/09/live-bong-ro-dai-hoi-tdtt-ha-noi-2025-slide-thumb_1762696035690.jpg", Thể Thao 250
 https://live.fptplay53.net/epzch1/thethao250_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
@@ -484,6 +482,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=71995&extension=ts&play_token=mvpWiPu9Lp
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch502_425_305" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
