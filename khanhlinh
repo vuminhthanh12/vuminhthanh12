@@ -13,3 +13,9 @@ https://livevlisctcdnw.seenow.vn/mean/KSPORT1/manifest.mpd
 http://113.172.29.170:11111/rtp/232.84.1.34:8178
 #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (HD 9Mbps)
 http://113.172.29.170:11111/rtp/232.84.3.42:11800
+#EXTINF:-1 tvg-id="sctv15hd" group-title="5.2. SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg",SCTV9 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
+https://livecdn.seenow.vn/mean/SCTV15HD/manifest.mpd
