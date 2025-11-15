@@ -114,8 +114,8 @@ https://s6.kkphimplayer6.com/20250901/2RZvePPZ/3500kb/hls/index.m3u8
 https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/09/29/tham-tu-kien-ky-an-khong-dau-fpt-play-1759139646462_Landscape.jpg", Thám Tử Kiên: Kỳ Án Không Đầu
 https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/13/vong2live-itoen-ladies-golf-tournament-2025---jlpga-2025-slider-thumb_1763004715606.jpg", Thể Thao 123
-https://live.fptplay53.net/epzch1/thethao123_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/13/vong3live-dp-world-tour-championship---dubai-2025-slider-thumb_1763008343028.jpg", Thể Thao 124
+https://live.fptplay53.net/epzch1/thethao124_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=2
@@ -434,7 +434,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hbohits" group-title="Quốc Tế" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20Hits-1.jpg", HBO Hits
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163801&extension=ts&play_token=Sb6MqPIhFx
 #EXTINF:-1 tvg-id="hbofamily" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png", HBO Family
-http://filex.tv:8080//live/drzain/002808/302249.ts
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163794&extension=ts&play_token=MZv0ajs9zg
 #EXTINF:-1 tvg-id="hbosignaturehd" group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_425_305", HBO Signature HD
 http://filex.tv:8080//live/drzain/002808/302251.ts
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.vimeocdn.com/video/852785228-36403e3d29153c02a4acfcf0ca4182b0be0bef3e5b43355eafc33614ee972a9b-d?f=webp", Asian Food Network
