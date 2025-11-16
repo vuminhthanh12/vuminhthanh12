@@ -14,7 +14,7 @@ https://akaviettel.sgchill.io.vn/v1/stream/twitch/channel/sgevents.smil/playlist
 #EXTINF:-1 group-title="AFC WOMEN CHAMPIONS LEAGUE 2025/2026" tvg-logo="https://img.kplus.vn/images?filename=media%2Fchannels%2Fsg%2Fnavasset%2FAWCL2526_LIONCITY_TPHCM_APP.png&orientation=landscape&w=704&h=396", Lion City Sailor (w) vs Thành Phố Hồ Chí Minh (w)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyspnews" tvg-logo="https://img-284.media.info/i/bg/1/1087-1600877510.webp",Sky Sports News
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/300415.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
