@@ -11,7 +11,8 @@ http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 tvg-id="sgevents" group-title="SG Network" group-logo="https://resources.cdn.sgchill.io.vn/images/main.png" tvg-logo="https://resources.cdn.sgchill.io.vn/images/main.png",SGEvents
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
 https://akaviettel.sgchill.io.vn/v1/stream/twitch/channel/sgevents.smil/playlist.m3u8
-#EXTINF:-1 group-title="Play-off Vòng loại World Cup 2026 khu vực Châu Á" tvg-logo="
+#EXTINF:-1 group-title="Play-off Vòng loại World Cup 2026 khu vực Châu Á" tvg-logo="https://i.ex-cdn.com/nongnghiepmoitruong.vn/files/content/2025/11/13/truc-tiep-bong-da-uae-vs-iraq-13-11-2025-163657_996-164447.jpg", Iraq vs UAE
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyspnews" tvg-logo="https://img-284.media.info/i/bg/1/1087-1600877510.webp",Sky Sports News
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/300415.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
