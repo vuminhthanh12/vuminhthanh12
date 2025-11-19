@@ -11,10 +11,6 @@ http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 tvg-id="sgevents" group-title="SG Network" group-logo="https://resources.cdn.sgchill.io.vn/images/main.png" tvg-logo="https://resources.cdn.sgchill.io.vn/images/main.png",SGEvents
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
 https://akaviettel.sgchill.io.vn/v1/stream/twitch/channel/sgevents.smil/playlist.m3u8
-#EXTINF:-1 group-title="Play-off Vòng loại World Cup 2026 khu vực Châu Á" tvg-logo="https://i.ex-cdn.com/nongnghiepmoitruong.vn/files/content/2025/11/13/truc-tiep-bong-da-uae-vs-iraq-13-11-2025-163657_996-164447.jpg", Iraq vs UAE
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyspnews" tvg-logo="https://img-284.media.info/i/bg/1/1087-1600877510.webp",Sky Sports News
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/300415.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
@@ -120,6 +116,8 @@ https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8
 https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/112025/1_20251116070652.jpg", Mưa Đỏ
 https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/19/bang-cho-24_1763516402518.jpg", Thể Thao 16
+https://live.fptplay53.net/fnxch1/thethao16_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=2
