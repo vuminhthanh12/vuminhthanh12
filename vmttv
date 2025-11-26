@@ -11,8 +11,6 @@ http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 tvg-id="sgevents" group-title="SG Network" group-logo="https://resources.cdn.sgchill.io.vn/images/main.png" tvg-logo="https://resources.cdn.sgchill.io.vn/images/main.png",SGEvents
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
 https://akaviettel.sgchill.io.vn/v1/stream/twitch/channel/sgevents.smil/playlist.m3u8
-#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE TWO 2025/2026" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/22/slider_1763785544662.jpg", FC Istiklol vs Al Nassr
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
 http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588065&extension=ts&play_token=xBXM5E3VAZ
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skypl" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png",Sky Sport Premier League
