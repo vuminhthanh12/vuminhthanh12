@@ -238,8 +238,6 @@ https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
-#EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV4K 
-https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=159&token=BLjOIlaKSsUaZvtX
@@ -538,7 +536,7 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/425e1955860511.59ae62ac642ba.png", TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://identsandpresentation.com/animalplanet2018/stingone-d.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=71986&extension=ts&play_token=bxZiCrEqA4
+
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
