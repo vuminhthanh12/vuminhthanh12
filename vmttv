@@ -179,7 +179,8 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=188&token=BLj
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=169&token=BLjOIlaKSsUaZvtX
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k1_172771644656.jpg", K+CINE HD
 https://ace.hoiquan.click/module/IPTV/?id=KCINE&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="
+#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kns_172771621265.jpg", K+ACTION HD
+
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
