@@ -173,7 +173,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo=" https://img.lichphatsong.xyz/logo/on-golf.jpg", On Golf
-
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k1_172771644656.jpg", K+CINE HD
 https://ace.hoiquan.click/module/IPTV/?id=KCINE&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kns_172771621265.jpg", K+ACTION HD
@@ -239,7 +239,7 @@ https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=159&token=BLjOIlaKSsUaZvtX
+
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg", Hollywood Classics
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=160&token=BLjOIlaKSsUaZvtX
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg", In The Box
