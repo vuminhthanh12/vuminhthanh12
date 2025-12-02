@@ -355,17 +355,17 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV2.jpg", ATV2 | Báo và PTTH An Giang
-
+https://toiyeuvietnam.dpdns.org/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png", NBTV - Báo và PTTH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_640_360.png", NTV - Báo và PTTH Nghệ An
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=74&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=74
 #EXTINF:-1 tvg-id="tayninh2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV2.png", TTV2 - Báo và PTTH Tây Ninh
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=86&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=86
 #EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg", CTV HD - Báo và PTTH Cà Mau
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=46&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=46
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/GTVGIALAI.png", GTV - Báo và PTTH Gia Lai
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=55&token=BLjOIlaKSsUaZvtX
+
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_640_360.png", KTV HD - Báo và PTTH Khánh Hòa
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=65&token=BLjOIlaKSsUaZvtX
 #EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế TV - Báo và PTTH Huế
