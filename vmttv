@@ -107,7 +107,7 @@ https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
 https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://pbs.twimg.com/media/G64ITKbbkAMVmeL?format=jpg&name=large", Conan Movie 28 - Dư Ảnh Của Độc Nhãn
 https://dl.dropboxusercontent.com/scl/fi/gcb7dkwb23p8in0m6393d/Detective-Conan-The-Movie-D-nh-c-a-c-Nh-n.mp4?rlkey=bc4oojtcc3c4wgpuzrws1a6iv&st=l89l6nl2&dl=0
-#EXTINF:-1 group-title="Livestream" tvg-logo=" https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k-kids-hd_172771651866.jpg", Thể Thao 109
+#EXTINF:-1 group-title="Livestream" tvg-logo=" https://images.fptplay53.net/media/home_event/OTT/2025/12/03/slider_1764734220274.jpg", Thể Thao 109
 https://event.fptplay53.net/channel/thethao109/master_mx.m3u8?sign=1764746730-sign-0-31a7ed69cd725aaf6d18d7f9e565dc02
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
