@@ -179,7 +179,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo=" https://live.fptplay53.net/fnxch1/thethao139_mx.smil/chunklist_b6000000.m3u8 https://img.lichphatsong.xyz/logo/on-golf.jpg", On Golf
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg", On Golf
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k1_172771644656.jpg", K+CINE HD
 https://ace.hoiquan.click/module/IPTV/?id=KCINE&accKenh=vuminhthanh1
