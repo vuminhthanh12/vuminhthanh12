@@ -107,16 +107,8 @@ https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
 https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://pbs.twimg.com/media/G64ITKbbkAMVmeL?format=jpg&name=large", Conan Movie 28 - Dư Ảnh Của Độc Nhãn
 https://dl.dropboxusercontent.com/scl/fi/gcb7dkwb23p8in0m6393d/Detective-Conan-The-Movie-D-nh-c-a-c-Nh-n.mp4?rlkey=bc4oojtcc3c4wgpuzrws1a6iv&st=l89l6nl2&dl=0
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/04/vong1live-nedbank-golf-challenge-2025---dp-world-tour-2025-slider-thumb_1764813881693.jpg", Thể Thao 140
-https://live.fptplay53.net/fnxch1/thethao140_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/28/slider_1764327374528.jpg", Thể Thao 134
-https://live.fptplay53.net/fnxch1/thethao134_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/04/slider_1764815858700.jpg", Thể Thao 15
-https://live.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/28/slider_1764327119179.jpg", Thể Thao 2
-https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/26/slider_1764142679559.jpg", Thể Thao 3
-https://live.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/03/live-pickleball-hangzhou-open-2025-slider-thumb_1764734999709.jpg", Thể Thao 17
+https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=2
