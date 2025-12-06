@@ -11,7 +11,8 @@ http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 tvg-id="sgnetwork" group-title="SGChill" group-logo="http://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/main.png",SG Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.139 Mobile Safari/537.36
 https://delivery.04.sgchill.io.vn/v2/channel/stream/twitch/sgnetwork.smil/playlist.m3u8
-#EXTINF:-1 group-title="FA CUP 2025/2026" tvg-logo="
+#EXTINF:-1 group-title="FA CUP 2025/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0mj1y3v.jpg", Sutton United vs Shrewsbury
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
