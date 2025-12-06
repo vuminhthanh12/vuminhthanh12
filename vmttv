@@ -11,6 +11,7 @@ http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 tvg-id="sgnetwork" group-title="SGChill" group-logo="http://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/main.png",SG Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.139 Mobile Safari/537.36
 https://delivery.04.sgchill.io.vn/v2/channel/stream/twitch/sgnetwork.smil/playlist.m3u8
+#EXTINF:-1 group-title="FA CUP 2025/2026" tvg-logo="
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
@@ -107,15 +108,7 @@ https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
 https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://pbs.twimg.com/media/G64ITKbbkAMVmeL?format=jpg&name=large", Conan Movie 28 - Dư Ảnh Của Độc Nhãn
 https://dl.dropboxusercontent.com/scl/fi/gcb7dkwb23p8in0m6393d/Detective-Conan-The-Movie-D-nh-c-a-c-Nh-n.mp4?rlkey=bc4oojtcc3c4wgpuzrws1a6iv&st=l89l6nl2&dl=0
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo=" 
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/06/06_1764958997050.jpg", Thể Thao 5
-https://live.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/03/live-pickleball-hangzhou-open-2025-slider-thumb_1764735757275.jpg", Thể Thao 4
-https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/03/vong3live-nedbank-golf-challenge-2025---dp-world-tour-2025-slider-thumb_1764728623925.jpg", Thể Thao 139
-https://live.fptplay53.net/fnxch1/thethao139_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/06/slider_1764988894810.jpg", Thể Thao 18
-https://live.fptplay53.net/fnxch1/thethao18_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://hnm.1cdn.vn/thumbs/600x315/2025/05/08/mmdb_poster_first-look_2000x2500px.jpg
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=2
@@ -153,7 +146,7 @@ https://liveh12.seenow.vn/hls/VTV9_HD/04.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}", ON Phim Việt
 http://khaitv.giize.com:1979/mytv/new/get.php?id=198
-#EXTINF:-1
+#EXTINF:-1 
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}", On Movies - You TV
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}", ON E- Channel
