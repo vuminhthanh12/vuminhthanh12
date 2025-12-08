@@ -497,7 +497,7 @@ http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163721&extensio
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png", CNBC
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/131029.ts
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://deadline.com/wp-content/uploads/2020/09/CNN-Logo.jpg", CNN
-https://ace.hoiquan.click/module/IPTV/?id=Cnn&accKenh=vuminhthanh1
+http://khaitv.giize.com:1979/mytv/new/get.php?id=593
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/hq720.jpg", CGTN
