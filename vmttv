@@ -151,7 +151,8 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=200
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}", ON E- Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="
+#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/62954f11-54cd-4b09-aedc-52a4c4190b04.jpg?auto=format&fit=max&w=640", ON Sport+ HD
+
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi
