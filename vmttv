@@ -6,8 +6,6 @@ http://live.qphim.xyz/live/kubolive/index.m3u8
 http://live.qphim.xyz/live/kubocast/index.m3u8
 #EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel2.jpg", Nino Channel 2
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
-#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE TWO 2025/2026" tvg-logo="https://img4.kplus.vn/images?filename=media%2Fchannels%2Fsg%2Fnavasset%2FACLTwo_TaiPo_CAHN_APP.png&orientation=landscape&w=704&h=396", Taipo vs Công An Hà Nội
-https://rblive.starxcdn.xyz/live/689c8ef189c203e20dd33199_4wyrn4h69554q86_football_fhd.flv
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
@@ -102,20 +100,6 @@ https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 https://dl.dropboxusercontent.com/scl/fi/gcb7dkwb23p8in0m6393d/Detective-Conan-The-Movie-D-nh-c-a-c-Nh-n.mp4?rlkey=bc4oojtcc3c4wgpuzrws1a6iv&st=l89l6nl2&dl=0
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://hnm.1cdn.vn/thumbs/600x315/2025/05/08/mmdb_poster_first-look_2000x2500px.jpg", Mang Mẹ Đi Bỏ
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/10/live-truc-tiep-cac-mon-the-thao-sea-games-33-slider-thumb_1765378907039.jpg", Thể Thao 17
-https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/10/live-truc-tiep-cac-mon-the-thao-sea-games-33-slider-thumb_1765378941335.jpg", Thể Thao 2
-https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/10/live-cac-mon-khac-sea-games-33-slider-thumb_1765347444506.jpg", Thể Thao 6
-https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/11/live-saudi-open-2025---asian-tour-2025-slider-thumb_1765429685524.jpg", Thể Thao 135
-https://live.fptplay53.net/fnxch1/thethao135_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/10/vong1live-alfred-dunhill-championship-2025---dp-world-tour-2025-slider-thumb_1765339233106.jpg", Thể Thao 123
-https://live.fptplay53.net/epzch1/thethao123_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/11/slider_1765419975015.jpg", Thể Thao 20
-https://live.fptplay53.net/fnxch1/thethao20_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/12/11/saolivedinhchop1112slider_1765437080614.jpg", Thể Thao 249
-https://live.fptplay53.net/epzch1/thethao249_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=2
@@ -519,7 +503,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/654179-KBS.png", KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=213&token=BLjOIlaKSsUaZvtX
+
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png", NHK World
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://cia.lk/wp-content/uploads/2021/09/logo_aje_social.png", Al Jazeera English
