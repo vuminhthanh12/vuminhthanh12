@@ -526,7 +526,7 @@ https://ace.hoiquan.click/module/IPTV/?id=discoveryasia&accKenh=vuminhthanh1
 https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
 #EXTINF:0 tvg-id="blueantent" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/L5yHTzj/Rock-Entertainment.png" ,Rock Entertainment
 #EXTVLCOPT:http-user-agent="KIIP"
-
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776182&extension=ts&play_token=K4JiFEWv19
 #EXTINF:0 tvg-id="blueantext" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/1Qd6pxW/Rock-Extreme.png" ,Rock Action
 #EXTVLCOPT:http-user-agent="KIIP"
 http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302298.ts
