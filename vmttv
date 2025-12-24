@@ -424,7 +424,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=52
 https://freem3u.xyz/api/live/play.m3u8?vid=71
 #EXTINF:-1 tvg-id="lamdong1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV1.jpg", LTV1 HD - Báo và PTTH Lâm Đồng
 https://freem3u.xyz/api/live/play.m3u8?vid=69
-#EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg
+#EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
