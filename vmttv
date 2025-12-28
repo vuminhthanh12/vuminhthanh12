@@ -5,11 +5,11 @@
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 tvg-id="kubocast" group-title="Kubo Network" tvg-logo="https://ip1.qphim.xyz/image/kubocast.png", KuboCast
 http://live.qphim.xyz/live/kubocast/index.m3u8
-#EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg", Nino Channel
-http://live.qphim.xyz/hls_nonkey/ninochannel/index.m3u8
 #EXTINF:-1 tvg-id="sgnetwork" group-title="SG Network" group-logo="http://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/main.png",SG Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
 https://delivery.04.sgchill.io.vn/v1/channel/nokey/twitch/sgnetwork.smil/index.m3u8
+#EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg", Nino Channel
+http://live.qphim.xyz/hls_nonkey/ninochannel/index.m3u8
 #EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel2.jpg", Nino Channel 2
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 tvg-id="oni1" group-title="ONNA Network" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni1.png", ONi1
