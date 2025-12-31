@@ -380,7 +380,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế TV - Báo và PTTH Huế
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
-#EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV1.jpg", TTV1 - Báo và PTTH Tây Ninh
+#EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV1.jpg", Tây Ninh TV - Báo và PTTH Tây Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=72
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png", THĐT1 HD - Báo và PTTH Đồng Tháp
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
