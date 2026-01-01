@@ -372,7 +372,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=74
 https://freem3u.xyz/api/live/play.m3u8?vid=46
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/GTVGIALAI.png", GTV - Báo và PTTH Gia Lai
 https://toiyeuvietnam.dpdns.org/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_640_360.png", KTV HD - Báo và PTTH Khánh Hòa
+#EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV_KhanhHoa.png", KTV HD - Báo và PTTH Khánh Hòa
 https://toiyeuvietnam.dpdns.org/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế TV - Báo và PTTH Huế
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
