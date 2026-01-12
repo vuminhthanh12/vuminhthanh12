@@ -18,6 +18,14 @@ http://live.qphim.xyz:8880/hls_nonkey/lvtt/index.m3u8
 https://1.org.vn/oni1/?/index.m3u8
 #EXTINF:-1 tvg-id="oni2" group-title="ONNA Network" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni2.png", ONi2
 https://d.org.vn/oni2-mbnlife/?/index.m3u8
+#EXTINF:-1 tvg-id="oni3" group-title="ONNA Network" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni3.png", ONi3
+https://1.org.vn/oni3/?/index.m3u8
+#EXTINF:-1 tvg-id="oni4" group-title="ONNA Network" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni4.png", ONi4
+https://1.org.vn/oni4/?/index.m3u8
+#EXTINF:-1 tvg-id="oni6" group-title="ONNA Network" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni6.png", ONi6
+https://1.org.vn/oni6/?/index.m3u8
+#EXTINF:-1 tvg-id="oni7" group-title="ONNA Network" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni7.png", ONi7
+https://1.org.vn/oni7/?/index.m3u8
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
