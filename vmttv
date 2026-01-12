@@ -114,9 +114,7 @@ https://vodcdn.fptplay.net/POVOD/encoded/2025/12/28/thamtulungdanhconanduanhcuad
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/12/26/trai-tim-que-quat-fpt-play-1766744170691_Landscape.jpg", Trái Tim Què Quặt
 https://s6.kkphimplayer6.com/20251228/0HQf0tP2/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/01/11/live-giai-vo-dich-trung-hoc-toan-nhat-ban-lan-thu-104-slide-thumb_1768150271123.jpg", Thể Thao 1
-https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=2
@@ -239,7 +237,7 @@ https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV21.png", SCTV21 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
+
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png",:SCTV22 HD
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV Phim Tổng Hợp
