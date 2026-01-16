@@ -325,7 +325,7 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png", DRT HD - Báo và PTTH Đắk Lắk
 https://freem3u.xyz/api/live/play.m3u8?vid=51
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png", THP HD - Báo và PTTH Hải Phòng 
-https://toiyeuvietnam.dpdns.org/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hai-phong/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="haiphong3" group-title="Địa phương" tvg-logo="https://haiduongtv.mediatech.vn/upload/files/logo/Logo_THP3_chuan.png", THP3 - Báo và PTTH Hải Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://khaitv.giize.com:8090/225.1.3.46:30120
@@ -340,7 +340,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=84
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/168417957456/7016ca1be5fa_640_360.png", PTV HD - Báo và PTTH Phú Thọ
-https://toiyeuvietnam.dpdns.org/CoBan/phu-tho/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phu-tho/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV1HD.png", ĐNNRTV1 - Báo và PTTH Đồng Nai
 https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV2.png", ĐNNRTV2 - Báo và PTTH Đồng Nai
@@ -377,7 +377,7 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV2.jpg", ATV2 | Báo và PTTH An Giang
-https://toiyeuvietnam.dpdns.org/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/an-giang/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png", NBTV - Báo và PTTH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_640_360.png", NTV - Báo và PTTH Nghệ An
@@ -385,9 +385,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=74
 #EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg", CTV HD - Báo và PTTH Cà Mau
 https://freem3u.xyz/api/live/play.m3u8?vid=46
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/GTVGIALAI.png", GTV - Báo và PTTH Gia Lai
-https://toiyeuvietnam.dpdns.org/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/gia-lai/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV_KhanhHoa.png", KTV HD - Báo và PTTH Khánh Hòa
-https://toiyeuvietnam.dpdns.org/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/khanh-hoa/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế TV - Báo và PTTH Huế
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TayNinhTV.jpg", Tây Ninh TV - Báo và PTTH Tây Ninh
@@ -415,22 +415,22 @@ https://freem3u.xyz/api/live/play.m3u8?vid=83
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg", BHTTV - Báo và PTTH Hà Tĩnh
 https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/BTVBACNINH.jpg", BTV - Báo và PTTH Bắc Ninh 
-https://toiyeuvietnam.dpdns.org/CoBan/bac-ninh/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/bac-ninh/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292499129/aeb3499f5824_640_360.png", CRTV HD - Báo Cao Bằng
 https://freem3u.xyz/api/live/play.m3u8?vid=48
 #EXTINF:-1 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://hungyentv.vn/templates/frontend/hytv/Assets/img/truyenhinh.jpg", HYTV HD - Báo và PTTH Hưng Yên
-https://toiyeuvietnam.dpdns.org/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hung-yen/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="laichau" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_lai-chau_165649245279.png", LTV - Báo Lai Châu
 https://freem3u.xyz/api/live/play.m3u8?vid=68
 #EXTINF:-1 tvg-id="khanhhoa1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV1_KhanhHoa.png", KTV1 HD - Báo và PTTH Khánh Hòa
-https://toiyeuvietnam.dpdns.org/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/ninh-thuan/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QNgTV1_QuangNgai.png", QNgTV1 - Báo và PTTH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=81
 #EXTINF:-1 tvg-id="quangngai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QNgTV2_QuangNgai.png", QNgTV2 - Báo và PTTH Quảng Ngãi
 http://khaitv.giize.com:8090/225.1.1.36:30120
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/10/03/1683663305895/0f3f1e5bd284_640_360.png", TTV HD - Báo và PTTH Tuyên Quang
-https://toiyeuvietnam.dpdns.org/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tuyen-quang/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/07/1751329966912/3ddadef93c24_640_360.png", TN - Báo và PTTH Thái Nguyên
 https://freem3u.xyz/api/live/play.m3u8?vid=88
 #EXTINF:-1 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823593760/3a9a9e608e8d_640_360.png", ĐTV HD - Báo Điện Biên Phủ
@@ -440,7 +440,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=71
 #EXTINF:-1 tvg-id="lamdong1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV1.jpg", LTV1 HD - Báo và PTTH Lâm Đồng
 https://freem3u.xyz/api/live/play.m3u8?vid=69
 #EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_640_360.png", HiTV
-https://toiyeuvietnam.dpdns.org/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
