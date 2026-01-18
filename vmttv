@@ -9,7 +9,7 @@ http://live.qphim.xyz/live/kubocast/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
 https://delivery.04.sgchill.io.vn/v1/channel/nokey/twitch/sgnetwork.smil/index.m3u8
 #EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg", Nino Channel
-http://live.qphim.xyz:8880/hls_nonkey/ninochannel/index.m3u8
+https://aps13.playlist.ttvnw.net/v1/playlist/Cr0G6TLnWasQCplE_7JwRrd7zOUmKpzc78agOr5HchRLemTF4yN84mabwzyZsjsHMhAP-ZW3uRhu4NTsR23DdiGVvK8BqV3Nv4p3HsggY6gUh0WuHhHzVWUURWSaF2ZqOPY9cqbq91Y3ldOVNc8jNVvglCrlLr1Kyilc9oZed5szettvA7xbCsPS5Z4OnRyVMFQ7TwlrLmewRdy1mfR12RnxqNUhzvOXjJKKtK_Maym9rnwQ_faCqRyt3anQKomuI-q5aNQhGeES_L6ntRnE_YZ7R9spCaZulJeBLyV_hx5N1NtgMbmh_i54ifp_qk5XSfsb7kR8VBfi4WTLY7Ns3TxbUtOEneOby0hUPW69F3Vi3zqV4itPRnTRMvOMKduP8DNBQcQchyazApTc7tC4fw1DBzmWxjoX8pY24phAirA3cyaia9JDaHZMKA1eykeSzMXMXeq0CO3x5v7CNr1IcTcEELRi_MulBiRsUneDEexva7ogZfjfbZ-mHOlS4rzox47FtO3-FNqJTQf6qiCBofOH8OosXTc2fZcMlUyIF-N-k1KcfAgmUmfj6Io06BT26MMlvUUKpVAV0N4c3Owms_7v0jko3DXp6IbMlhS1JP_P7yymiWC7wdta6i9YIxT25NSFZk9pAiARXGOOlAI_xadXJ5wJAYpaCVb_fn4WHPS2pO_wRTH3LlREUnDcm8YLgo4F7UuJ5hI77tZCcri_ROdMO7IbF4Z7vptkROOFzR-ssoJgoXjDGp2ySrgN_dUbVbpvsCpThJt5YQwQ0hz0e4dN0juOKYBcKiSuMtbmaQ2_BfZSUNxPjDnmjIYmqYV4rytPteP7W89L_cdZdNWdaUInG1wyHDo-HE-sAkBXNx7I7RS6DyfVwwDQ3eboh0ioBW_IGDfKCj7HcZnlSuoBXdAfDfoxoxtBNwa5g7xauEJgp8rkYqQRqgEGCy8OWGVr42PQCMH8KZ8CGQR9mgPDi1tXTLYBpZUA1ydisrh_yzPM3ahCST0c5MRAPQNMHWT-cBYjXipsEv3DPoGxDVwMg9vdzO-34qwIo1q5ZnF03Ne_HU42aPW1pP3u9PqX_xKLmEhorg4PqZTyKOfPEK0XTxoMLkgd_B1VnfcBwizIIAEqCXVzLXdlc3QtMjCbDg.m3u8
 #EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel2.jpg", Nino Channel 2
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/lvtt.jpg", LVTT
@@ -124,7 +124,7 @@ https://vodcdn.fptplay.net/POVOD/encoded/2025/12/28/thamtulungdanhconanduanhcuad
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/12/26/trai-tim-que-quat-fpt-play-1766744170691_Landscape.jpg", Trái Tim Què Quặt
 https://s6.kkphimplayer6.com/20251228/0HQf0tP2/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/12/30/lam-giau-voi-ma-cuoc-chien-hot-xoan-fpt-play-1767066672824_Landscape.jpg", Làm Giàu Với Ma Phần 2: Cuộc Chiến Hột
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2025/12/30/lam-giau-voi-ma-cuoc-chien-hot-xoan-fpt-play-1767066672824_Landscape.jpg", Làm Giàu Với Ma Phần 2: Cuộc Chiến Hột 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://freem3u.xyz/api/live/play.m3u8?vid=2
