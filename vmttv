@@ -7,7 +7,7 @@ http://live.qphim.xyz/live/kubolive/index.m3u8
 http://live.qphim.xyz/live/kubocast/index.m3u8
 #EXTINF:-1 tvg-id="sgnetwork" group-title="SG Network" group-logo="https://devonlynino.github.io/assets/images/main.png" tvg-logo="https://devonlynino.github.io/assets/images/main.png",SG Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://sgchill.io.vn/tw?id=devonlynino
+https://sgchill.io.vn/v1/tw?id=devonlynino
 #EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg", Nino Channel
 https://aps13.playlist.ttvnw.net/v1/playlist/Cr0G6TLnWasQCplE_7JwRrd7zOUmKpzc78agOr5HchRLemTF4yN84mabwzyZsjsHMhAP-ZW3uRhu4NTsR23DdiGVvK8BqV3Nv4p3HsggY6gUh0WuHhHzVWUURWSaF2ZqOPY9cqbq91Y3ldOVNc8jNVvglCrlLr1Kyilc9oZed5szettvA7xbCsPS5Z4OnRyVMFQ7TwlrLmewRdy1mfR12RnxqNUhzvOXjJKKtK_Maym9rnwQ_faCqRyt3anQKomuI-q5aNQhGeES_L6ntRnE_YZ7R9spCaZulJeBLyV_hx5N1NtgMbmh_i54ifp_qk5XSfsb7kR8VBfi4WTLY7Ns3TxbUtOEneOby0hUPW69F3Vi3zqV4itPRnTRMvOMKduP8DNBQcQchyazApTc7tC4fw1DBzmWxjoX8pY24phAirA3cyaia9JDaHZMKA1eykeSzMXMXeq0CO3x5v7CNr1IcTcEELRi_MulBiRsUneDEexva7ogZfjfbZ-mHOlS4rzox47FtO3-FNqJTQf6qiCBofOH8OosXTc2fZcMlUyIF-N-k1KcfAgmUmfj6Io06BT26MMlvUUKpVAV0N4c3Owms_7v0jko3DXp6IbMlhS1JP_P7yymiWC7wdta6i9YIxT25NSFZk9pAiARXGOOlAI_xadXJ5wJAYpaCVb_fn4WHPS2pO_wRTH3LlREUnDcm8YLgo4F7UuJ5hI77tZCcri_ROdMO7IbF4Z7vptkROOFzR-ssoJgoXjDGp2ySrgN_dUbVbpvsCpThJt5YQwQ0hz0e4dN0juOKYBcKiSuMtbmaQ2_BfZSUNxPjDnmjIYmqYV4rytPteP7W89L_cdZdNWdaUInG1wyHDo-HE-sAkBXNx7I7RS6DyfVwwDQ3eboh0ioBW_IGDfKCj7HcZnlSuoBXdAfDfoxoxtBNwa5g7xauEJgp8rkYqQRqgEGCy8OWGVr42PQCMH8KZ8CGQR9mgPDi1tXTLYBpZUA1ydisrh_yzPM3ahCST0c5MRAPQNMHWT-cBYjXipsEv3DPoGxDVwMg9vdzO-34qwIo1q5ZnF03Ne_HU42aPW1pP3u9PqX_xKLmEhorg4PqZTyKOfPEK0XTxoMLkgd_B1VnfcBwizIIAEqCXVzLXdlc3QtMjCbDg.m3u8
 #EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel2.jpg", Nino Channel 2
@@ -17,7 +17,7 @@ http://live.qphim.xyz:8880/hls_nonkey/lvtt/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV1_HD.png", ATV HD
 https://live.qphim.xyz/live/atv/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni2.png", Oni 2
-https://sgchill.io.vn/tw?id=nnt1709 .
+https://sgchill.io.vn/v1/tw?id=nnt1709
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
