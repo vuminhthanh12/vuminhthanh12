@@ -325,7 +325,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=51
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hai-phong/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="haiphong3" group-title="Địa phương" tvg-logo="https://haiduongtv.mediatech.vn/upload/files/logo/Logo_THP3_chuan.png", THP3 - Báo và PTTH Hải Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://42.115.209.229:8090/225.1.3.46:30120
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hai-duong/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho1.png", Cần Thơ 1 HD - Báo và PTTH Thành Phố Cần Thơ
 https://freem3u.xyz/api/live/play.m3u8?vid=47
 #EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho2.png", Cần Thơ 2 HD - Báo và PTTH Thành Phố Cần Thơ
@@ -425,7 +425,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/ninh-thuan/KenhCoBan.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=81
 #EXTINF:-1 tvg-id="quangngai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QNgTV2_QuangNgai.png", QNgTV2 - Báo và PTTH Quảng Ngãi
-http://khaitv.giize.com:8090/225.1.1.36:30120
+http://42.115.209.229:8090/225.1.1.36:30120
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/10/03/1683663305895/0f3f1e5bd284_640_360.png", TTV HD - Báo và PTTH Tuyên Quang
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tuyen-quang/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/07/1751329966912/3ddadef93c24_640_360.png", TN - Báo và PTTH Thái Nguyên
@@ -470,7 +470,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Animax.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1165775&extension=ts&play_token=yyA3sijrgj
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg", Cartoonito
-http://khaitv.giize.com:8090/225.1.1.138:30120
+http://42.115.209.229:8090/225.1.1.138:30120
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://freight.cargo.site/w/1200/i/3cf72163d993c4d87263e6d4990ec4ccdd1e14b09ce89e6e35dee1de83ef4985/CN.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
