@@ -135,7 +135,7 @@ https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 2
 https://rumble.com/hls-vod/72nhy6/playlist.m3u8
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
-
+https://sgchill.io.vn/assets/api/tv360.php?id=9887
 #EXTINF:-1 
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/01/28/live-bahrain-championship-2026---dp-world-tour-2026-slider-thumb_1769589911784.jpg", Sự Kiện 6
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
