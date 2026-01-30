@@ -6,9 +6,9 @@ https://livecd1.dramahay.xyz/kbnw/kubolive/index.m3u8
 https://livecd1.dramahay.xyz/kbnw/kubocast/index.m3u8
 #EXTINF:-1 tvg-id="sgnetwork" group-title="SG Network" group-logo="https://devonlynino.github.io/assets/images/main.png" tvg-logo="https://devonlynino.github.io/assets/images/main.png",SG Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://sgchill.io.vn/v1/tw?id=devonlynino
+https://nino208.x10.mx/v1/tw?id=devonlynino
 #EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg", Nino Channel
-https://sgchill.io.vn/v1/tw?id=ninochannel12
+https://nino208.x10.mx/v1/tw?id=ninochannel12
 #EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel2.jpg", Nino Channel 2
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/lvtt.jpg", LVTT
