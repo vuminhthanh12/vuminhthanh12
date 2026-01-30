@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
-#EXTM3U url-tvg="https://xem.dramahay.xyz/epg.xml"
 #EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml"
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://ip1.qphim.xyz/image/kubolive-full.png" catchup-type="append" catchup-days="5" catchup-source="?t=${start}&d=${offset}", KuboLive #Server 1
 https://livecd1.dramahay.xyz/kbnw/kubolive/index.m3u8
