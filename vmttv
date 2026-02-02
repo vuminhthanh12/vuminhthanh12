@@ -7,9 +7,9 @@ https://hnlive.dramahay.xyz/live/kubolive/index.m3u8
 https://hnlive.dramahay.xyz/live/kubocast/index.m3u8
 #EXTINF:-1 tvg-id="sgnetwork" group-title="SG Network" group-logo="https://devonlynino.github.io/assets/images/main.png" tvg-logo="https://devonlynino.github.io/assets/images/main.png",SG Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://nino208.x10.mx/v1/tw?id=devonlynino
+https://stream.nino208.x10.mx/v1/getlive/twitch.tv/devonlynino/playlist.m3u8
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg", Nino Channel
-https://nino208.x10.mx/v1/tw?id=ninochannel12
+https://stream.nino208.x10.mx/v1/getlive/twitch.tv/ninochannel12/playlist.m3u8
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/lvtt.jpg", LVTT
 https://hnlive.dramahay.xyz/hls_nonkey/lvtt/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV1_HD.png", ATV HD
