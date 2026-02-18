@@ -31,7 +31,7 @@ https://7pal.short.gy/ssportstn
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
-http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/134129.ts
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2 4Mbps for 4G
 http://maho2025.xyz:80/play/live.php?mac=00:1A:79:39:e7:c6&stream=658435&extension=ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt3" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3 4Mbps for 4G
@@ -142,6 +142,8 @@ https://rumble.com/hls-vod/73gr0i/playlist.m3u8
 https://rumble.com/hls-vod/73k35o/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg", Hùng Long Phong Bá Phần 4 - Tập 3
 https://rumble.com/hls-vod/73os1q/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg", Hùng Long Phong Bá Phần 4 - Tập 4
+
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 2
@@ -265,7 +267,7 @@ https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv13.png", SCTV13 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg", SCTV14 HD
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="", SCTV14 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv16.png", SCTV16 HD
@@ -316,6 +318,7 @@ https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+
 #EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box
 https://toiyeuvietnam.dpdns.org/Start/VMT567_MusicBox
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822429190/7b74ab00eb3e_640_360.png", Dr.Fit
@@ -335,7 +338,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=191
 https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv-key/${start}/${offset}", HTV Key - Đài PTTH Thành Phố Hồ Chí Minh
 https://freem3u.xyz/api/live/play.m3u8?vid=9
-
+#EXTINF:-1
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 - Đài PTTH Thành Phố Hồ Chí Minh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vc.101vn.com/htv/htvcmb.php?id=256
