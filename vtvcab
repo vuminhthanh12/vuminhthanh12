@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVCab" tvg-logo="https://vanhiptv.000webhostapp.com/logo/vtvcab16.png", VTVCab16 HD - ON Football HD
+#EXTVLCOPT:http-user-agent="vanhtv"
+https://e10.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/0wQsyovurPmDS8qmQWfUww/1771866000/LA4FE/live/vtvcab16/master.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://vanhiptv.000webhostapp.com/logo/vtvcab18.png", VTVCab18 HD - ON Sports News
+#EXTVLCOPT:http-user-agent="vanhtv"
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1771755413/oT17_U7I1uncycsArszcdasIiaA/e4.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/HlI7rI4pkV2SDS8JQJFtSQ/1771866000/LA4FE/live/hls/vtvcab18/index.m3u8|Referer=https://sctvonline.vn/
