@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3
 http://113.175.203.139:8182/rtp/232.84.1.118:10260
