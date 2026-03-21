@@ -681,7 +681,7 @@ https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 https://ace.hoiquan.click/module/IPTV/?id=tv5monde&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.ytimg.com/vi/puzK9XqJ6-Y/hq720.jpg", DW
 #EXTVLCOPT:http-user-agent=VThanhTivi
-
+https://ace.hoiquan.click/module/IPTV/?id=dw&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="davincihd" group-title="Quốc Tế" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_da-vinci-learning_165655659384.png", Da Vinci HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
