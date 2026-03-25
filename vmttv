@@ -732,7 +732,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776182&extension=ts&play_token=K4JiFEWv19
 #EXTINF:0 tvg-id="blueantext" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/1Qd6pxW/Rock-Extreme.png" ,Rock Action
 #EXTVLCOPT:http-user-agent="KIIP"
-http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776183&extension=ts&play_token=FGea90JmbI
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1165919&extension=ts&play_token=d5UxVs4YM2
 #EXTINF:-1 tvg-id="outdoor" group-title="Quốc Tế" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_outdoor-channel_165649323545.png", Outdoor Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
