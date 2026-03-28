@@ -12,8 +12,7 @@ https://vietanhtv.id.vn/tv360/2554/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c17f1b571e985f15817351163763bf64:61951ba946496cbfeede334b54a182f8
-https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=1
-
+https://vietanhtv.id.vn/tv360/1/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus3" group-title="1.2. TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_640_360.png",TV360+ 3
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
