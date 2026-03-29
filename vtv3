@@ -1,3 +1,0 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml"
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3
-https://ec05-pop2-hkh.tv360.vn/bpk-token/hcncce27ninrgued46bttgrbcm4juiit/bpk-tv/155/output/155-audio_198800_eng_iv_3=196800-video_iv_3=6525600.m3u8
