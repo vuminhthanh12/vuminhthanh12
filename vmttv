@@ -335,7 +335,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg", ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}", ON Phim Việt
+#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ON%20PHIMVIET.png", ON Phim Việt
 https://vietanhtv.id.vn/tv360/175/index.m3u8
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}", On Movies - You TV
 https://freem3u.xyz/api/live/play.m3u8?vid=181
@@ -813,6 +813,7 @@ https://audio-lss.vov.vn/han/live/vov3/audio/haudio-eng.m3u8
 https://stream.vovmedia.vn/vov4tb
 #EXTINF:-1 group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671789171.png.webp", VOV4 Tây Nguyên
 https://stream.vovmedia.vn/vov4tn
+
 #EXTINF:-1 group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp", VOV5
 https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788129.png.webp", VOV5 24/7
