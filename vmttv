@@ -205,6 +205,7 @@ https://vietanhtv.id.vn/tv360/1/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus3
 https://vietanhtv.id.vn/tv360/148/index.mpd
+
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/05/14/177537340488/3a48e602a9fa_480_270.png", 360 Goal
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744788710/73f69db904da_480_270.png", 360 Bundesliga
@@ -303,8 +304,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/09/10_1775709715048.jpg", Event 6
 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/10/live-giai-vo-dich-bong-ro-5x5-cac-doi-manh-quoc-gia-2026-slide-thumb_1775797105269.jpg", Event 3
-https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/10/live-giai-vo-dich-bong-ro-5x5-cac-doi-manh-quoc-gia-2026-slide-thumb_1775797207052.jpg", Event 4
 https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/08/slider_1775620425592.jpg", Sự Kiện 3
@@ -819,7 +818,7 @@ https://audio-lss.vov.vn/han/live/vov1/audio/haudio-eng.m3u8
 #EXTINF:-1 tvg-id="vov2" group-title="Radio" tvg-logo="https://vov2.vov.vn/themes/custom/vov_news/logo.png", VOV2
 https://audio-lss.vov.vn/han/live/vov2/audio/haudio-eng.m3u8
 #EXTINF:-1 tvg-id="vov3" group-title="Radio" tvg-logo="https://vov3.vov.vn/sites/default/files/styles/front_medium/public/2021-12/Logo%20VOV3%20800x600%20edit.jpg", VOV3
-http://media.kythuatvov.vn:7005/;stream/
+
 #EXTINF:-1 group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788849.png.webp", VOV4 Tây Bắc
 https://stream.vovmedia.vn/vov4tb
 #EXTINF:-1 group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671789125.png.webp", VOV4 Đông Bắc
