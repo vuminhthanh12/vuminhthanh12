@@ -630,7 +630,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.vimeocdn.com/video/852785228-36403e3d29153c02a4acfcf0ca4182b0be0bef3e5b43355eafc33614ee972a9b-d?f=webp", Asian Food Network
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CINEMAX.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/cinemax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -820,7 +820,7 @@ https://stream.vovmedia.vn/vov4tb
 https://stream.vovmedia.vn/vov4tn
 #EXTINF:-1 tvg-id="vov4mt" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788868.png", VOV4 Miền Trung
 https://stream.vovmedia.vn/vov4mt
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="vov4hcm"
 #EXTINF:-1 group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp", VOV5
 https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788129.png.webp", VOV5 24/7
