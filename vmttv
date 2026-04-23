@@ -30,7 +30,7 @@ http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47865.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skytennis" tvg-logo="https://e0.365dm.com/24/01/2048x1152/skysports-sky-sports-tennis_6437040.jpg",Sky Sport Tennis
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149433&extension=ts&play_token=Y1kv3yxPS8
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
 http://myxpanel.pro:80/Martin/Martin/709378
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2 4Mbps for 4G
@@ -644,7 +644,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://image.lag.vn/upload/news/24/12/27/lag_GBOO.png", Animax
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1165775&extension=ts&play_token=yyA3sijrgj
+
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg", Cartoonito
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
