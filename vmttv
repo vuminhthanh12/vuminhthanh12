@@ -32,7 +32,7 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=11494
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=958758&extension=ts&play_token=MskDtCSrpn
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
-http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47850.ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894977&extension=ts&play_token=W2HvDO5iES
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2 4Mbps for 4G
 http://kstv.us:8080/live/4VUyfZBQzk/95104974615/47851.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt3" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3 4Mbps for 4G
