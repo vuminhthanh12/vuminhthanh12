@@ -1,15 +1,7 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg", Nino Channel
-http://livesv2.onnanetwork.xyz/hls/ninochannel/index.m3u8
 #EXTINF:-1 tvg-id="sglive" group-title="Sự Kiện" group-logo="https://devonlynino.github.io/assets/images/logo/twitch.png" tvg-logo="https://devonlynino.github.io/assets/images/main.png",SGLive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://sgclient.duckdns.org/source/twitch.m3u8?channel=devonlynino
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni1.png", ONi1
-https://1.org.vn/oni1/?/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni2.png", ONi2
-https://1.org.vn/oni2hd/?/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni3.png", ONi3
-https://1.org.vn/oni3/?/index.m3u8
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skytennis" tvg-logo="https://e0.365dm.com/24/01/2048x1152/skysports-sky-sports-tennis_6437040.jpg",Sky Sport Tennis
