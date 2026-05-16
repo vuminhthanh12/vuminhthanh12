@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="Nhật Bản🇯🇵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png", TV Asahi
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png", TV Asahi
 http://138.113.158.13:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying&uin=0&ts=0&sign=
