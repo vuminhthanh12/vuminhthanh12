@@ -52,7 +52,7 @@ http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692661.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-15.png", CANAL+ LIVE 15
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692650.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-16.png", CANAL+ LIVE 16
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122050&extension=ts&play_token=pgbrtZxiUM
+
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-17.png", CANAL+ LIVE 17
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&extension=ts&play_token=o7h6R125hi
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-18.png", CANAL+ LIVE 18
@@ -215,7 +215,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=9867
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/cleankey.php?id=tv360plus6&token=6e3678f466f4560adcb8df5b6b1ae942
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9868
-#EXTINF:-1 tvg-id="tv360plus7" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png", 
+#EXTINF:-1 tvg-id="tv360plus7" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png", TV360+7
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9887
 #EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png", TV360+10
@@ -384,7 +384,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=188
 https://sgclient.duckdns.org/source/tv360.m3u8?id=169
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png", SCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
+
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 - TODAY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgclient.duckdns.org/source/tv360.m3u8?id=201
@@ -816,7 +816,7 @@ https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
 #EXTINF:-1 tvg-id="canthoradio1" group-title="Radio" tvg-logo="https://canthoplus.vn/storage/channels/9b7858d5-ff44-43b3-94ab-e4d66a54f1bd.png", Cần Thơ Radio 1
 https://live.canthotv.vn/live/radio/chunklist_w1780522487.m3u8
-#EXTINF:-1 tvg-id="canthoradio2" group-title="Radio" tvg-logo="https://canthoplus.vn/storage/channels/d18742e3-5735-43ea-9001-77678b4ef751.png",
+#EXTINF:-1 tvg-id="canthoradio2" group-title="Radio" tvg-logo="https://canthoplus.vn/storage/channels/d18742e3-5735-43ea-9001-77678b4ef751.png", Cần Thơ Radio 2
 #EXTINF:-1 group-title="Radio" tvg-logo="https://www.danangtv.vn/Uploads/Media/Images/101220211598radio.png", Đà Nẵng
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/Logo_DRT_FM_92%2C4MHz_%26_FM_94%2C7MHz.png/revision/latest/scale-to-width-down/1082?cb=20220613173357&path-prefix=vi", Đắk Lắk
