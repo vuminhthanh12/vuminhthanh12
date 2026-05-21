@@ -527,7 +527,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=53
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV2.png", ĐNNRTV2 - Báo và PTTH Đồng Nai
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=255
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV3.png", ĐNNRTV3 - Báo và PTTH Đồng Nai
-https://sgclient.duckdns.org/source/vieon.m3u8?id=dongnai3
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/H1.jpg", H1 - Báo và PTTH Hà Nội
 https://sgclient.duckdns.org/source/tv360.m3u8?id=33
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/H2.jpg", H2 - Báo và PTTH Hà Nội
