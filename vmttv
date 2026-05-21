@@ -54,7 +54,7 @@ http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692650.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-16.png", CANAL+ LIVE 16
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692660.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-18.png", CANAL+ LIVE 18
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122054&extension=ts&play_token=XPmBZyeTRp
+
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
 http://nocable.cc:8080////////////N2sdm7////////499994//////////53717
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/250px-Polsat_Sport_1_2024.svg.png", Polsat Sport 1
@@ -217,7 +217,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=9868
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=072f0a0d4eda40cbb04dfadf521a2b9f
+#KODIPROP:inputstream.adaptive.license_key=072f0a0d4eda40cbb04dfadf521a2b9f:
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9887
 #EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png", TV360+10
@@ -393,6 +393,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=201
 https://hoiquan.dpdns.org/VTVGo/?sctv3
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv4.png", SCTV4
 https://hoiquan.dpdns.org/VTVGo/?sctv4
+
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
@@ -820,7 +821,7 @@ https://live.canthotv.vn/live/radio/chunklist_w1780522487.m3u8
 https://live.canthotv.vn/live/radiocs2/chunklist_w790093430.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://www.danangtv.vn/Uploads/Media/Images/101220211598radio.png", Đà Nẵng
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/Logo_DRT_FM_92%2C4MHz_%26_FM_94%2C7MHz.png/revision/latest/scale-to-width-down/1082?cb=20220613173357&path-prefix=vi", Đắk Lắk
+#EXTINF:-1 tvg-id="daklakradio" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/Logo_DRT_FM_92%2C4MHz_%26_FM_94%2C7MHz.png/revision/latest/scale-to-width-down/1082?cb=20220613173357&path-prefix=vi", Đắk Lắk
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c5/%C4%90N-RTV.png", Đồng Nai
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
@@ -871,13 +872,6 @@ https://stream.zeno.fm/ehbutdfccm0uv
 https://stream.zeno.fm/8456uy0bcm0uv
 #EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICw0ILTsQoMogEEemVubw/image/", Radio Nhạc Dân Ca
 https://stream.zeno.fm/a2dbs2tq1p8uv
-#EXTINF:-1 group-title="🇻🇳 Vietnam Radio" tvg-logo="https://static-media.streema.com/media/cache/a2/89/a289a2dabdb5cfdb7e90222473b194f4.jpg",VOH FM 99.9
-https://strm.voh.com.vn/radio/channel3/chunklist_w1936699032.m3u8
-#EXTINF:-1 group-title="🇻🇳 Vietnam Radio" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-95.6-Mhz.jpg",VOH FM 95.6
-https://strm.voh.com.vn/radio/channel1/chunklist_w1203304311.m3u8
-#EXTINF:-1 group-title="🇻🇳 Vietnam Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-am610-512x512-104316.png",VOH AM 610
-https://strm.voh.com.vn/radio/channel2/chunklist_w558517770.m3u8
-
 #EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (SV2)
 https://chunks.tunein.com/live/newsfree/cnnfree/1213329/4ee8d54fa2e742f9a3a8f0d28abf5a10/aac_adts/96k/pri-aac_adts96-1712849145-5990-15247.aac
 
