@@ -56,7 +56,7 @@ http://tvgold-max.info:8089/live/8593957586249/9537521949372/85692660.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
 http://tvgold-max.info:8089/live/8593957586249/9537521949372/85691702.ts
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/250px-Polsat_Sport_1_2024.svg.png", Polsat Sport 1
-
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729162&extension=ts&play_token=9JXfYd9pyq
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/1200px-Polsat_Sport_2_2024.svg.png", Polsat Sport 2
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/250px-Polsat_Sport_3_2024.svg.png", Polsat Sport 3
@@ -217,7 +217,7 @@ https://sgclient.duckdns.org/source/tv360.mpd?id=9868
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=072f0a0d4eda40cbb04dfadf521a2b9f:2fb11373b36e018573d3b07132df050e
 https://sgclient.duckdns.org/source/tv360.mpd?id=9869
-
+#EXTINF:-1
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9887
 #EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png", TV360+10
@@ -391,7 +391,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=201
 https://hoiquan.dpdns.org/VTVGo/?sctv3
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv4.png", SCTV4
 https://hoiquan.dpdns.org/VTVGo/?sctv4
-#EXTINF:-1 group-title="SCTV" 
+#EXTINF:-1 group-title="SCTV" tvg-logo="
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
@@ -457,6 +457,7 @@ https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
+
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
 https://1.org.vn/Woman
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1 - Đài PTTH Thành Phố Hồ Chí Minh
@@ -831,7 +832,7 @@ https://64d0d74b76158.streamlock.net/THDTR/thdtradio/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi90" group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2024/03/08/dai-ha-noi-5_90mhz---3-01-111825.jpg", Hà Nội FM 90
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9905
 #EXTINF:-1 tvg-id="hanoi96" group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2024/03/08/dai-ha-noi-5_96mhz--3-01-111727.jpg?w=450&h=270", Hà Nội FM 96
-https://sgchill.io.vn/360/9906/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9906
 #EXTINF:-1 group-title="Radio" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg", Hà Tĩnh
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://hungyentv.vn//templates/frontend/hytv/Assets/img/backgroud-radio.jpg", Hưng Yên
