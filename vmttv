@@ -841,7 +841,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=9906
 #EXTINF:-1 tvg-id="hatinhradio" group-title="Radio" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg", Hà Tĩnh
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 tvg-id="hungyenradio" group-title="Radio" tvg-logo="http://hungyentv.vn//templates/frontend/hytv/Assets/img/backgroud-radio.jpg", Hưng Yên
-
+https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2024/03/08/dai-khanh-hoa-5---3-01-111426.jpg", Khánh Hòa
 http://210.245.20.94/hls/radio.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H6.png", An Giang FM 99,4 Mhz
