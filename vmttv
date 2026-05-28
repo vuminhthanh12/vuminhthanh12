@@ -310,12 +310,16 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/27/live-pickleball-macao-open-2026-slide-thumb_1779849546650.jpg", Event 2
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/27/28-5_1779899579499.jpg", Sự Kiện 1 4K
 https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/28/live-ufc---road-to-ufc-season-5-slide-thumb_1779958328303.jpg", Sự Kiện 1
 https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/27/live-austrian-open-2026---dp-world-tour-2026-slider-thumb_1779871402042.jpg", Sự Kiện 2
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/27/live-vba-2026-slide-thumb_1779849731617.jpg", Sự Kiện 3
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
@@ -511,19 +515,19 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png", DRT HD - Báo và PTTH Đắk Lắk
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=51
+https://sgclient.duckdns.org/source/tv360.m3u8?id=51
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png", THP HD - Báo và PTTH Hải Phòng 
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=60
+https://sgclient.duckdns.org/source/tv360.m3u8?id=60
 #EXTINF:-1 tvg-id="haiphong3" group-title="Địa phương" tvg-logo="https://haiduongtv.mediatech.vn/upload/files/logo/Logo_THP3_chuan.png", THP3 - Báo và PTTH Hải Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=59
+https://sgclient.duckdns.org/source/tv360.m3u8?id=59
 #EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho1.png", Cần Thơ 1 HD - Báo và PTTH Thành Phố Cần Thơ
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=47
+https://sgclient.duckdns.org/source/tv360.m3u8?id=47
 #EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho2.png", Cần Thơ 2 HD - Báo và PTTH Thành Phố Cần Thơ
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=61
+https://sgclient.duckdns.org/source/tv360.m3u8?id=61
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho3.png", Cần Thơ 3 HD - Báo và PTTH Thành Phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=84
+https://sgclient.duckdns.org/source/tv360.m3u8?id=84
 #EXTINF:-1 tvg-id="sonla" group-title="Địa phương" tvg-logo="https://media.sonlatv.vn/upload/files/image/Back-TH-1.jpg", STV HD - Báo và PTTH Sơn La
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
