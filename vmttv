@@ -223,7 +223,7 @@ https://sgclient.duckdns.org/source/tv360.mpd?id=9869
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a08bd3a8c565cdfa4e01a0273915f40:
+#KODIPROP:inputstream.adaptive.license_key=1a08bd3a8c565cdfa4e01a0273915f40:d956d96ac3799d42441f582ec12f10df
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9887
 #EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png", TV360+10
@@ -409,7 +409,7 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 https://hoiquan.dpdns.org/VTVGo/?sctv7
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv8.png", SCTV8
 https://hoiquan.dpdns.org/VTVGo/?sctv8
-#EXTINF:-1 tvg-id="sctv9hd"
+#EXTINF:-1 tvg-id="sctv9hd" 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV10.jpg", SCTV10
 https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv11.png", SCTV11
@@ -853,7 +853,7 @@ https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u
 #EXTINF:-1 tvg-id="angiangradio1" group-title="Radio" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H6.png", An Giang FM 99,4 Mhz
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
-#EXTINF:-1 tvg-id="angiangradio2"
+#EXTINF:-1 tvg-id="angiangradio2" 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-radio-lam-dong.png", Lâm Đồng
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://langsontv.vn/templates/frontend/lstv/Assets/img/radio_bg.png", Lạng Sơn
