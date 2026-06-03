@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTM3U url-tvg="https://onnamx.io.vn/epg.xml"
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
 #EXTINF:-1 tvg-id="ONNA MX1" group-title="Sự Kiện" tvg-logo="https://i.ibb.co/XfDfPx04/1775851662690.png", ONNA MX1
 https://live.onnamx.io.vn/hls/oni1/index.m3u8
 #EXTINF:-1 tvg-id="ONNA MX2" group-title="Sự Kiện" tvg-logo="https://i.ibb.co/20xnsxTc/1776180025509.png", ONNA MX2
@@ -78,8 +79,8 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=22872
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933004&extension=ts&play_token=jtuDUMdLno
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png", Eurosport 2
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933003&extension=ts&play_token=OIqiUqIbWW
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://www.argentina.basketball/themes/ee/site/default/asset/img/blog/11-2.jpg", Tyc Sport Argentina
-http://myxpanel.pro:80/Martin/Martin/670987	
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/276279.jpg", Tyc Sport Argentina
+	
 #EXTINF:-1 tvg-id="tvbvn" group-title="TVB" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://daknong.1cdn.vn/2025/02/06/den-am-hon-review-phim-va-lich-chieu-tai-viet-nam.jpg", Đèn Âm Hồn: Người Con Gái Nam Xương
@@ -150,7 +151,7 @@ https://v7.kkphimplayer7.com/20260504/xNE4czZl/3500kb/hls/index.m3u8
 https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-hai-chu-fpt-play-1777448554178_Landscape.jpg", Nhà Hai Chủ
 https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg", 
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg", Thỏ Ơi
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 2
@@ -237,7 +238,7 @@ https://sgclient.duckdns.org/source/tv360.mpd?id=10001
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9904
 #EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/11/27/14/1764229355411/83a9c979634e_180_180.png", TV360 Livestream
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9888
-#EXTINF:-1 tvg-id="tv360phimviet" group-title="Rạp Phim" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/18/1767180734794/7cda83f18b5d_640_360.png", Phim Việt
+#EXTINF:-1 tvg-id="tv360phimviet" group-title="Rạp Phim" tvg-logo=" https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="tv360aumy" group-title="Rạp Phim" tvg-logo="https://img-ali1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png", Phim Âu Mỹ
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
@@ -315,8 +316,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/01/live-fiba-3x3-world-cup-2026-slide-thumb_1780284470391.jpg", Sự Kiện 2
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
@@ -406,7 +405,7 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 https://hoiquan.dpdns.org/VTVGo/?sctv7
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv8.png", SCTV8
 https://hoiquan.dpdns.org/VTVGo/?sctv8
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" 
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV10.jpg", SCTV10
 https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv11.png", SCTV11
@@ -850,7 +849,7 @@ https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u
 #EXTINF:-1 tvg-id="angiangradio1" group-title="Radio" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H6.png", An Giang FM 99,4 Mhz
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
-#EXTINF:-1 tvg-id="angiangradio2" group-title="Radio" 
+#EXTINF:-1 tvg-id="angiangradio2" group-title="Radio" tvg-logo="
 #EXTINF:-1 group-title="Radio" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-radio-lam-dong.png", Lâm Đồng
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://langsontv.vn/templates/frontend/lstv/Assets/img/radio_bg.png", Lạng Sơn
