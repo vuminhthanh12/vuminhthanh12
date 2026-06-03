@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTM3U url-tvg="https://onnamx.io.vn/epg.xml"
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
 #EXTINF:-1 tvg-id="ONNA MX1" group-title="Sự Kiện" tvg-logo="https://i.ibb.co/XfDfPx04/1775851662690.png", ONNA MX1
 https://live.onnamx.io.vn/hls/oni1/index.m3u8
 #EXTINF:-1 tvg-id="ONNA MX2" group-title="Sự Kiện" tvg-logo="https://i.ibb.co/20xnsxTc/1776180025509.png", ONNA MX2
@@ -238,7 +237,7 @@ https://sgclient.duckdns.org/source/tv360.mpd?id=10001
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9904
 #EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/11/27/14/1764229355411/83a9c979634e_180_180.png", TV360 Livestream
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9888
-#EXTINF:-1 tvg-id="tv360phimviet" group-title="Rạp Phim" tvg-logo=" https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
+#EXTINF:-1 group-title="Rạp Phim" tvg-logo=" https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="tv360aumy" group-title="Rạp Phim" tvg-logo="https://img-ali1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png", Phim Âu Mỹ
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
