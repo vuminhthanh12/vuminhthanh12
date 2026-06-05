@@ -407,7 +407,7 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv7-ef7e259a
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv8.png", SCTV8
 https://hoiquan.dpdns.org/VTVGo/?sctv8
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV9.png",
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV10.jpg", SCTV10
 https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv11.png", SCTV11
@@ -817,13 +817,13 @@ https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 #EXTINF:-1 tvg-id="voh999" group-title="Radio" tvg-logo="https://ravimedia.vn/wp-content/uploads/2021/06/ravimedia-voh99.9mhz.jpg", VOH FM 99.9Mhz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF:-1 tvg-id="voh956" group-title="Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/voh-fm-95-6.png", VOH FM 95.6Mhz
-https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="voh877" group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm877-512x512-110237.png", VOH FM 87.7Mhz
-https://strm.voh.com.vn/radio/channel5/playlist.m3u8
+
 #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-am610-512x512-104316.png", VOH AM 610Khz
-https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="voh925" group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png", VOH FM 92 - 92.5 MHz
-https://strm.voh.com.vn/radio/channel6/chunklist_w1907970894.m3u8
+
 #EXTINF:-1 tvg-id="bacninhradio" group-title="Radio" tvg-logo="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg", Bắc Ninh
 https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 #EXTINF:-1 tvg-id="camauradio" group-title="Radio" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg", Cà Mau
@@ -851,7 +851,7 @@ https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u
 #EXTINF:-1 tvg-id="angiangradio1" group-title="Radio" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H6.png", An Giang FM 99,4 Mhz
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
-#EXTINF:-1 tvg-id="angiangradio2" group-title="Radio" tvg-logo="
+#EXTINF:-1 tvg-id="angiangradio2" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ATVFM93.1%20MHZ.jpg",
 #EXTINF:-1 group-title="Radio" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-radio-lam-dong.png", Lâm Đồng
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://langsontv.vn/templates/frontend/lstv/Assets/img/radio_bg.png", Lạng Sơn
