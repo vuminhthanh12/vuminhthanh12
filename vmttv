@@ -1,11 +1,4 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
-#EXTM3U url-tvg="https://onnamx.io.vn/epg.xml"
-#EXTINF:-1 tvg-id="ONNA MX1" group-title="Sự Kiện" tvg-logo="https://i.ibb.co/XfDfPx04/1775851662690.png", ONNA MX1
-https://live.onnamx.io.vn/hls/oni1/index.m3u8
-#EXTINF:-1 tvg-id="ONNA MX2" group-title="Sự Kiện" tvg-logo="https://i.ibb.co/20xnsxTc/1776180025509.png", ONNA MX2
-https://live.onnamx.io.vn/hls/oni2/index.m3u8
-#EXTINF:-1 tvg-id="ONNA MX3" group-title="Sự Kiện" tvg-logo="https://i.ibb.co/N6Km701F/1776181393978.png", ONNA MX3
-https://live.onnamx.io.vn/hls/oni3/index.m3u8
 #EXTINF:-1 tvg-id="ninochannel" group-title="Sự Kiện" group-logo="https://devonlynino.github.io/assets/images/flag/vietnam.png" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg",Nino Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://sgclient.duckdns.org/source/twitch.m3u8?channel=ninochannel12
