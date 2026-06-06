@@ -886,11 +886,10 @@ https://stream.zeno.fm/8456uy0bcm0uv
 https://stream.zeno.fm/a2dbs2tq1p8uv
 #EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (SV2)
 https://chunks.tunein.com/live/newsfree/cnnfree/1213329/4ee8d54fa2e742f9a3a8f0d28abf5a10/aac_adts/96k/pri-aac_adts96-1712849145-5990-15247.aac
-
-#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1676378350/brand_manager/stations/zxxzzncu2isgdogx8qiq.png", KISS FM UK
-https://s.net.vn/KISS-FM-UK
-#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Hits_Radio_2024.svg", Hits Radio UK
-https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://ukradiolive.com/public/uploads/radio_img/heart-london/fb_cover.jpg", Heart FM UK
+https://media-ssl.musicradio.com/HeartUK
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://www.globalplayer.com/assets/track-placeholders/capital.jpg", Capital Radio UK
+https://media-ssl.musicradio.com/CapitalUK
 #EXTINF:-1 tvg-id="VirginMediaThree.ie",Virgin Media Three
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
