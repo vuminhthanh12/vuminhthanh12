@@ -9,7 +9,7 @@ http://42.1.99.192:8080/live/vtv9.flv
 http://42.1.99.192:8080/live/vtv10.flv
 #EXTINF:-1 tvg-id="ninochannel" group-title="Sự Kiện" group-logo="https://devonlynino.github.io/assets/images/flag/vietnam.png" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg",Nino Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://live.onnamx.io.vn/hls/ninochannel/index.m3u8
+https://byvn.net/ninochannel
 #EXTINF:-1 tvg-id="sglive" group-title="Sự Kiện" group-logo="https://devonlynino.github.io/assets/images/logo/twitch.png" tvg-logo="https://devonlynino.github.io/assets/images/main.png",SGLive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://sgclient.duckdns.org/source/twitch.m3u8?channel=devonlynino
