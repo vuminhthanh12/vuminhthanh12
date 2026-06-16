@@ -517,7 +517,7 @@ https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8
 https://live.canthotv.vn/cs2/live.stream/chunklist_w1497265452.m3u8
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho3.png", Cần Thơ 3 HD - Báo và PTTH Thành Phố Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgclient.duckdns.org/source/tv360.m3u8?id=84
+https://live.canthotv.vn/cs3/tv/chunklist_w1003748170.m3u8
 #EXTINF:-1 tvg-id="sonla" group-title="Địa phương" tvg-logo="https://media.sonlatv.vn/upload/files/image/Back-TH-1.jpg", STV HD - Báo và PTTH Sơn La
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
