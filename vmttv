@@ -15,12 +15,14 @@ http://42.1.99.192:8080/live/vtv10.flv
 https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/FMxAbJrF0Q-Logo-NGUYENBAN_6_11zon.webp",Tín Hiệu Nguyên Bản
 https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp",Kênh Tiếng Anh 1
+https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-1
 #EXTINF:-1 tvg-id="ninochannel" group-title="Sự Kiện" group-logo="https://devonlynino.github.io/assets/images/flag/vietnam.png" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg",Nino Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://tpninosaga.duckdns.org/source/twitch.m3u8?channel=ninochannel12&token=NinoExility
 #EXTINF:-1 tvg-id="sglive" group-title="Sự Kiện" group-logo="https://devonlynino.github.io/assets/images/logo/twitch.png" tvg-logo="https://devonlynino.github.io/assets/images/main.png",SGLive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://sgclient.duckdns.org/source/twitch.m3u8?channel=devonlynino
+https://tpninosaga.duckdns.org/source/twitch.m3u8?channel=devonlynino&token=NinoExility
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skytennis" tvg-logo="https://e0.365dm.com/24/01/2048x1152/skysports-sky-sports-tennis_6437040.jpg",Sky Sport Tennis
@@ -164,6 +166,7 @@ https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://cdn.galaxycine.vn/media/2025/11/25/hoang-tu-quy-750_1764065943548.jpg", Hoàng Tử Quỷ
 https://v7.kkphimplayer7.com/20260615/qtiKqvFo/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/03/22/bc4677df/bc4677df-dbcd-4a57-844b-390414aa1778_640_360.jpg",
+
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 2
