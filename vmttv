@@ -17,6 +17,8 @@ https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
 https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp",Kênh Tiếng Anh 1
 https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-1
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/TsjjtHjSSt-Logo-BLCX_3_11zon.webp",Bình Luận Cảm xúc 2
+
 #EXTINF:-1 tvg-id="ninochannel" group-title="Sự Kiện" group-logo="https://devonlynino.github.io/assets/images/flag/vietnam.png" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg",Nino Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://tpninosaga.duckdns.org/source/twitch.m3u8?channel=ninochannel12&token=NinoExility
