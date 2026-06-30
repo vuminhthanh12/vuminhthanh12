@@ -254,8 +254,6 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-13/KenhCoBan.m3u8
 #EXTINF:-1 group-title="Sự Kiện TV360"
 #EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
-#EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/11/27/14/1764229355411/83a9c979634e_180_180.png", TV360 Livestream
-
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
 https://freem3u.xyz/api/live/play.m3u8?vid=9902
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_640_360.png", 360 Phim Âu Mỹ
@@ -264,7 +262,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9903
 https://freem3u.xyz/api/live/play.m3u8?vid=9934
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_640_360.png", 360 Phim Hoa Ngữ
 https://freem3u.xyz/api/live/play.m3u8?vid=10008
-#EXTINF:-1 
+#EXTINF:-1 group-title="Rạp Phim"
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -365,7 +363,7 @@ https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_560
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png", VTV10
 https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg", ON Vie Giải Trí
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ONPHIMVIET.png", ON Phim Việt
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg", On Movies - You TV
