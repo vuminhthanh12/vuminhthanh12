@@ -234,10 +234,13 @@ https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9869&token=NinoExility
 #KODIPROP:inputstream.adaptive.license_key=1a08bd3a8c565cdfa4e01a0273915f40:d956d96ac3799d42441f582ec12f10df
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9870&token=NinoExility
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9887&token=NinoExility
 #EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png", TV360+10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9957&token=NinoExility
 #EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png", TV360+11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9958&token=NinoExility
 #EXTINF:-1 tvg-id="tv360plus12" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/05/10/1772681417916/2433e49579ab_640_360.png", TV360+12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -253,14 +256,18 @@ https://tpninosaga.duckdns.org/source/tv360.m3u8?id=10001&token=NinoExility
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=10022&token=NinoExility
 #EXTINF:-1 group-title="Sự Kiện TV360"
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9902&token=NinoExility
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_640_360.png", 360 Phim Âu Mỹ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9903&token=NinoExility
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_640_360.png", 360 Hoạt hình
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9934&token=NinoExility
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_640_360.png", 360 Phim Hoa Ngữ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=10008&token=NinoExility
-#EXTINF:-1 group-title="Rạp Phim"
+#EXTINF:-1 group-title="Rạp Phim" 
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -361,28 +368,41 @@ https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=1
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png", VTV10
 https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg", ON Vie Giải Trí
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=180&token=NinoExility
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ONPHIMVIET.png", ON Phim Việt
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=175&token=NinoExility
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg", On Movies - You TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=181&token=NinoExility
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onechannel.png", ON E- Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=182&token=NinoExility
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ono2tv.png", On O2TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=136&token=NinoExility
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onbibi.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=178&token=NinoExility
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/oninfotv.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}", ON Info TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=189&token=NinoExility
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=176&token=NinoExility
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onstyle.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", ON Style TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=184&token=NinoExility
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=185&token=NinoExility
 #EXTINF:-1 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=186&token=NinoExility
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=177&token=NinoExility
 #EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -394,10 +414,12 @@ https://tpninosaga.duckdns.org/source/tv360.m3u8?id=179&token=NinoExility
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=188&token=NinoExility
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-golf.jpg", On Golf
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=169&token=NinoExility
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png", SCTV1
 https://hoiquan.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 - TODAY TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=201&token=NinoExility
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv3.png", SCTV3
 https://hoiquan.dpdns.org/VTVGo/?sctv3
@@ -475,14 +497,19 @@ https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
 https://livevlisctcdnw.seenow.vn/mean/WO/manifest.mpd
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1 - Đài PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=190&token=NinoExility
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 - Vie Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=191&token=NinoExility
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV3.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3 - Đài PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=192&token=NinoExility
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV4.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv-key/${start}/${offset}", HTV4 - Đài PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9&token=NinoExility
 #EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV5.jpg", HTV5 - B Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=151&token=NinoExility
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 - Đài PTTH Thành Phố Hồ Chí Minh
 https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -505,10 +532,12 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.ytimg.com/vi/sFLUmdwp0Z8/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png", DRT HD - Báo và PTTH Đắk Lắk
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=51&token=NinoExility
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png", THP HD - Báo và PTTH Hải Phòng 
 https://live.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="haiphong3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/THP3.png", THP3 - Báo và PTTH Hải Phòng
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=59&token=NinoExility
 #EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho1.png", Cần Thơ 1 HD - Báo và PTTH Thành Phố Cần Thơ
 https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8
@@ -521,18 +550,23 @@ https://live.canthotv.vn/cs3/tv/chunklist_w1003748170.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/168417957456/7016ca1be5fa_640_360.png", PTV HD - Báo và PTTH Phú Thọ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=77&token=NinoExility
 #EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV1HD.png", ĐNNRTV1 - Báo và PTTH Đồng Nai
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=53&token=NinoExility
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV2.png", ĐNNRTV2 - Báo và PTTH Đồng Nai
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=255&token=NinoExility
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV3.png", ĐNNRTV3 - Báo và PTTH Đồng Nai
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/H1.jpg", H1 - Báo và PTTH Hà Nội
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/H2.jpg", H2 - Báo và PTTH Hà Nội
 https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png", TTV HD - Báo và PTTH Thanh Hóa
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=89&token=NinoExility
 #EXTINF:-1 tvg-id="quangninh1" group-title="Địa phương" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/QTV1.jpg", QTV1 HD - Báo và PTTH Quảng Ninh
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
