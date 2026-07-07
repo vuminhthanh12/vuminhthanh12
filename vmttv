@@ -247,7 +247,7 @@ https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9958&token=NinoEra36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29b3e7c5de895bfa8850f16dad16e378:72a9e1be1d94ad66207f1ac61bcf7681
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001&expires=1783331399&token=8a99834e417fcae6fcea1f8ad9dc9c40
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001&expires=1783396357&token=3d8141cae2949622700564a0d04edcc4
 #EXTINF:-1 tvg-id="tv360plus13" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_640_360.png", TV360+13
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
