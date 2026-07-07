@@ -254,7 +254,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001&expires=1783396357&token=3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hW8pGvNaXbe30MlEsymTuQ","k":"qjVHVH8IT-TJ6lIG7_treA"}],"type":"temporary"}
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=10022&token=NinoEra36
-#EXTINF:-1 tvg-id="tv360plus14" group-title="Sự Kiện TV360" tvg-logo="
+#EXTINF:-1 tvg-id="tv360plus14" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_640_360.png",
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9902&token=NinoEra36
