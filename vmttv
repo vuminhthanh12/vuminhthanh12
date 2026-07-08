@@ -917,22 +917,12 @@ https://media-ssl.musicradio.com/CapitalUK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b10708238b2fe95e0080fe17c28d88fb:1afd6317f3b44772aa2463e1ea1f7d42
 https://d3n2r2x6pixas4.cloudfront.net/out/v1/426d7a9e942b4f64917d66940bd3b147/index.mpd
-#EXTINF:-1 tvg-id="VirginMediaFour.ie" group-title="Israel" tvg-logo="https://images.seeklogo.com/logo-png/44/2/virgin-media-four-logo-png_seeklogo-447245.png", Virgin Media Four
+#EXTINF:-1 tvg-id="VirginMediaFour.ie" group-title="Israel" tvg-logo="https://i.ytimg.com/vi/QZZijZXNeqo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC-WbMQHFRNT0NZEmZ7Wngm4na2TQ", Virgin Media Four
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bdcf25ad46d7907c35832964b836a4bd:9edd4350307b4405b132ff97816d81e9
 https://d1o5wc5bjvzqoa.cloudfront.net/out/v1/bb744b243afb44eabcc56d002c36cafd/index.mpd
-#EXTINF:-1 tvg-id="RTEOne.ie" group-title="Israel" tvg-logo="https://rxtvinfo.com/wp-content/uploads/2024/04/rx-rte-one-logo.webp", RTÉ One HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
-https://dai.google.com/linear/dash/event/OzeyI_8XRUGhaubXc0ZZNQ/manifest.mpd
-#EXTINF:-1 tvg-id="RTE2.ie" group-title="Israel" tvg-logo="https://www.rte.ie/images/0008f837-1600.jpg", RTÉ Two HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/CJB.jpg/revision/latest?cb=20200224093248&path-prefix=ko", CJB SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://seeklogo.com/images/K/kbc-gwangju-broadcasting-logo-AB816EA5AB-seeklogo.com.png", KBC SBS
