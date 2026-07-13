@@ -1,4 +1,9 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
+// Thông tin repo của bạn
+$owner = "hoiquanclick";         // Thay bằng username GitHub
+$repo = "hoiquan";        // Thay bằng tên repo
+$path = "vip.m3u";           // Tên file cần tạo/cập nhật
+$token = "ghp_lLpHqtdlyztRdLsLB2MznpX2kkY4wA1aI";     // Thay bằng Personal Access Token
 #EXTINF:-1 tvg-id="vtv3hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3
 http://42.1.99.192:8080/secureVhost/vtv3.flv?token=vtv_secret_20260708
 #EXTINF:-1 tvg-id="vtv6hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
