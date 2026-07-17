@@ -1119,31 +1119,3 @@ https://live05.msdht.app/live/90865415.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV 7up
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.msdht.app/live/78905744.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV H+
-https://tfvp3gr4nhct1gwzdepjqgrhuqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV A Cỏ
-https://tfvp3gr4nhct1gwzdepjqgrhuqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV Chiến Ca
-https://tfvp3gr4nhct1gwzdepjqgrhuqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV Hàn Tín
-https://tfvp3gr4nhct1gwzdepjqgrhuqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV Bịp Con
-https://tfvq3gr4nhct1gwzdrcbqgr5ucmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV Thợ Lặn
-https://tfvp3gr4nhct1gwzdepjqgrhuqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV Xây Con
-https://tfvp3gr4nhct1gwzdepjqgrhuqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV Văn Tích
-https://tfvp3gr4nhct1gwzdepjqgrhuqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV Chiến Thần
-https://tfvp3gr4nhct1gwzdepjqgrhuqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/xctv_blv_chienthan/playlist.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV Lửng Mật
-https://tfvx3gr4nhct1gwzdrcttfa5urmmacpsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/xclive.yarncdn.live/live/xctv_blv_thienbong/playlist.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV Quan Vũ
-https://tfvx3gr4nhct1gwzdrcttfa5urmmacpsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV Tam Mao
-https://tfvx3gr4nhct1gwzdrcttfa5urmmacpsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV Rồng Đất
-https://tfvx3gr4nhct1gwzdrcttfa5urmmacpsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
-#EXTINF:-1 group-title="Cháo Gà TV" tvg-logo="https://xem.chaoga.live/logo-x.png", BLV Kent
-https://tfxf4go3nhcjtghzdrpbsfah146ddptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8
