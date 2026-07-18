@@ -13,12 +13,6 @@ https://vmttv.dpdns.org/VTVGo/?BinhLuanCamXuc
 https://vmttv.dpdns.org/VTVGo/?WC-FiFa
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp", Kênh Tiếng Anh 1
 https://vmttv.dpdns.org/VTVGo/?kenh-tieng-anh-1
-#EXTINF:-1 tvg-id="ninochannel" group-title="Sự Kiện" group-logo="https://devonlynino.github.io/assets/images/flag/vietnam.png" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg",Nino Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://tpninosaga.duckdns.org/source/twitch.m3u8?channel=ninochannel12&token=NinoExility
-#EXTINF:-1 tvg-id="sglive" group-title="Sự Kiện" group-logo="https://devonlynino.github.io/assets/images/logo/twitch.png" tvg-logo="https://devonlynino.github.io/assets/images/main.png",SGLive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://tpninosaga.duckdns.org/source/twitch.m3u8?channel=devonlynino&token=NinoExility
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skytennis" tvg-logo="https://e0.365dm.com/24/01/2048x1152/skysports-sky-sports-tennis_6437040.jpg",Sky Sport Tennis
