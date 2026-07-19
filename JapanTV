@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png", TV Asahi
-https://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="https://cdn.c21media.net/wp-content/uploads/2021/02/abc_japan_logo_420x237_thumb.jpg", ABC
+http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying
