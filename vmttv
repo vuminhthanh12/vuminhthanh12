@@ -331,8 +331,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/20/nhat-ky-fifa-world-cup-2026-slide-thumb_1784513840760.jpg", Sự Kiện 2
-https://event-a.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/20/live-giai-vo-dich-bong-ro-5x5-u18-quoc-gia-2026-slide-thumb_1784508057463.jpg", Event 4
+https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
