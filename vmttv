@@ -242,7 +242,7 @@ https://vmttv.dpdns.org/tv360/?id=tv360-13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e57b008cedba5d12a192e66152bb61ca:a4b58d543b1c042f8b399f268040b623
 https://vmttv.dpdns.org/tv360/?id=tv360-14
-#EXTINF:-1 tvg-id="tv360plus15" group-title="Sự Kiện TV360"
+#EXTINF:-1 tvg-id="tv360plus15" group-title="Sự Kiện TV360" 
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=phim-viet
