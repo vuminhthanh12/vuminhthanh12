@@ -629,7 +629,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=83
 https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/BTVBACNINH.jpg", BTV - Báo và PTTH Bắc Ninh 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+https://vmttv.dpdns.org/tv360/?id=bac-ninh
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292499129/aeb3499f5824_640_360.png", CRTV HD - Báo Cao Bằng
 https://sgclient.duckdns.org/source/tv360.m3u8?id=48
 #EXTINF:-1 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://hungyentv.vn/templates/frontend/hytv/Assets/img/truyenhinh.jpg", HYTV HD - Báo và PTTH Hưng Yên
@@ -935,7 +935,7 @@ http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png", MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1392208922.m3u8
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", MBC Chuncheon
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%EC%B6%98%EC%B2%9C_MBC.svg/3840px-%EC%B6%98%EC%B2%9C_MBC.svg.png", MBC Chuncheon
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", MBC Chungbuk
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
