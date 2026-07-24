@@ -348,8 +348,10 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/15_1784837603988.jpg", Event 2
 https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
-https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/1920x1080-1_1784837787279.jpg", Event 4
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/1920x1080-1_1784837787279.jpg", Event 4
+https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/21/giai-vo-dich-taekwondo-tre-quoc-gia---cj-slide-thumb_1784599943835.jpg", Event 6
+https://vips-livecdn.fptplay.net/live/media/event-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
