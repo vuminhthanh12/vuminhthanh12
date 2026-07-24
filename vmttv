@@ -250,7 +250,7 @@ https://vmttv.dpdns.org/tv360/?id=tv360-14
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c305b22dfd6d55e3998ab279cc98e0d3
+#KODIPROP:inputstream.adaptive.license_key=c305b22dfd6d55e3998ab279cc98e0d3:
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=phim-viet
@@ -269,7 +269,7 @@ https://vmttv.dpdns.org/tv360/?id=360-hanh-dong-chau-a
 #EXTINF:-1 group-title="Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_640_360.png", 360 K-Drama
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-k-drama
-
+#EXTINF:-1
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -342,26 +342,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/thiet-ke-poster-pickleball-singapore-open-2026-slide-thumb_1784704187424.jpg", Sự Kiện 3
-https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/24_1784698954365.jpg", Event 5
-https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/15_1784837603988.jpg", Event 2
-https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/1920x1080-1_1784837787279.jpg", Event 4
-https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/21/giai-vo-dich-taekwondo-tre-quoc-gia---cj-slide-thumb_1784599943835.jpg", Event 6
-https://vips-livecdn.fptplay.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/1920x1080-1_1784838287522.jpg", Event 1
-https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/slider_1784685127954.jpg", Sự Kiện 10
-https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/22/live-vba-2026-slide-thumb_1784703502329.jpg", Event 1 4K
-https://vips-livecdn.fptplay.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/24/slider_1784858655329.jpg", Sự Kiện 12
-https://vips-livecdn.fptplay.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/07/23/asean-hyundai-cup-2026-thumb_1784817141041.jpg", Sự Kiện 11
-https://vips-livecdn.fptplay.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
