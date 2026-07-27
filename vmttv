@@ -924,7 +924,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/CCTV-1_logo_2001.png/revision/latest/scale-to-width-down/1538?cb=20220607044228&path-prefix=vi", CCTV1
-
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv1_mbd.m3u8?auth_key=1785216600-0-44dea7ccc6a42d8931525f32b4961a2a70c293fe22870ce0af18a4974b7f33b0-c20aa927747105fc3f15c45d626f186c&yid=44dea7ccc6a42d8931525f32b4961a2a70c293fe22870ce0af18a4974b7f33b0
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png", CCTV2
 http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=426913&extension=ts&play_token=RJ0fZcMDgB
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/CCTV3.png/revision/latest/scale-to-width-down/680?cb=20230514030148&path-prefix=vi", CCTV3
