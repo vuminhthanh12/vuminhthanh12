@@ -612,7 +612,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=69
 https://vmttv.dpdns.org/tv360/?id=hitv
 #EXTINF:-1 tvg-id="youtv" group-title="Địa phương" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png", YouTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgclient.duckdns.org/source/tv360.m3u8?id=31
+https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
