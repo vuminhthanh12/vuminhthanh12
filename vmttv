@@ -436,7 +436,7 @@ https://vmttv.dpdns.org/VTVGo/?sctv21
 #KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
 https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png", SCTV Phim Tổng Hợp
-
+https://vmttv.dpdns.org/VTVGo/?sctvphim
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -846,6 +846,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10038
 https://freem3u.xyz/api/live/play.m3u8?vid=10036
 #EXTINF:-1 tvg-id="voh925" group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png", VOH FM 92 - 92.5 MHz
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
 #EXTINF:-1 tvg-id="bacninhradio" group-title="Radio" tvg-logo="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg", Bắc Ninh
 https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 #EXTINF:-1 tvg-id="camauradio" group-title="Radio" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg", Cà Mau
@@ -967,7 +968,7 @@ http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/CCTV4.png/revision/latest?cb=20230520135601&path-prefix=vi", CCTV4
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/CCTV6.png/revision/latest?cb=20230816063202&path-prefix=vi", CCTV6
-
+http://74.91.26.218:82/live/cctv6hd.m3u8
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a6/CCTV7_tr%C6%B0%E1%BB%9Bc_2019.png/revision/latest/scale-to-width-down/1547?cb=20230104111736&path-prefix=vi", CCTV7
 http://112.123.206.32:808/hls/8/index.m3u8
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg", CCTV8 
