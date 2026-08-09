@@ -2,4 +2,4 @@
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="https://cdn.c21media.net/wp-content/uploads/2021/02/abc_japan_logo_420x237_thumb.jpg", ABC
 http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png", TV Asahi
-http://58.82.168.138:5002/hdgd06-frag26077377.ts?token=guoziyun&channel=zhongying&gid=hdgd06&range=58234414527048-58234417236880
+http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying
