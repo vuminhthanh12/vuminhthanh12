@@ -306,8 +306,6 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/10/adelaide-united-vs-cong-an-ha-noi---slide-thumb_1786329973492.jpg", Sự Kiện 3
-https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/11/chess-11-a_1786419414384.jpg", Sự Kiện 4
 https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/11/chess-11-b_1786419601541.jpg", Sự Kiện 6
@@ -450,7 +448,7 @@ https://vmttv.dpdns.org/VTVGo/?sctv21
 https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png", SCTV Phim Tổng Hợp
 https://vmttv.dpdns.org/VTVGo/?sctvphim
-#EXTINF:-1
+#EXTINF:-1 tvg-id="sctv4k"
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -881,7 +879,8 @@ https://64d0d74b76158.streamlock.net/THDTR/thdtradio/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
 #EXTINF:-1 tvg-id="hanoi96" group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2024/03/08/dai-ha-noi-5_96mhz--3-01-111727.jpg?w=450&h=270", Hà Nội FM 96
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9906
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9906
 #EXTINF:-1 tvg-id="hatinhradio" group-title="Radio" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg", Hà Tĩnh
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 tvg-id="hungyenradio" group-title="Radio" tvg-logo="http://hungyentv.vn//templates/frontend/hytv/Assets/img/backgroud-radio.jpg", Hưng Yên
@@ -987,7 +986,7 @@ http://74.91.26.218:82/live/cctv6hd.m3u8
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a6/CCTV7_tr%C6%B0%E1%BB%9Bc_2019.png/revision/latest/scale-to-width-down/1547?cb=20230104111736&path-prefix=vi", CCTV7
 http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg", CCTV8 
-http://112.123.206.32:808/hls/9/index.m3u8
+
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/CCTV-9.png/revision/latest?cb=20220111064222", CCTV9
 http://112.123.206.32:808/hls/10/index.m3u8
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmUMEKDTwahilfUCb6CEmVmyRG5vjn-1QAUQ&usqp=CAU", CCTV10
