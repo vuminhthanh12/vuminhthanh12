@@ -308,14 +308,18 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/14/16_1786648902832.jpg", Sự Kiện 4
-https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/15/boc-tham-pickleball-world-cup---slide-thumb_1786782054380.jpg", Sự Kiện 7
 https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/13/16_1786563003321.jpg", Event 5
 https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/14/16_1786648702166.jpg", Event 2 4K
 https://vips-livecdn.fptplay.net/live/media/event-02-4k/hls_avc_v6/index.m3u8?sign=1786859414-NDI5MjY2NQ-0-206d31bf2d498fd014e41f726cd12426
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/13/slider_1786589534587.jpg", Arsenal vs Manchester City (Event 35)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e
+https://vips-livecdn.fptplay.net/live/media/event-35/dash_a_drm/index.mpd
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
