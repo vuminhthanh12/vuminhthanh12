@@ -1047,7 +1047,7 @@ http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/MXep2Zc.png", CCTV15
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/CCTV-16.png/revision/latest?cb=20211107032828", CCTV16
-
+https://cdn.qd.je/163189/cctv16
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo=" https://i.imgur.com/omJsYRq.png", CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/Dmt78gy.png", CCTV4K
