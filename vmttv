@@ -369,6 +369,10 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
 https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/09/slide-thumb_1788918754810.jpg", Event 2
 https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/08/vba-playoffs-2026---slide-thumb_1788838147479.jpg", Ho Chi Minh City Wings vs Hanoi Buffaloes (4K)
+https://vips-livecdn.fptplay.net/live/media/event-01-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/08/vba-playoffs-2026---slide-thumb_1788838147479.jpg", Ho Chi Minh City Wings vs Hanoi Buffaloes (FHD)
+https://vips-livecdn.fptplay.net/live/media/event-01-4k/hls_avc_v6/index.m3u8?sign=1788955614-MDc1OTczMzQ-0-7b3ee614241c22bde2f4d6d1d5c8d1f6
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV1.jpg", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV2_ident2026.jpg", VTV2
