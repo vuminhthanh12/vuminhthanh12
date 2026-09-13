@@ -410,6 +410,8 @@ https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/event-02-4k/dash_hvc/index.mpd
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/11/finals_1789067492144.jpg", FC Online Vietnam Pro League 2026 - Chung Kết (FHD)
 https://vips-livecdn.fptplay.net/live/media/event-02-4k/hls_avc_v6/index.m3u8?sign=1789274527-MDc1OTczMzQ-0-13f38d14c7fac4175df565d3c223972a
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/10/13_1788977794136.jpg", Event 1
+https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV1.jpg", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV2_ident2026.jpg", VTV2
