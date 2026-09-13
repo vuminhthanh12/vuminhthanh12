@@ -1,4 +1,4 @@
-à#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
+#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg", Asian Games CH01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
