@@ -206,7 +206,7 @@ https://rumble.com/hls-vod/75uhgc/playlist.m3u8
 https://v7.kkphimplayer7.com/20260901/EHFkQ2Wy/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/09/11/henemngaynhatthucmeetmeattheeclipse20261920x1080s_1789101634921.jpg", Hẹn Em Ngày Nhật Thực
 https://v7.kkphimplayer7.com/20260910/Y3IBebUU/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://media.vov.vn/sites/default/files/styles/large/public/2026-07/conan-2.jpg",
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://media.vov.vn/sites/default/files/styles/large/public/2026-07/conan-2.jpg", Conan Movie 29: Thiên thần sa ngã trên sa lộ
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -333,6 +333,7 @@ https://vmttv.dpdns.org/tv360/?id=360-c2-chau-au
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-c3-chau-au
 #EXTINF:-1 group-title="Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_640_360.png", 360 Thể Thao Châu Á
+
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -423,7 +424,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_40
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV5TN.jpg", VTV5 Tây Nguyên
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6_logo2026.jpg", VTV6
-https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://vmttv.dpdns.org/VTVGo/?vtv6-hd
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV7_logo2026.jpg", VTV7
 https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="1" catchup="default" catchup-days="2", VTV8
