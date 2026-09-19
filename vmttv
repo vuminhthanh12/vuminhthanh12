@@ -1448,3 +1448,6 @@ https://luong.phaohoa.live/live/phaohoa9/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏐 KHÁN ĐÀI TV" tvg-logo="https://khandai1.link/images/logo-220.webp", BLV Văn Minh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GIO VANG TV" tvg-logo="https://giovang.asia/wp-content/uploads/2026/06/logo-footer.png", BLV Bee
+https://eqr2hdarxfliv.vcdn.cloud/1789744934_hd/1789744934_hd@720p.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GIO VANG TV" tvg-logo="https://giovang.asia/wp-content/uploads/2026/06/logo-footer.png", BLV Vịt
