@@ -415,16 +415,8 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/17/19_1789578296990.jpg", Event 1
-https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/19/19_1789759398420.jpg", Event 5
-https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/16/slide-thumb_1789543070768.jpg", Event 6
-https://vips-livecdn.fptplay.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/16/slide-thumb_1789543070768.jpg", Hanoi Buffaloes vs Saigon Heat (4K)
-https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/dash_hvc/index.m3u8?sign=1789823634-MDc1OTczMzQ-0-9a311b22b11296e64dfece4419e7fbbb
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/16/slide-thumb_1789543070768.jpg", Hanoi Buffaloes vs Saigon Heat (FHD)
-https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8?sign=1789823634-MDc1OTczMzQ-0-9a311b22b11296e64dfece4419e7fbbb
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/17/slide-thumb_1789634483507.jpg", Sự Kiện 3
+https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
@@ -450,7 +442,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_56000
 https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/11.png", VTV9
 https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="1", VTV10
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/12.png", VTV10
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg", ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
