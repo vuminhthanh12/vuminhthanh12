@@ -1,4 +1,17 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/sports_epg.xml"
+#EXTINF:-1 tvg-id="match.bournemouth.liverpool" group-title="Premier League" tvg-logo="https://fatifefote.shorts.gy/TQKWJ", Bournemouth vs Liverpool - Matchday 5
+https://livesport.io.vn/event.php?id=sd-6MwdqQhYV6CWrh7pSj
+EXTINF:-1 tvg-id="match.mancity.sunderland" group-title="Premier League" tvg-logo="https://relu.shorts.gy/YPIoh", Man City vs Sunderland - Matchday 5
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13660a5afc89f7e6224f09e9a5754eb3:e0dae7e9bebafb0c3c6fbe9e479e9b57
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xnwsoqpd2s/out/v1/0ed8f1ef083a45f5a6c383a3cc0e666b/cenc.mpd
+#EXTINF:-1 tvg-id="match.leeds.crystalpalace" group-title="Premier League" tvg-logo="https://sojicacivehe.shorts.gy/kQQDr", Leeds United vs Crystal Palace - Matchday 5
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Subsystem for Android(TM) Build/TQ3A.230901.001)"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 #EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg", Asian Games CH01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
