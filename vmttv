@@ -35,6 +35,8 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=593abb95b362434f812e42e7780779b0:dd7e80e1d618d69631f21d04423dcab7
 https://tglmp02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd
+#EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260923/2026092323/Q7uO3MlXbK-sang1.webp&width=1080", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 24/9 | Luồng 1
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skytennis" tvg-logo="https://e0.365dm.com/24/01/2048x1152/skysports-sky-sports-tennis_6437040.jpg",Sky Sport Tennis
