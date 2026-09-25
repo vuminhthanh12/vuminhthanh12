@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg", Bangladesh vs Malaysia
-https://livesport.io.vn/event.php?id=sd-6MxipX7m8CiE2rNGsR_md
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg", ViuTV Six
+https://cdn.qd.je/163189/viu6
 #EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg", Asian Games CH01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -432,6 +432,8 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
 https://vips-livecdn.fptplay.net/live/media/event-02-4k/dash_hvc/index.mpd
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/25/25_1790275790052.jpg", FC Online Invitational Cup 2026 - Ngày 25/09 (FHD)
 https://vips-livecdn.fptplay.net/live/media/event-02-4k/hls_avc_v6/index.m3u8?sign=1790309994-MDc1OTczMzQ-0-5389ea89b2cb2df3d727e4ad2c2d64e4
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/22/thumbnail-live-1_1790043218068.jpg", Event 1
+https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
