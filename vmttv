@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg", Bangladesh vs Malaysia
+https://livesport.io.vn/event.php?id=sd-6MxipX7m8CiE2rNGsR_md
 #EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg", Asian Games CH01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
