@@ -37,7 +37,7 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 https://tglmp02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd
 #EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260928/2026092823/doXSP437XJ-Luong1Chieu29.9.webp&width=1080", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 29/9 | Luồng 1
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1_1080p/chunks.m3u8
-#EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260928/2026092823/IB580vU7Qd-Luong2Sang29.9.webp&width=1080", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 29/9 | Luồng 2
+#EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260928/2026092823/Db5HtXmCdh-Luong2Chieu29.9.webp&width=1080", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 29/9 | Luồng 2
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2_1080p/chunks.m3u8
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
@@ -476,7 +476,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ONPHIMVIET.png", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd
-#EXTINF:-1 tvg-id="onsports"
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab"
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onmovies.png", On Movies - You TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=181
@@ -517,7 +517,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://r2.epg.io.vn/2026-09-17/33.png", On Golf
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://r2.epg.io.vn/2026-09-17/33.png", On Golf (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png", SCTV1
