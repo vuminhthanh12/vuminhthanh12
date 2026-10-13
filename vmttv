@@ -927,7 +927,7 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=10846
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/hgtv.png", HGTV
 https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
 #EXTINF:-1 tvg-id="vov1" group-title="Radio" tvg-logo="https://admin.vov.gov.vn/UploadFolder/KhoTin/Images/UploadFolder/VOVVN/Images/sites/default/files/2024-02/vov1.jpg", VOV1
-
+https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov1.m3u8
 #EXTINF:-1 tvg-id="vov2" group-title="Radio" tvg-logo="https://vov2.vov.vn/themes/custom/vov_news/logo.png", VOV2
 https://audio-lss.vov.vn/han/live/vov2/audio/haudio-eng.m3u8
 #EXTINF:-1 tvg-id="vov3" group-title="Radio" tvg-logo="https://vov3.vov.vn/sites/default/files/styles/front_medium/public/2021-12/Logo%20VOV3%20800x600%20edit.jpg", VOV3
