@@ -182,7 +182,7 @@ https://rumble.com/hls-vod/lDgA-kgokls/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/09/30/phadamsinhnhatmerebirthday20251920x1080_1790760696285.jpg", Phá Đám: Sinh Nhật Mẹ
 https://rumble.com/hls-vod/I43eXt8DNJE/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/10/12/baytienthefataldealz20261920x10801_1791800464791.jpg", Bẫy Tiền: Cú Lừa Tiền Tỉ
-
+https://a.kvp726.com/20261013/cbcYptZk/3500kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -492,7 +492,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inpustream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=177
