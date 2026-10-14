@@ -686,7 +686,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=34
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=89
 #EXTINF:-1 tvg-id="quangninh1" group-title="Địa phương" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/QTV1.jpg", QTV1 HD - Báo và PTTH Thành Phố Quảng Ninh
-https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
+https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/chunklist.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/cTNt-U1akXw/hq720.jpg", QTV3 HD - Báo và PTTH Thành Phố Quảng Ninh
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL1.webp", THVL1 - Báo và PTTH Vĩnh Long
