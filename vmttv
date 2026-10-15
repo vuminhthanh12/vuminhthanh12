@@ -432,7 +432,7 @@ https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=1
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8?sign=1792080947-MDc1OTczMzQ-0-5296ed45801e5d904307db15a6ec020f
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/5.png" , VTV5
-https://freem3u.xyz/api/live/play.m3u8?vid=110
+https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8?sign=1792084848-MDc1OTczMzQ-0-de7696f0b733d6af36164851350a2167
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/6.png", VTV5 Tây Nam Bộ
 https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8?sign=1792081054-MDc1OTczMzQ-0-a3430445c2acf1793fd5a97cc3152200
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/7.png", VTV5 Tây Nguyên
