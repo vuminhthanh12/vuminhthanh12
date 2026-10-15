@@ -426,9 +426,9 @@ https://live-a.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8?sign=17
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8?sign=1792070865-MA-0-49f87e97b9d8564bf2a82ed5a680245e
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
-https://live-a.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8?sign=1792070865-MA-0-49f87e97b9d8564bf2a82ed5a680245e
+https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8?sign=1792075000-MDc1OTczMzQ-0-8dbbbcdbb17a23a0f2192ae2b39c05f3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/3.png", VTV3
-https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8?sign=1792070865-MA-0-49f87e97b9d8564bf2a82ed5a680245e
+https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8?sign=1792070865-MA-0-49f87e97b9d8564bf2a82ed5a680245e
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/4.png" , VTV4
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
