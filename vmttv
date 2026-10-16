@@ -421,18 +421,10 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS5/Live_DASHDRM/SKSS5.mpd
 https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd
 #EXTINF:-1 tvg-id="fptplayttgt" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/channels/OTT_ECS/2026/09/22/fill-bg-logo-410x230_1790071429252.jpg", FPT PLAY CHUỖI THỂ THAO - GIẢI TRÍ
 https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/fptplay-avc1_5600000=10000-mp4a_131600=20000.m3u8?sign=1792132030-MDc1OTczMzQ-0-a3030364770df213e8109968df9bf6cd
-#EXTINF:-1 tvg-id="fpt-event-su-kien-29" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/slide-thumb_1791951530823.jpg", Sự Kiện 2
-https://event-a.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8?sign=1792130140-MDc1OTczMzQ-0-117803db4ada5f2b242b8c6b51df3927
 #EXTINF:-1 tvg-id="fpt-event-event-02" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/16_1791999869440.jpg", Event 2
 https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8?sign=1792130863-MDc1OTczMzQ-0-8dca62e689940acb4762b73fa66d1b17
 #EXTINF:-1 tvg-id="fpt-event-event-20" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/slide-thumb_1791950976943.jpg", Event 3
 https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8?sign=1792132287-MDc1OTczMzQ-0-9dfd59c211db3e39fa2ff70e6a1ec9dc
-#EXTINF:-1 tvg-id="fpt-event-event-01-4k" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/16_1791999220885.jpg", FC Pro Champions Cup 2026 - Ngày 16/10 (4K)
-https://vips-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_hvc/index.m3u8?sign=1792143370-MDc1OTczMzQ-0-a3bbec23bef2fa71224b5a51472d54c1
-#EXTINF:-1 tvg-id="fpt-event-event-01-4k" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/16_1791999220885.jpg", FC Pro Champions Cup 2026 - Ngày 16/10 (FHD)
-https://vips-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_avc_v6/index.m3u8?sign=1792143370-MDc1OTczMzQ-0-a3bbec23bef2fa71224b5a51472d54c1
-#EXTINF:-1 tvg-id="fpt-event-event-18" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/thumbnail-live_1791943108805.jpg", Event 1
-https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8?sign=1792144454-MDc1OTczMzQ-0-af49e6da00328cf3a1f2a6a7257658a0
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
