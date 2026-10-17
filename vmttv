@@ -420,9 +420,7 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS5/Live_DASHDRM/SKSS5.mpd
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd
 #EXTINF:-1 tvg-id="fptplayttgt" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/channels/OTT_ECS/2026/09/22/fill-bg-logo-410x230_1790071429252.jpg", FPT PLAY CHUỖI THỂ THAO - GIẢI TRÍ
-
-#EXTINF:-1 tvg-id="fpt-event-su-kien-29" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/slide-thumb_1791951749196.jpg", Sự Kiện 2
-https://live-a.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8?sign=1792219906-MDc1OTczMzQ-0-7acf722378d6669a1eaf40ad434e4220
+https://live-a.fptplay53.net/live/media/fptplay/live247-hls-avc/index.m3u8?sign=1792227072-MDc1OTczMzQ-0-c4bae50e5eee89a76e45729de8bc8fee
 #EXTINF:-1 tvg-id="fpt-event-event-02" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/17_1791999985552.jpg", Event 2
 https://live-a.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8?sign=1792219620-MDc1OTczMzQ-0-3a67dfcfa36da922686a334d90cb4c08
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
