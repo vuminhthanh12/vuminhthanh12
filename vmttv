@@ -420,7 +420,7 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS5/Live_DASHDRM/SKSS5.mpd
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd
 #EXTINF:-1 tvg-id="fptplayttgt" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/channels/OTT_ECS/2026/09/22/fill-bg-logo-410x230_1790071429252.jpg", FPT PLAY CHUỖI THỂ THAO - GIẢI TRÍ
-https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/fptplay-avc1_5600000=10001-mp4a_131600=20000.m3u8?sign=1792253105-MDc1OTczMzQ-0-39449bbe11a9f5cbfefefacf65ee60d7
+https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/fptplay-avc1_5600000=10001-mp4a_131600=20000.m3u8?sign=1792251215-MDc1OTczMzQ-0-c36537271e3149963e5201c0f5904083
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
