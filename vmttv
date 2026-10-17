@@ -423,7 +423,7 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd
 https://live-a.fptplay53.net/live/media/fptplay/live247-hls-avc/index.m3u8?sign=1792227072-MDc1OTczMzQ-0-c4bae50e5eee89a76e45729de8bc8fee
 #EXTINF:-1 tvg-id="fpt-event-event-02" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/17_1791999985552.jpg", Event 2
 https://live-a.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8?sign=1792219620-MDc1OTczMzQ-0-3a67dfcfa36da922686a334d90cb4c08
-#EXTINF:-1 tvg-id="
+#EXTINF:-1 tvg-id="fpt-event-event-20" group-title="Sự Kiện FPT PLAY" tvg-logo="
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
