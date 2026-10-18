@@ -427,7 +427,7 @@ https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/index.m3u8?s
 https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8?sign=1792292852-MDc1OTczMzQ-0-151f70f2671fc57881f14bf032408cb1
 #EXTINF:-1 tvg-id="fpt-event-event-20" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/18/slide-thumb_1792258248135.jpg", Event 3
 https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8?sign=1792298858-MDc1OTczMzQ-0-ab97801cf823ac724f185e33756e0333
-#EXTINF:-1 tvg-id="fpt-event-event-02" group-title="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/18_1792000144770.jpg", Event 2
+#EXTINF:-1 tvg-id="fpt-event-event-02" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/18_1792000144770.jpg", Event 2
 https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8?sign=1792301061-MDc1OTczMzQ-0-c14b63c53ed5dad50586f657282d6e5a
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
