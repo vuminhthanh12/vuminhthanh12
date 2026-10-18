@@ -431,6 +431,8 @@ https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8?sign=
 https://vips-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_hvc/index.m3u8?sign=1792313646-MDc1OTczMzQ-0-be3426ef37d5f7ce8282210405a8cd45
 #EXTINF:-1 tvg-id="fpt-event-event-01-4k" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/15/18_1791999431342.jpg", FC Pro Champions Cup 2026 - Chung Kết (FHD)
 https://vips-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_avc_v6/index.m3u8?sign=1792314219-MDc1OTczMzQ-0-e9225a80886824b565054e14db89624d
+#EXTINF:-1 tvg-id="fpt-event-event-18" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/thumbnail-live_1791944603198.jpg", Event 1
+https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8?sign=1792314368-MDc1OTczMzQ-0-4fa69c9431dd3ebc322ee71bca3f1050
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
