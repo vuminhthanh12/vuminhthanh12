@@ -425,6 +425,8 @@ https://qipmgzougxliv.vcdn.cloud/app/stream/master.m3u8
 https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/index.m3u8?sign=1792280283-MDc1OTczMzQ-0-f2016d3c0e1c21036b8d187ee7298a63
 #EXTINF:-1 tvg-id="fpt-event-su-kien-30" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/16/slide-thumb_1792135758516.jpg", Sự Kiện 3
 https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8?sign=1792283869-MDc1OTczMzQ-0-0ed9e2c20bd4ede34f3c89103b0b990b
+#EXTINF:-1 tvg-id="fpt-event-su-kien-29" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/14/slide-thumb_1791951891540.jpg", Sự Kiện 2
+https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8?sign=1792292852-MDc1OTczMzQ-0-151f70f2671fc57881f14bf032408cb1
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
@@ -620,7 +622,7 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/WO/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 - Vie Channel
-https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
+https://freem3u.xyz/api/live/play.m3u8?vid=191
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV3.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3 - Báo và PTTH Thành Phố Hồ Chí Minh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=192
@@ -948,7 +950,7 @@ https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-
 https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov3.m3u8
 #EXTINF:-1 tvg-id="vov4tn" group-title="Radio" tvg-logo="https://adminmedia.kythuatvov.vn/uploads/images/channels/659b09371df0b442c6efa4b78e6c27b1.png", VOV4 Tây Nguyên
 https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/chunklist_w762538826.m3u8
-#EXTINF:-1 tvg-id="
+#EXTINF:-1 tvg-id="vov4mt"
 #EXTINF:-1 tvg-id="vov5" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp", VOV5
 https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthn" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671787624.png.webp", VOV Giao thông Hà Nội
