@@ -187,7 +187,8 @@ https://a.kvp726.com/20261013/cbcYptZk/3500kb/hls/index.m3u8
 https://a.kvp726.com/20261026/2clev3ZX/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/10/23/duoidayhothelake20251920x1080s_1792750430617.jpg", Dưới Đáy Hồ
 https://a.kvp726.com/20261030/PhvUF3XB/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261030/2026103005/5b5e9ab9-d1f0-49d0-8ae4-6fea127f65ea-1-2560x1440.jpg&width=1080", Kế Hoạch CM12 - Tập 1
+
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
