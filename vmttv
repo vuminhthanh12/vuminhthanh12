@@ -444,7 +444,8 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS5/Live_DASHDRM/SKSS5.mpd
 https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 188
 https://qipmgzougxliv.vcdn.cloud/app/stream/master.m3u8
-#EXTINF:-1 group-title="Sự Kiện VTVGo" tvg-logo="
+#EXTINF:-1 group-title="Sự Kiện VTVGo" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/07/391528cc-4e3e-45ec-9107-383290b1dd27-ok1920-x-1080-px--2560x1440.jpg&width=1280", Chung Kết Đấu Trường Danh Vọng Mùa Đông 2026
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/1.png?w=800&fit=scale-down&q=85", VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/2.png?w=800&fit=scale-down&q=85", VTV2
