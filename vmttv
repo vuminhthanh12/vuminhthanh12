@@ -321,7 +321,7 @@ https://vmttv.dpdns.org/tv360/?id=360-phim-4k
 https://vmttv.dpdns.org/tv360/?id=360-mr-bean
 #EXTINF:-1 tvg-id="360doraemon" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859203131/6878ad4f88c0_640_360.png", 360 Doraemon
 https://vmttv.dpdns.org/tv360/?id=360-doraemon
-#EXTINF:-1 tvg-id="360songkhoe" group-title="Giải Trí" tvg-logo="
+#EXTINF:-1 tvg-id="360songkhoe" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859801499/e3bcb47a3b1b_640_360.png",
 #EXTINF:-1 group-title="Thể Thao" tvg-logo=" https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_640_360.png", 360 C1 Châu Âu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
@@ -444,8 +444,6 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS5/Live_DASHDRM/SKSS5.mpd
 https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 188
 https://qipmgzougxliv.vcdn.cloud/app/stream/master.m3u8
-#EXTINF:-1 group-title="Sự Kiện VTVGo" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/07/391528cc-4e3e-45ec-9107-383290b1dd27-ok1920-x-1080-px--2560x1440.jpg&width=1280", Chung Kết Đấu Trường Danh Vọng Mùa Đông 2026
-https://events.vtvdigital.vn/livestream/esports5-1080p50fps2.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/1.png?w=800&fit=scale-down&q=85", VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/2.png?w=800&fit=scale-down&q=85", VTV2
