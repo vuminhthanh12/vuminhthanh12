@@ -247,7 +247,7 @@ https://vmttv.dpdns.org/tv360/?id=tv360-7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a08bd3a8c565cdfa4e01a0273915f40:d956d96ac3799d42441f582ec12f10df
+#KODIPROP:inputstream.adaptive.license_key=72a793a108f04d68858f2075616b6b98:76650cf89c991b0d26e9c50de2087891
 https://vmttv.dpdns.org/tv360/?id=tv360-8
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -321,7 +321,7 @@ https://vmttv.dpdns.org/tv360/?id=360-phim-4k
 https://vmttv.dpdns.org/tv360/?id=360-mr-bean
 #EXTINF:-1 tvg-id="360doraemon" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859203131/6878ad4f88c0_640_360.png", 360 Doraemon
 https://vmttv.dpdns.org/tv360/?id=360-doraemon
-#EXTINF:-1 tvg-id="360songkhoe" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859801499/e3bcb47a3b1b_640_360.png",
+#EXTINF:-1 tvg-id="360songkhoe" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859801499/e3bcb47a3b1b_640_360.png", 360 Sống Khỏe
 #EXTINF:-1 group-title="Thể Thao" tvg-logo=" https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_640_360.png", 360 C1 Châu Âu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
