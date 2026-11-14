@@ -150,7 +150,7 @@ https://rumble.com/hls-vod/sCHY3k5K0LI/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/11/e03c0469-5c70-425e-9569-034995d7157f-9-2560x1440.jpg&width=1280", Kế Hoạch CM12 - Tập 9
 https://rumble.com/hls-vod/9vEQSm64sgk/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/12/375356ad-c473-44cf-b3e9-652b67c3e652-10-2560x1440.jpg&width=1280", Kế Hoạch CM12 - Tập 10
-
+https://rumble.com/hls-vod/28UlFRwWjmM/playlist.m3u8
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -273,7 +273,7 @@ https://vmttv.dpdns.org/tv360/?id=360-mr-bean
 https://vmttv.dpdns.org/tv360/?id=360-doraemon
 #EXTINF:-1 tvg-id="360songkhoe" group-title="Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859801499/e3bcb47a3b1b_640_360.png", 360 Sống Khỏe
 https://vmttv.dpdns.org/tv360/?id=360-song-khoe
-#EXTINF:-1
+#EXTINF:-1 tvg-id="
 #EXTINF:-1 group-title="Thể Thao" tvg-logo=" https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_640_360.png", 360 C1 Châu Âu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
